@@ -8,6 +8,7 @@
 4. `materi/contoh-script-bab-14-senin-ringkas.md` — **patokan format yang sudah disetujui pengguna**.
 5. `contoh-kasar.md` — cuplikan gaya interaksi yang diinginkan.
 6. `materi-minna-no-nihonggo.md` dan kosakata bab terkait pada PDF — cakupan materi serta batas bahasa siswa.
+7. `dasar/` — pegangan hafalan sensei (bilangan, jam, tanggal, counter, partikel, perubahan bentuk, dll.). Rujuk untuk mengecek bacaan dan bentuk dasar; jangan salin ulang tabelnya ke skrip.
 
 ## Hal yang harus dipertahankan
 
