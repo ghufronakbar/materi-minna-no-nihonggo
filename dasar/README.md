@@ -13,7 +13,7 @@ Folder ini berisi hal dasar yang sering perlu dijawab cepat di kelas: bacaan ang
 | [03-hari-minggu-dan-waktu-relatif.md](03-hari-minggu-dan-waktu-relatif.md) | Nama hari, kemarin–lusa, minggu/bulan/tahun lalu–depan, kapan memakai に | 4–6 |
 | [04-tanggal-bulan-tahun-dan-musim.md](04-tanggal-bulan-tahun-dan-musim.md) | 〜月, tanggal 1–31, tahun, 令和・平成, musim | 4, 5, 12 |
 | [05-durasi-dan-frekuensi.md](05-durasi-dan-frekuensi.md) | 〜時間, 〜日, 〜週間, 〜か月, 〜年, 〜回, いつも〜ぜんぜん | 6, 11 |
-| [06-kata-bantu-bilangan.md](06-kata-bantu-bilangan.md) | 〜つ, 〜人, 〜枚, 〜台, 〜本, 〜杯, 〜匹, 〜冊, 〜個, 〜階, 〜歳, pola perubahan bunyi | 1, 3, 11 |
+| [06-kata-bantu-bilangan.md](06-kata-bantu-bilangan.md) | 〜つ, 〜人, 〜枚, 〜台, 〜本, 〜杯, 〜匹, 〜冊, 〜個, 〜階, 〜歳; padanan Indonesia, arti kanji, cara menghafal, pola perubahan bunyi | 1, 3, 11 |
 | [07-kata-tanya.md](07-kata-tanya.md) | なん/なに, kata tanya + も/か, menjawab pertanyaan pilihan | 1–13 |
 | [08-kosoado.md](08-kosoado.md) | これ・この・ここ・こちら・こんな・こう dan pasangannya | 2, 3, 8 |
 | [09-keluarga.md](09-keluarga.md) | Sebutan keluarga sendiri dan keluarga orang lain | 7, 11 |
@@ -21,7 +21,7 @@ Folder ini berisi hal dasar yang sering perlu dijawab cepat di kelas: bacaan ang
 | [11-salam-dan-ungkapan-kelas.md](11-salam-dan-ungkapan-kelas.md) | Aisatsu, 教室のことば, ungkapan tempat kerja | Pengantar, 1–7 |
 | [12-partikel.md](12-partikel.md) | Fungsi partikel per bab dan pasangan yang sering tertukar | 1–21 |
 | [13-kata-sifat.md](13-kata-sifat.md) | Perubahan い/な, いい→よくない, な yang berakhiran い, warna | 8, 12, 16, 19, 20 |
-| [14-perubahan-kata-kerja.md](14-perubahan-kata-kerja.md) | Grup I/II/III, bentuk ます・て・ない・辞書・た, bentuk biasa | 4, 14, 17–20 |
+| [14-perubahan-kata-kerja.md](14-perubahan-kata-kerja.md) | Grup I/II/III (godan/ichidan), bentuk ます・て・ない・辞書・た, bentuk biasa, arti dan cara menghafal pengecualian | 4, 14, 17–20 |
 | [15-negara-bahasa-dan-pekerjaan.md](15-negara-bahasa-dan-pekerjaan.md) | 〜人, 〜語, nama negara, pekerjaan, perkenalan diri | 1, 3 |
 
 ## Cara memakai

@@ -12,11 +12,48 @@
 
 | Grup | Ciri bunyi sebelum ます | Contoh |
 |---|---|---|
-| **I** | baris い: き・ぎ・し・ち・に・び・み・り・い | かきます (menulis), のみます (minum), かえります (pulang), かいます (membeli) |
-| **II** | baris え | たべます (makan), ねます (tidur), みせます (memperlihatkan) + 8 kata baris い ★ |
-| **III** | します, きます (来ます), N＋します | べんきょうします (belajar), コピーします (memfotokopi) |
+| **I** (godan) | baris い: き・ぎ・し・ち・に・び・み・り・い | かきます (menulis), のみます (minum), かえります (pulang), かいます (membeli) |
+| **II** (ichidan) | baris え | たべます (makan), ねます (tidur), みせます (memperlihatkan) + 8 kata baris い ★ |
+| **III** (tak beraturan) | します, きます (来ます), N＋します | べんきょうします (belajar), コピーします (memfotokopi) |
 
 **Kabar baiknya:** dari bentuk ます, pengecualian hanya ke satu arah. Bunyi baris え sebelum ます selalu Grup II; yang perlu dihafal hanya delapan kata baris い yang ternyata Grup II (bagian khusus no. 1).
+
+## Istilah lain: godan, ichidan, dan tak beraturan
+
+Minna no Nihongo memakai Grup I/II/III. Kamus, aplikasi, dan buku tata bahasa lain memakai istilah berikut untuk kelompok yang sama.
+
+| Minna no Nihongo | Istilah Jepang | Bacaan | Istilah Inggris | Contoh |
+|---|---|---|---|---|
+| Grup I | 五段動詞 | ごだんどうし | godan verb, u-verb | 書く, 飲む, 帰る |
+| Grup II | 一段動詞: 上一段・下一段 | いちだんどうし: かみいちだん・しもいちだん | ichidan verb, ru-verb | 見る, 起きる; 食べる, 寝る |
+| Grup III | 不規則動詞: カ変・サ変 | ふきそくどうし: かへん・さへん | irregular verb | 来る; する |
+
+### Arti nama
+
+**五段 (godan) = “lima tingkat”.** Bunyi akhir kata kerja berpindah ke **kelima** baris vokal あ・い・う・え・お:
+
+| Baris | 書く | Bentuk | Arti | Bab |
+|---|---|---|---|---|
+| あ | か | 書かない | tidak menulis | 17 |
+| い | き | 書きます | menulis (sopan) | 4 |
+| う | く | 書く | menulis (kamus) | 18 |
+| え | け | 書けます／書けば | bisa menulis / jika menulis | 27 / 35 |
+| お | こ | 書こう | ayo menulis | 31 |
+
+**一段 (ichidan) = “satu tingkat”.** Bagian depan tidak berubah sama sekali; akhiran tinggal ditempel: 食べ＋ない／ます／る／た／れば／よう. Bunyinya tetap di **satu** baris (べ).
+
+- **上一段 (kami-ichidan, “satu tingkat atas”):** bunyi sebelum る dari baris い — 見る, 起きる, 借りる. Pada tabel あいうえお yang ditulis tegak, い berada **di atas** う. Inilah delapan kata “cerita pagi” (bagian khusus no. 1).
+- **下一段 (shimo-ichidan, “satu tingkat bawah”):** bunyi sebelum る dari baris え — 食べる, 寝る, 見せる. え berada **di bawah** う.
+
+**不規則 (fukisoku) = “tidak beraturan”.** Hanya dua: 来る (カ変, perubahan baris か: こ・き・く) dan する (サ変, perubahan baris さ: し・す・せ), termasuk N＋する.
+
+### Cara menghafal
+
+- **Go = 5, ichi = 1** (angka Jepang): godan berubah di **lima** baris, ichidan diam di **satu** baris.
+- **u-verb vs ru-verb:** godan berakhiran macam-macam bunyi う (く・ぐ・す・つ・ぬ・ぶ・む・る・う); ichidan selalu berakhiran **いる／える** dan cukup “buang る”.
+- **Atas–bawah:** い di atas う → 上一段; え di bawah う → 下一段.
+- **Waspada:** “ru-verb” bukan berarti semua kata berakhiran る. 帰る・入る・走る・知る・切る・要る berakhiran る tetapi **godan** (bagian khusus no. 2).
+- Di kelas, pakai istilah **Grup I/II/III** agar sama dengan buku. Istilah godan/ichidan dibutuhkan saat siswa memakai kamus daring, yang biasanya menandai *Godan verb* / *Ichidan verb* (kadang disingkat v5〜 / v1).
 
 ## Tabel bentuk utama
 
