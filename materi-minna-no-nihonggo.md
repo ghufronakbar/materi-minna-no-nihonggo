@@ -1,4 +1,23 @@
-Berikut **peta materi seluruh Bab 1–25 buku *Minna no Nihongo Shokyū I*（みんなの日本語 初級Ⅰ）**, menggunakan **edisi ke-2** sebagai acuan. Saya merangkum tema dalam bahasa Indonesia berdasarkan daftar isi dan silabus resmi penerbit 3A Network. [スリーエーネットワーク](https://www.3anet.co.jp/np/books/2300/?utm_source=chatgpt.com)
+# Peta materi Minna no Nihongo I — Bab 1–25
+
+Berikut **peta materi seluruh Bab 1–25 buku *Minna no Nihongo Shokyū I*（みんなの日本語 初級Ⅰ）**, menggunakan **edisi ke-2** sebagai acuan. Tema dirangkum dalam bahasa Indonesia berdasarkan daftar isi dan silabus penerbit 3A Network. [スリーエーネットワーク](https://www.3anet.co.jp/np/books/2300/?utm_source=chatgpt.com)
+
+Dokumen ini menjadi acuan **cakupan materi dan pemilihan bekal recall**. Tata cara mengajar mengikuti `01-teaching-rules.md`, format mengikuti `02-script-guidelines.md`, dan patokannya adalah `materi/contoh-script-bab-14-senin-ringkas.md`. Rumus pada tabel ini adalah referensi guru, bukan materi untuk ditampilkan langsung di awal kelas.
+
+## Memilih materi untuk recall
+
+Periksa dahulu materi pertemuan sebelumnya yang benar-benar sudah diajarkan, kemudian pilih bekal dari bab lama yang berkaitan dengan topik baru. Hubungan berikut adalah contoh; sesuaikan dengan kemajuan kelas.
+
+| Bab tujuan | Bekal lama yang relevan | Batas saat menyusun recall |
+|---|---|---|
+| 14 | Bentuk ます (4), kata gerak (5), objek を dan kata kerja kegiatan (6); jika terakhir Bab 13, ulangi keinginan dan tujuan pergi. | Bentuk て masih baru jika belum diajarkan. |
+| 17 | Kata kerja/objek (4/6) dan permintaan positif (14). | Bentuk ない serta ungkapan kewajiban diperkenalkan pada bab ini. |
+| 21 | Bentuk biasa (20), termasuk bentuk kata sifat dan lampau yang terkait (8/12). | Pendapat dan kutipan menjadi materi baru, bukan syarat masuk. |
+| 24 | Sudut pemberi/penerima (7) dan bentuk て (14). | Pemberian bantuan dengan てあげます・てもらいます・てくれます baru dikembangkan di bab ini. |
+
+Di skrip, ubah pilihan bekal tersebut menjadi pertanyaan, kemungkinan jawaban, dan tindak lanjut saat siswa lupa. Tidak perlu mengulang semua bab yang lebih awal.
+
+## Cakupan per bab
 
 Keterangan: **N** = kata benda; **V** = kata kerja; **Aい/Aな** = kata sifat い/な; **pangkal V** = bentuk ます yang dibuang bagian ます-nya, misalnya 食べます → 食べ.
 
