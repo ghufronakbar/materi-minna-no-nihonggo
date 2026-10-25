@@ -10,6 +10,10 @@
 6. `materi-minna-no-nihonggo.md` dan kosakata bab terkait pada PDF — cakupan materi serta batas bahasa siswa.
 7. `dasar/` — pegangan hafalan sensei (bilangan, jam, tanggal, counter, partikel, perubahan bentuk, dll.). Rujuk untuk mengecek bacaan dan bentuk dasar; jangan salin ulang tabelnya ke skrip.
 
+## Membuat soal tes
+
+Untuk tes kotoba, post test, dan kunci jawaban per bab, ikuti `03-soal-guidelines.md`, dengan `soal/bab-15/` sebagai patokan format. Skill `/buat-soal <bab>` menjalankan alur ini dari awal sampai PDF jadi.
+
 ## Hal yang harus dipertahankan
 
 - Tulis dalam bahasa Indonesia dengan dialog Jepang yang benar dan sesuai materi siswa.
