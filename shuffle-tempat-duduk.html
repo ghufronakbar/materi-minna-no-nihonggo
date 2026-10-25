@@ -1,0 +1,542 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>Acak Tempat Duduk</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #111;
+    --paper: #FFF6E5;
+    --yellow: #FFD23F;
+    --pink: #FF6B9D;
+    --cyan: #3BCEAC;
+    --blue: #5B8CFF;
+    --orange: #FF8A3D;
+    --lime: #B8F35A;
+    --purple: #B98CFF;
+    --border: 4px solid var(--ink);
+    --shadow: 6px 6px 0 var(--ink);
+    --seat: clamp(56px, min(11.5vw, 12vh), 128px);
+    --gap: clamp(8px, 1.6vw, 18px);
+  }
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  html, body { margin: 0; }
+  body {
+    background: var(--paper);
+    background-image: radial-gradient(var(--ink) 1.2px, transparent 1.2px);
+    background-size: 22px 22px;
+    color: var(--ink);
+    font-family: "Space Grotesk", system-ui, -apple-system, sans-serif;
+    min-height: 100vh;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+  .wrap { max-width: 1200px; margin: 0 auto; padding: 16px; }
+
+  /* ---------- Header ---------- */
+  header {
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 12px; flex-wrap: wrap; margin-bottom: 16px;
+  }
+  h1 {
+    font-family: "Archivo Black", "Arial Black", sans-serif;
+    font-size: clamp(22px, 3.6vw, 40px);
+    margin: 0; line-height: 1;
+    background: var(--yellow); border: var(--border); box-shadow: var(--shadow);
+    padding: 10px 16px; transform: rotate(-1.5deg);
+  }
+  h1 small { font-family: "Space Grotesk", sans-serif; font-size: .45em; display: block; margin-top: 4px; }
+  .controls { display: flex; gap: 12px; flex-wrap: wrap; }
+  button {
+    font: inherit; font-weight: 700; cursor: pointer; color: var(--ink);
+    border: var(--border); box-shadow: var(--shadow);
+    background: #fff; padding: 12px 18px; font-size: clamp(14px, 1.8vw, 18px);
+    transition: transform .08s, box-shadow .08s;
+  }
+  button:active:not(:disabled) { transform: translate(6px, 6px); box-shadow: 0 0 0 var(--ink); }
+  button:disabled { opacity: .45; cursor: not-allowed; }
+  #btnShuffle {
+    background: var(--pink); font-family: "Archivo Black", sans-serif;
+    font-size: clamp(18px, 2.6vw, 28px); padding: 14px 28px; letter-spacing: 1px;
+  }
+
+  /* ---------- Classroom ---------- */
+  .room {
+    background: #fff; border: var(--border); box-shadow: 10px 10px 0 var(--ink);
+    padding: clamp(14px, 2.5vw, 28px); position: relative; overflow: hidden;
+  }
+  .board {
+    margin: 0 auto 10px; width: min(70%, 640px);
+    background: #1F3B2D; color: #fff; border: var(--border); box-shadow: var(--shadow);
+    text-align: center; padding: 12px; font-family: "Archivo Black", sans-serif;
+    font-size: clamp(14px, 2vw, 22px); letter-spacing: 2px;
+  }
+  .desk {
+    margin: 0 auto 22px; width: max-content;
+    background: var(--orange); border: var(--border); box-shadow: 4px 4px 0 var(--ink);
+    padding: 6px 18px; font-weight: 700; font-size: clamp(12px, 1.5vw, 16px);
+  }
+  .rows { display: flex; flex-direction: column; gap: var(--gap); align-items: center; }
+  .row { display: flex; align-items: center; gap: var(--gap); }
+  .row-label {
+    width: clamp(54px, 7vw, 84px); flex: none;
+    font-family: "Archivo Black", sans-serif; font-size: clamp(12px, 1.6vw, 18px);
+    background: var(--ink); color: #fff; padding: 8px 4px; text-align: center; line-height: 1.1;
+  }
+  .row-label small { display: block; font-family: "Space Grotesk", sans-serif; font-weight: 700; font-size: .65em; margin-top: 3px; color: var(--yellow); }
+  .seats { display: flex; gap: var(--gap); width: calc(var(--seat) * 6 + var(--gap) * 5); justify-content: center; }
+
+  .seat {
+    width: var(--seat); height: var(--seat);
+    border: var(--border); box-shadow: var(--shadow);
+    background: var(--c, #fff); position: relative; cursor: pointer;
+    display: grid; place-items: center;
+    font-family: "Archivo Black", sans-serif; font-size: calc(var(--seat) * .44);
+    transition: transform .1s, box-shadow .1s;
+  }
+  .seat:active { transform: translate(4px, 4px); box-shadow: 2px 2px 0 var(--ink); }
+  .seat .code {
+    position: absolute; top: 4px; left: 6px;
+    font-family: "Space Grotesk", sans-serif; font-weight: 700;
+    font-size: calc(var(--seat) * .13); opacity: .7;
+  }
+  .seat.empty .num { opacity: .25; }
+
+  body.shuffling .seat:not(.locked) { animation: jitter .18s infinite; }
+  body.shuffling .seat:not(.locked) .num { filter: blur(.6px); }
+  .seat.locked { animation: pop .45s cubic-bezier(.2, 1.8, .4, 1); }
+  .seat.flash { animation: flash 1.2s ease 2; z-index: 2; }
+
+  @keyframes jitter {
+    0% { transform: translate(0, 0) rotate(0); }
+    25% { transform: translate(-3px, 2px) rotate(-3deg); }
+    50% { transform: translate(3px, -2px) rotate(2deg); }
+    75% { transform: translate(-2px, -3px) rotate(-1deg); }
+    100% { transform: translate(0, 0) rotate(0); }
+  }
+  @keyframes pop {
+    0% { transform: scale(.4) rotate(-12deg); }
+    100% { transform: scale(1) rotate(0); }
+  }
+  @keyframes flash {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.18) rotate(-4deg); box-shadow: 10px 10px 0 var(--ink); }
+  }
+
+  /* ---------- Status bar ---------- */
+  .status {
+    margin: 22px auto 0; width: min(100%, 640px);
+    display: flex; align-items: center; gap: 12px;
+  }
+  .status-text {
+    font-family: "Archivo Black", sans-serif; font-size: clamp(14px, 2vw, 20px);
+    white-space: nowrap; min-width: 9ch;
+  }
+  .bar { flex: 1; height: 26px; border: var(--border); background: #fff; position: relative; overflow: hidden; }
+  .bar span {
+    position: absolute; inset: 0 auto 0 0; width: 0%;
+    background: repeating-linear-gradient(45deg, var(--lime) 0 14px, var(--cyan) 14px 28px);
+    border-right: var(--border);
+  }
+
+  /* ---------- Big overlay text during shuffle ---------- */
+  .countdown {
+    position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotate(-6deg);
+    font-family: "Archivo Black", sans-serif; font-size: clamp(60px, 14vw, 180px);
+    color: var(--yellow); -webkit-text-stroke: 4px var(--ink);
+    text-shadow: 8px 8px 0 var(--ink); pointer-events: none; opacity: 0;
+    z-index: 5;
+  }
+  .countdown.show { animation: cd .9s ease-out; }
+  @keyframes cd {
+    0% { opacity: 0; transform: translate(-50%, -50%) scale(2.2) rotate(-6deg); }
+    30% { opacity: 1; transform: translate(-50%, -50%) scale(1) rotate(-6deg); }
+    100% { opacity: 0; transform: translate(-50%, -50%) scale(.8) rotate(-6deg); }
+  }
+
+  /* ---------- Student list ---------- */
+  .list-section { margin-top: 36px; }
+  .list-section h2 {
+    display: inline-block; margin: 0 0 16px;
+    font-family: "Archivo Black", sans-serif; font-size: clamp(18px, 2.6vw, 26px);
+    background: var(--cyan); border: var(--border); box-shadow: var(--shadow);
+    padding: 8px 14px; transform: rotate(1deg);
+  }
+  .list { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; }
+  .student {
+    display: flex; align-items: center; gap: 10px;
+    background: #fff; border: 3px solid var(--ink); box-shadow: 4px 4px 0 var(--ink);
+    padding: 8px 10px; cursor: pointer;
+  }
+  .student:active { transform: translate(3px, 3px); box-shadow: 1px 1px 0 var(--ink); }
+  .badge {
+    flex: none; width: 40px; height: 40px; display: grid; place-items: center;
+    font-family: "Archivo Black", sans-serif; font-size: 18px;
+    background: var(--yellow); border: 3px solid var(--ink);
+  }
+  .student .name { font-weight: 700; flex: 1; line-height: 1.2; }
+  .student .pos {
+    flex: none; font-size: 12px; font-weight: 700;
+    background: var(--ink); color: #fff; padding: 4px 6px;
+  }
+  .hint { font-size: 14px; margin: 0 0 12px; font-weight: 500; }
+
+  /* ---------- Modal ---------- */
+  .modal {
+    position: fixed; inset: 0; background: rgba(17, 17, 17, .55);
+    display: none; align-items: center; justify-content: center; padding: 16px; z-index: 50;
+  }
+  .modal.open { display: flex; }
+  .card {
+    background: var(--yellow); border: 5px solid var(--ink); box-shadow: 12px 12px 0 var(--ink);
+    padding: 28px; width: min(92vw, 520px); text-align: center; position: relative;
+    animation: pop .35s cubic-bezier(.2, 1.8, .4, 1);
+  }
+  .card .bignum {
+    display: inline-grid; place-items: center; width: 90px; height: 90px;
+    font-family: "Archivo Black", sans-serif; font-size: 46px;
+    background: #fff; border: var(--border); box-shadow: var(--shadow); margin-bottom: 16px;
+  }
+  .card .bigname { font-family: "Archivo Black", sans-serif; font-size: clamp(24px, 4.5vw, 36px); line-height: 1.15; }
+  .card .where {
+    display: inline-block; margin-top: 14px; font-weight: 700; font-size: 18px;
+    background: var(--ink); color: #fff; padding: 6px 12px;
+  }
+  .card button { margin-top: 20px; background: #fff; }
+
+  /* ---------- Confetti ---------- */
+  .confetti {
+    position: fixed; top: -20px; width: 12px; height: 18px;
+    border: 2px solid var(--ink); z-index: 40; pointer-events: none;
+    animation: fall linear forwards;
+  }
+  @keyframes fall {
+    to { transform: translateY(110vh) rotate(var(--r)); }
+  }
+
+  footer { text-align: center; font-size: 13px; margin: 28px 0 8px; font-weight: 500; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>ACAK TEMPAT DUDUK<small>LPK Saitama · 22 siswa</small></h1>
+    <div class="controls">
+      <button id="btnSound" title="Suara">🔊 Suara</button>
+      <button id="btnReset">↺ Urut</button>
+      <button id="btnShuffle">🎲 SHUFFLE!</button>
+    </div>
+  </header>
+
+  <section class="room" id="room">
+    <div class="board">PAPAN TULIS</div>
+    <div class="desk">MEJA SENSEI</div>
+    <div class="rows" id="rows"></div>
+    <div class="status">
+      <div class="status-text" id="statusText">SIAP!</div>
+      <div class="bar"><span id="barFill"></span></div>
+    </div>
+    <div class="countdown" id="countdown"></div>
+  </section>
+
+  <section class="list-section">
+    <h2>📋 DAFTAR SISWA</h2>
+    <p class="hint">Ketuk nomor kursi untuk melihat nama. Ketuk nama di daftar untuk menyorot kursinya. Kode kursi: <b>Baris-Kursi</b> (baris 1 = paling depan, kursi dihitung dari kiri layar).</p>
+    <div class="list" id="list"></div>
+  </section>
+
+  <footer>Hasil acakan terakhir tersimpan otomatis di perangkat ini.</footer>
+</div>
+
+<div class="modal" id="modal">
+  <div class="card">
+    <div class="bignum" id="mNum"></div>
+    <div class="bigname" id="mName"></div>
+    <div class="where" id="mWhere"></div>
+    <div><button id="mClose">TUTUP</button></div>
+  </div>
+</div>
+
+<script>
+  const STUDENTS = [
+    "Akbar Bakti Rifai",
+    "Abdullah Haidar",
+    "Aswin Dwi Lulu'il Janah",
+    "Retno Anggita Pratiwi",
+    "Fetima Ayusekti Rahmaputri",
+    "In Junaedi",
+    "Abdul Razak",
+    "Agung Wahyu",
+    "Muh Khoironi",
+    "M. Husein Rasyanjani",
+    "Aulia Nirwana",
+    "Agil Ilham",
+    "Bintang Swabhuwana Paksa Putri",
+    "Baharudin Irzha Mahendra",
+    "Glory Syevi Vania",
+    "Muhammad Zufar Sidiq",
+    "Muhammad Fikri Kurniawan",
+    "Ghita Natasya Febrianti",
+    "Shopy Cahaya Madina",
+    "M. Fachri Ichiro",
+    "Dwi Afatur Rohman",
+    "Abdul Habib Azhari"
+  ];
+  // Dari depan ke belakang (dari belakang: 6, 6, 5, 5)
+  const ROWS = [5, 5, 6, 6];
+  const ROW_COLORS = ["--yellow", "--cyan", "--pink", "--lime"];
+  const FLICKER_COLORS = ["--yellow", "--pink", "--cyan", "--blue", "--orange", "--lime", "--purple"];
+  const SHUFFLE_MS = 10000;
+  const LOCK_START_MS = 6000;
+  const STORAGE_KEY = "lpk-seat-shuffle-v1";
+
+  const $ = (id) => document.getElementById(id);
+  const rowsEl = $("rows"), listEl = $("list");
+  const seats = []; // { el, row, col }
+  let assignment = STUDENTS.map((_, i) => i); // assignment[seatIndex] = studentIndex
+  let busy = false;
+  let soundOn = true;
+  let audio = null;
+
+  // ---------- Build seats ----------
+  ROWS.forEach((count, r) => {
+    const row = document.createElement("div");
+    row.className = "row";
+    const label = document.createElement("div");
+    label.className = "row-label";
+    label.innerHTML = `BARIS ${r + 1}` + (r === 0 ? "<small>DEPAN</small>" : r === ROWS.length - 1 ? "<small>BELAKANG</small>" : "");
+    const wrap = document.createElement("div");
+    wrap.className = "seats";
+    for (let c = 0; c < count; c++) {
+      const el = document.createElement("div");
+      el.className = "seat";
+      el.innerHTML = `<span class="code">${r + 1}-${c + 1}</span><span class="num"></span>`;
+      const idx = seats.length;
+      el.addEventListener("click", () => { if (!busy) openModal(idx); });
+      wrap.appendChild(el);
+      seats.push({ el, row: r, col: c });
+    }
+    row.append(label, wrap);
+    rowsEl.appendChild(row);
+  });
+
+  const seatCode = (i) => `${seats[i].row + 1}-${seats[i].col + 1}`;
+  const seatText = (i) => `Baris ${seats[i].row + 1}${seats[i].row === 0 ? " (depan)" : seats[i].row === ROWS.length - 1 ? " (belakang)" : ""} · Kursi ${seats[i].col + 1}`;
+
+  function paintSeat(i, studentIdx, colorVar) {
+    const s = seats[i];
+    s.el.querySelector(".num").textContent = studentIdx + 1;
+    s.el.style.setProperty("--c", `var(${colorVar || ROW_COLORS[s.row]})`);
+  }
+
+  function renderAll() {
+    seats.forEach((_, i) => paintSeat(i, assignment[i]));
+    renderList();
+  }
+
+  function renderList() {
+    const seatOf = [];
+    assignment.forEach((st, seat) => (seatOf[st] = seat));
+    listEl.innerHTML = "";
+    STUDENTS.forEach((name, i) => {
+      const item = document.createElement("div");
+      item.className = "student";
+      item.innerHTML = `<div class="badge">${i + 1}</div><div class="name"></div><div class="pos">${seatCode(seatOf[i])}</div>`;
+      item.querySelector(".name").textContent = name;
+      item.addEventListener("click", () => highlightSeat(seatOf[i]));
+      listEl.appendChild(item);
+    });
+  }
+
+  function highlightSeat(i) {
+    if (busy) return;
+    const el = seats[i].el;
+    $("room").scrollIntoView({ behavior: "smooth", block: "start" });
+    el.classList.remove("flash");
+    void el.offsetWidth;
+    el.classList.add("flash");
+    setTimeout(() => el.classList.remove("flash"), 2500);
+  }
+
+  // ---------- Modal ----------
+  function openModal(seatIdx) {
+    const st = assignment[seatIdx];
+    $("mNum").textContent = st + 1;
+    $("mName").textContent = STUDENTS[st];
+    $("mWhere").textContent = seatText(seatIdx);
+    $("modal").classList.add("open");
+  }
+  const closeModal = () => $("modal").classList.remove("open");
+  $("mClose").addEventListener("click", closeModal);
+  $("modal").addEventListener("click", (e) => { if (e.target.id === "modal") closeModal(); });
+
+  // ---------- Random ----------
+  function randInt(n) {
+    if (window.crypto && crypto.getRandomValues) {
+      const a = new Uint32Array(1);
+      crypto.getRandomValues(a);
+      return a[0] % n;
+    }
+    return Math.floor(Math.random() * n);
+  }
+  function shuffled(arr) {
+    const a = arr.slice();
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = randInt(i + 1);
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+  }
+
+  // ---------- Sound ----------
+  function beep(freq, dur = 0.05, type = "square", vol = 0.06) {
+    if (!soundOn) return;
+    try {
+      audio = audio || new (window.AudioContext || window.webkitAudioContext)();
+      if (audio.state === "suspended") audio.resume();
+      const o = audio.createOscillator(), g = audio.createGain();
+      o.type = type; o.frequency.value = freq;
+      g.gain.setValueAtTime(vol, audio.currentTime);
+      g.gain.exponentialRampToValueAtTime(0.0001, audio.currentTime + dur);
+      o.connect(g).connect(audio.destination);
+      o.start(); o.stop(audio.currentTime + dur);
+    } catch (e) {}
+  }
+  function fanfare() {
+    [523, 659, 784, 1047].forEach((f, i) => setTimeout(() => beep(f, 0.25, "triangle", 0.12), i * 130));
+  }
+  $("btnSound").addEventListener("click", () => {
+    soundOn = !soundOn;
+    $("btnSound").textContent = soundOn ? "🔊 Suara" : "🔇 Senyap";
+  });
+
+  // ---------- Countdown overlay ----------
+  function showBig(text) {
+    const cd = $("countdown");
+    cd.textContent = text;
+    cd.classList.remove("show");
+    void cd.offsetWidth;
+    cd.classList.add("show");
+  }
+
+  // ---------- Confetti ----------
+  function confetti() {
+    for (let i = 0; i < 90; i++) {
+      const p = document.createElement("div");
+      p.className = "confetti";
+      p.style.left = Math.random() * 100 + "vw";
+      p.style.background = `var(${FLICKER_COLORS[randInt(FLICKER_COLORS.length)]})`;
+      p.style.setProperty("--r", (Math.random() * 1080 - 540) + "deg");
+      p.style.animationDuration = 2 + Math.random() * 2 + "s";
+      p.style.animationDelay = Math.random() * 0.6 + "s";
+      if (Math.random() < 0.4) p.style.borderRadius = "50%";
+      document.body.appendChild(p);
+      setTimeout(() => p.remove(), 5000);
+    }
+  }
+
+  // ---------- Shuffle ----------
+  function setBusy(v) {
+    busy = v;
+    document.body.classList.toggle("shuffling", v);
+    ["btnShuffle", "btnReset"].forEach((id) => ($(id).disabled = v));
+  }
+
+  function runShuffle() {
+    if (busy) return;
+    closeModal();
+    setBusy(true);
+    const final = shuffled(STUDENTS.map((_, i) => i));
+    const lockOrder = shuffled(seats.map((_, i) => i));
+    const lockAt = lockOrder.map((_, k) => LOCK_START_MS + (k + 1) * ((SHUFFLE_MS - LOCK_START_MS - 300) / seats.length));
+    const locked = new Array(seats.length).fill(false);
+    seats.forEach((s) => s.el.classList.remove("locked"));
+
+    const start = performance.now();
+    let lastFlicker = 0, nextLock = 0, lastSecond = -1;
+
+    showBig("ACAK!");
+    beep(220, 0.15, "sawtooth", 0.08);
+
+    function frame(now) {
+      const t = now - start;
+
+      // Kecepatan kedip melambat mendekati akhir
+      const interval = 55 + Math.min(1, t / SHUFFLE_MS) * 160;
+      if (t - lastFlicker >= interval) {
+        lastFlicker = t;
+        seats.forEach((_, i) => {
+          if (!locked[i]) paintSeat(i, randInt(STUDENTS.length), FLICKER_COLORS[randInt(FLICKER_COLORS.length)]);
+        });
+        beep(300 + randInt(500), 0.03, "square", 0.03);
+      }
+
+      // Kunci kursi satu per satu
+      while (nextLock < lockOrder.length && t >= lockAt[nextLock]) {
+        const i = lockOrder[nextLock];
+        locked[i] = true;
+        assignment[i] = final[i];
+        paintSeat(i, final[i]);
+        seats[i].el.classList.add("locked");
+        beep(600 + nextLock * 30, 0.12, "triangle", 0.1);
+        nextLock++;
+      }
+
+      // Status & hitung mundur
+      const remain = Math.max(0, Math.ceil((SHUFFLE_MS - t) / 1000));
+      if (remain !== lastSecond) {
+        lastSecond = remain;
+        $("statusText").textContent = t < LOCK_START_MS ? `MENGACAK… ${remain}` : `MENGUNCI… ${remain}`;
+        if (t > 500 && remain <= 3 && remain > 0) showBig(remain);
+      }
+      $("barFill").style.width = Math.min(100, (t / SHUFFLE_MS) * 100) + "%";
+
+      if (t < SHUFFLE_MS) {
+        requestAnimationFrame(frame);
+      } else {
+        assignment = final;
+        renderAll();
+        $("statusText").textContent = "SELESAI! 🎉";
+        showBig("JADI!");
+        fanfare();
+        confetti();
+        save();
+        setBusy(false);
+      }
+    }
+    requestAnimationFrame(frame);
+  }
+
+  function resetOrder() {
+    if (busy) return;
+    assignment = STUDENTS.map((_, i) => i);
+    seats.forEach((s) => s.el.classList.remove("locked"));
+    renderAll();
+    $("statusText").textContent = "SIAP!";
+    $("barFill").style.width = "0%";
+    save();
+  }
+
+  // ---------- Storage ----------
+  function save() {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(assignment)); } catch (e) {}
+  }
+  function load() {
+    try {
+      const a = JSON.parse(localStorage.getItem(STORAGE_KEY));
+      if (Array.isArray(a) && a.length === STUDENTS.length && new Set(a).size === STUDENTS.length) assignment = a;
+    } catch (e) {}
+  }
+
+  $("btnShuffle").addEventListener("click", runShuffle);
+  $("btnReset").addEventListener("click", resetOrder);
+
+  load();
+  renderAll();
+</script>
+</body>
+</html>
