@@ -42,6 +42,7 @@ Aturan:
 - **Bagian III hanya memakai bentuk ます dan pola sampai bab sebelumnya**, karena bunpou bab ini belum diajarkan saat tes pagi.
 - **Opsi a/b/c harus sejenis:** semua kata kerja atau semua kata benda, supaya tidak bisa dijawab dari jenis katanya saja. Sebisa mungkin satu opsi pengecoh mirip bunyinya (contoh: かんごし/べんごし) atau artinya.
 - Pengecoh boleh diambil dari bab lama, misalnya すわります dan たちます dari Bab 14.
+- **Jika kosakata bab kurang dari 25 kata** (misalnya Bab 20 hanya 16 kata), lengkapi dengan kosakata yang diajarkan di skrip bab itu tetapi tidak ada di PDF (contoh: うん／ううん), lalu dengan kosakata ulangan dari bab-bab sebelumnya yang terdekat. Tandai di kunci, misalnya dengan "(ulangan Bab 17)" di samping soal dan satu baris keterangan di bawah judul kunci. Lihat `soal/bab-20/`.
 
 ## 4. Post test (siang): 20 soal × 5 = 100
 
