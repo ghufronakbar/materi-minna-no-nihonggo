@@ -55,6 +55,7 @@ Aturan:
 - **Kotak kata** berisi 10 jawaban ditambah 3 pengecoh, diacak, dan setiap kata hanya dipakai sekali. Kata kerja ditulis di kotak dalam bentuk yang dibutuhkan kalimat (misalnya すんで), karena bagian ini menguji arti, bukan perubahan bentuk.
 - **Setiap kalimat di Bagian I hanya boleh cocok dengan satu kata di kotak.** Cek setiap kalimat terhadap semua 13 kata, terutama pengecoh. Contoh yang pernah dibetulkan: 「（　）で はたらいて います」 cocok untuk しやくしょ dan juga はいしゃ, jadi pengecoh はいしゃ diganti. Beri petunjuk konteks di kalimat (「あね は こうむいん です。」) jika perlu.
 - **Bagian II dibagi merata ke pola bunpou bab ini.** Contoh Bab 15: 2 soal ～てもいいですか, 1 soal ～てはいけません, 2 soal ～ています.
+- **Bab tanpa perubahan kata kerja** (misalnya Bab 1–3): Bagian II berupa isian partikel atau bentuk, **tanpa kotak pilihan** supaya jawaban tidak bisa ditebak dengan eliminasi. Instruksinya: "Isi bagian kosong dengan partikel atau bentuk yang tepat." Contoh: `わたし　（＿＿＿＿＿＿＿＿）　マイク・ミラー　です。` Lihat `soal/bab-01/`.
 - **Bagian III:** partikel boleh dijadikan potongan sendiri (`に`, `を`) untuk menguji posisinya. Pilih kalimat yang urutannya jelas. Jika ada urutan lain yang juga benar, tulis di kunci.
 
 ## 5. Kunci jawaban (file terpisah)
