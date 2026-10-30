@@ -2,10 +2,11 @@
 # Ubah file soal Markdown menjadi PDF A4 siap cetak.
 # Pakai: soal/build-pdf.sh soal/bab-15        (semua .md di folder itu)
 #        soal/build-pdf.sh soal/bab-15/tes-kotoba-bab-15.md
-# Butuh: Node.js (npx) dan Google Chrome.
+# Furigana ditulis {漢字|かんじ} dan diubah menjadi <ruby> sebelum dikonversi.
+# Butuh: Node.js (npx) dan Google Chrome (path lain bisa lewat variabel CHROME).
 set -euo pipefail
 
-CHROME="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+CHROME="${CHROME:-/Applications/Google Chrome.app/Contents/MacOS/Google Chrome}"
 DIR="$(cd "$(dirname "$0")" && pwd)"
 CSS="$DIR/style.css"
 
@@ -34,7 +35,8 @@ for MD in "${FILES[@]}"; do
     echo "<title>$TITLE</title><style>"
     cat "$CSS"
     echo "</style></head><body>"
-    npx --yes marked@12.0.2 --gfm -i "$MD"
+    sed -E 's/\{([^{}|]+)\|([^{}|]+)\}/<ruby>\1<rt>\2<\/rt><\/ruby>/g' "$MD" \
+      | npx --yes marked@12.0.2 --gfm
     echo "</body></html>"
   } > "$HTML"
 

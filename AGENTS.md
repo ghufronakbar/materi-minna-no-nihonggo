@@ -14,7 +14,7 @@ Skill `/buat-skrip <bab>` menjalankan alur pembuatan skrip Senin penuh untuk sat
 
 ## Membuat soal tes
 
-Untuk tes kotoba, post test, dan kunci jawaban per bab, ikuti `03-soal-guidelines.md`, dengan `soal/bab-15/` sebagai patokan format. Skill `/buat-soal <bab>` menjalankan alur ini dari awal sampai PDF jadi.
+Untuk tes kotoba, post test, dan kunci jawaban per bab, ikuti `03-soal-guidelines.md`, dengan `soal/bab-15/` sebagai patokan format. Skill `/buat-soal <bab>` menjalankan alur ini dari awal sampai PDF jadi. Versi kanji dari soal yang sama (dengan furigana) dibuat dengan `/buat-soal-kanji <bab>`, mengikuti bagian 8 panduan tersebut.
 
 ## Hal yang harus dipertahankan
 

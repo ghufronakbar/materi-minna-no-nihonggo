@@ -21,7 +21,7 @@ Setiap bab mendapat dua tes yang dicetak atau dibagikan ke siswa. Sumbernya ditu
 
 ## 2. Aturan bahasa (berlaku untuk semua soal)
 
-- **Hanya hiragana/katakana**, tanpa kanji dan tanpa romaji. Pengecualian: nama dari buku yang memang ditulis dengan huruf Latin, seperti IMC. Kanji hanya boleh muncul di kunci sebagai info guru.
+- **Hanya hiragana/katakana**, tanpa kanji dan tanpa romaji. Pengecualian: nama dari buku yang memang ditulis dengan huruf Latin, seperti IMC. Kanji hanya boleh muncul di kunci sebagai info guru. Versi kanji punya aturan sendiri di bagian 8.
 - **Spasi antarkata dan partikel** memakai spasi penuh `　`, sesuai contoh pengguna: `わたし　は　おおさか　に　すんで　います。`
 - Akhir kalimat memakai `。`, bukan titik biasa.
 - Sebelum Bab 18, kata kerja di Bagian I dan II tes kotoba ditulis dalam bentuk ～ます, karena bentuk kamus baru diajarkan di Bab 18. Mulai Bab 18, ikuti bentuk yang dipakai di daftar kosakata dan sebutkan di instruksi soal.
@@ -79,6 +79,7 @@ soal/
     post-test-bab-NN.md
     kunci-post-test-bab-NN.md
     (keempat .pdf hasil generate)
+    kanji/                      ← versi kanji (bagian 8)
 ```
 
 - Nomor bab di nama folder dan file selalu dua digit (`bab-07`, `bab-15`), sama seperti di `materi/`.
@@ -96,8 +97,52 @@ Skrip ini membutuhkan Node.js (menjalankan `npx marked@12.0.2`) dan Google Chrom
 ## 7. Cek sebelum selesai
 
 1. Jumlah soal dan nilai: 25 × 4 dan 20 × 5. Nomor soal berurutan.
-2. Tidak ada kanji atau romaji di lembar siswa.
+2. Tidak ada kanji atau romaji di lembar siswa (versi hiragana).
 3. Tes kotoba: tidak ada kata yang bocor antarbagian, Bagian III bebas dari pola baru bab ini, dan opsi a/b/c sejenis.
 4. Post test: setiap kalimat Bagian I hanya punya satu jawaban yang cocok dari kotak, termasuk saat dicek terhadap pengecoh.
 5. Setiap jawaban di kunci sama dengan soalnya, termasuk huruf opsi pilihan ganda.
 6. Render PDF lalu lihat hasilnya (`pdftoppm -r 60 -png file.pdf <scratchpad>/prev`): huruf Jepang tampil, kotak kata tidak terpotong, dan tidak ada soal yang terbelah di antara dua halaman.
+
+## 8. Versi kanji
+
+Versi kanji adalah **soal yang sama** dengan versi hiragana, hanya penulisannya yang memakai kanji. Nomor, kata yang ditanya, kalimat, opsi beserta urutannya, dan jawaban tidak berubah. Versi hiragana harus sudah ada; jika belum, buat dulu dengan `/buat-soal`. Skill `/buat-soal-kanji <bab>` menjalankan alur ini.
+
+**Lokasi:** subfolder `kanji/` di folder asal, nama file ditambah `-kanji`, judul ditambah `(Kanji)`:
+```
+soal/bab-15/kanji/tes-kotoba-bab-15-kanji.md        # Tes Kotoba — Bab 15 (Kanji)
+soal/bab-15/kanji/kunci-tes-kotoba-bab-15-kanji.md
+soal/bab-15/kanji/post-test-bab-15-kanji.md
+soal/bab-15/kanji/kunci-post-test-bab-15-kanji.md
+```
+Folder lain mengikuti pola yang sama, misalnya `soal/evaluasi-bab-01-05/kanji/evaluasi-bab-01-05-kanji.md`.
+
+**Kata yang ditulis kanji**
+- Kosakata bab ini dan bab sebelumnya mengikuti **kolom Kanji di PDF kosakata**. Kolom kosong berarti kata itu tetap ditulis kana. Kolom kanji di kunci versi hiragana boleh dipakai sebagai acuan cepat, tetapi PDF yang menentukan.
+- Kata yang tidak ada di PDF mengikuti penulisan baku Minna no Nihongo.
+- Tetap kana: partikel, okurigana, katakana, kosoado (これ, ここ, この), kata tanya selain 何 (だれ, どこ, いつ, いくら, どう), salam dan ungkapan (すみません, ありがとう ございます), serta bagian pola seperti います, あります, ください, いい, いけません, ～さん.
+- Bilangan ditulis dengan angka Arab dan counter kanji, dengan furigana bacaan lengkap: `{3時|さんじ}`, `{100円|ひゃくえん}`.
+- Spasi penuh `　` antarkata tetap sama seperti versi hiragana.
+
+**Furigana**
+- Semua kanji di lembar siswa diberi furigana dengan notasi `{漢字|かな}`. `build-pdf.sh` mengubahnya menjadi `<ruby>` saat membuat PDF. Okurigana ditulis di luar kurung kurawal: `{住|す}みます`, `{電子辞書|でんしじしょ}`. Bacaan khusus dipasang pada seluruh kata: `{今日|きょう}`, `{一人|ひとり}`.
+- **Pengecualian:** kata yang ditanyakan di Bagian II tes kotoba (Jepang → Indonesia) ditulis kanji **tanpa furigana**, karena bagian ini menguji bacaan dan arti. Contoh: `11. 住みます : ……`. Kata tanpa kanji tetap ditulis kana.
+- Kunci memakai furigana yang sama dengan lembar siswa supaya guru melihat bacaan yang diharapkan. Kolom Kanji di kunci tes kotoba Bagian I boleh tanpa furigana karena bacaannya sudah ada di kolom Jawaban.
+
+**Penyesuaian lain**
+- Tes kotoba Bagian I berjudul `Terjemahkan ke dalam Bahasa Jepang (Huruf Hiragana / Katakana / Kanji)` dengan instruksi tambahan "Boleh ditulis dengan hiragana, katakana, atau kanji." Di kunci, kolomnya menjadi `Kanji (juga diterima)`.
+- Jawaban siswa di semua bagian boleh ditulis hiragana atau kanji. Kanji yang salah tulis dianggap salah. Campuran kanji dan hiragana (研きゅうします) diterima jika kanji yang ditulis benar. Tulis aturan ini sebagai satu baris catatan di setiap kunci.
+- Post test Bagian II: kata kerja di dalam kurung ditulis kanji dengan furigana: `（{取|と}ります → ＿＿＿＿＿＿＿＿）`.
+- **Jangan memperbaiki soal diam-diam.** Jika ditemukan kesalahan di versi hiragana, atau penulisan kanji membuat soal ambigu atau membocorkan jawaban, laporkan ke pengguna. Setelah disetujui, perbaiki kedua versi bersama-sama.
+
+**Cek sebelum selesai** (selain daftar di bagian 7, kecuali butir 2):
+1. Isi sama dengan versi hiragana. Ubah furigana menjadi bacaannya lalu bandingkan:
+   ```bash
+   diff <(perl -CSD -pe 's/\{[^{}|]+\|([^{}|]+)\}/$1/g' soal/bab-15/kanji/post-test-bab-15-kanji.md) soal/bab-15/post-test-bab-15.md
+   ```
+   Perbedaan yang wajar hanya judul, judul dan instruksi Bagian I tes kotoba, kata Bagian II tes kotoba (kanji tanpa furigana), kolom kanji serta catatan di kunci, dan bilangan yang kini ditulis angka.
+2. Tidak ada kanji tanpa furigana di lembar siswa, selain kata Bagian II tes kotoba:
+   ```bash
+   perl -CSD -ne 's/\{[^{}|]+\|[^{}|]+\}//g; print "$.: $_" if /\p{sc=Han}/' soal/bab-15/kanji/tes-kotoba-bab-15-kanji.md
+   ```
+3. Kanji sesuai kolom Kanji di PDF kosakata, dan furigana sesuai bacaan di versi hiragana.
+4. Tidak ada `{` atau `|` yang tersisa di PDF. Furigana tampil di atas kanji dan tidak menabrak baris di atasnya.
