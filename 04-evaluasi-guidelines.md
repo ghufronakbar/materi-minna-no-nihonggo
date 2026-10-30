@@ -90,3 +90,13 @@ Hasil di cloud memakai font Jepang yang tersedia di sana, bukan Hiragino.
 3. Cari jawaban yang bocor antarbagian, terutama ★ dan teks bacaan.
 4. Cocokkan kisi-kisi dengan sebaran di bagian 1; jumlah per bab harus sama dengan 50.
 5. Render PDF (`pdftoppm -r 60 -png file.pdf <scratchpad>/prev`), lalu lihat hasilnya: tidak ada もんだい yang terbelah, papan informasi satu halaman dengan soalnya, dan lembar jawaban tidak terpotong.
+
+## 8. Versi kanji
+
+Setiap evaluasi juga punya versi kanji dengan furigana. Isinya **sama persis** dengan versi kana: soal, opsi beserta urutannya, dan jawaban. Ikuti aturan umum di bagian 8 `03-soal-guidelines.md`, yaitu lokasi `kanji/`, akhiran `-kanji`, notasi `{漢字|かな}`, dan cara cek diff. Buat dengan `/buat-soal-kanji evaluasi-bab-AA-BB`. Tambahan khusus evaluasi:
+
+- **Soal yang menguji bacaan tetap ditulis kana**, baik kalimat soal maupun opsinya. Contohnya tanggal (しがつ／よんがつ), counter (さんがい／さんかい, だい／まい), harga, jam, dan durasi yang ditanyakan. Jika ditulis angka dan kanji, opsi bisa terlihat sama atau jawabannya bocor. Angka di tabel もんだい７ yang dibandingkan oleh soal juga tetap kana.
+- **Kata yang kanjinya membocorkan jawaban atau mematikan pengecoh tetap kana.** Contohnya でんわ を かけないで／かかないで: kanji 書 langsung menunjukkan bahwa かかないで berarti "menulis".
+- Opsi bentuk kata kerja (書いて／書きて) boleh memakai kanji jika setiap opsi tetap menunjukkan bacaannya yang berbeda.
+- Di bawah baris `LEMBAR GURU / EVALUASI` pada kunci, tulis: `Jawaban siswa berupa nomor pilihan (①–④), jadi tidak ada aturan penulisan kanji untuk jawaban.`
+- Kunci cepat tidak berubah. Jalankan `python3 soal/cek-kunci-evaluasi.py soal/evaluasi-bab-AA-BB/kanji`: hasilnya harus menunjuk opsi yang sama dengan versi kana, dan tidak ada kanji tanpa furigana. Untuk membandingkan isi, pakai perintah diff di `03-soal-guidelines.md` bagian 8.

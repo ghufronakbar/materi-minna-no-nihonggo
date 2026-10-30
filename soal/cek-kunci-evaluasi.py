@@ -1,6 +1,7 @@
 """Cek lembar evaluasi format JLPT terhadap kuncinya.
 
 Pakai: python3 soal/cek-kunci-evaluasi.py soal/evaluasi-bab-01-05
+      python3 soal/cek-kunci-evaluasi.py soal/evaluasi-bab-01-05/kanji
 
 Mencetak teks opsi yang ditunjuk kunci untuk setiap soal (baca satu per satu
 untuk memastikan jawabannya benar), lalu jumlah soal, sebaran jawaban 1–4,
@@ -12,9 +13,12 @@ import re
 import sys
 
 folder = pathlib.Path(sys.argv[1])
-blok = folder.name.removeprefix("evaluasi-")
-soal = (folder / f"evaluasi-{blok}.md").read_text().split("# Lembar Jawaban")[0]
-kunci = (folder / f"kunci-evaluasi-{blok}.md").read_text()
+# Folder kanji/ berisi versi kanji: nama file berakhiran -kanji.
+versi_kanji = folder.name == "kanji"
+blok = (folder.parent if versi_kanji else folder).name.removeprefix("evaluasi-")
+akhiran = "-kanji" if versi_kanji else ""
+soal = (folder / f"evaluasi-{blok}{akhiran}.md").read_text().split("# Lembar Jawaban")[0]
+kunci = (folder / f"kunci-evaluasi-{blok}{akhiran}.md").read_text()
 
 # Kunci cepat: baris tabel berisi pasangan "No | Jwb" berulang.
 jawaban = {}
@@ -37,4 +41,7 @@ for no in sorted(butir):
 
 print("\nJumlah soal:", len(butir), "· di kunci:", len(jawaban))
 print("Sebaran jawaban:", dict(sorted(collections.Counter(jawaban.values()).items())))
-print("Kanji di lembar siswa:", re.findall(r"[一-鿿]", soal) or "tidak ada")
+# Versi kana: tidak boleh ada kanji. Versi kanji: tidak boleh ada kanji tanpa furigana.
+tanpa_furigana = re.sub(r"\{[^{}|]+\|[^{}|]+\}", "", soal)
+label = "Kanji tanpa furigana:" if versi_kanji else "Kanji di lembar siswa:"
+print(label, re.findall(r"[一-鿿]", tanpa_furigana) or "tidak ada")
