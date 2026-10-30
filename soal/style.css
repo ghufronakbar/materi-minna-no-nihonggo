@@ -39,3 +39,12 @@ li p { margin: 0; }
   font-size: 12.5pt;
 }
 .kotak-kata span { white-space: nowrap; }
+
+/* Teks bacaan (Bagian Membaca) */
+blockquote {
+  border: 1.5px solid #333;
+  padding: 4pt 10pt;
+  margin: 6pt 0 10pt;
+  break-inside: avoid;
+}
+blockquote p { margin: 0; }
