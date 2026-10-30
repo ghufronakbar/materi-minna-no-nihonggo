@@ -16,6 +16,8 @@ Skill `/buat-skrip <bab>` menjalankan alur pembuatan skrip Senin penuh untuk sat
 
 Untuk tes kotoba, post test, dan kunci jawaban per bab, ikuti `03-soal-guidelines.md`, dengan `soal/bab-15/` sebagai patokan format. Skill `/buat-soal <bab>` menjalankan alur ini dari awal sampai PDF jadi. Versi kanji dari soal yang sama (dengan furigana) dibuat dengan `/buat-soal-kanji <bab>`, mengikuti bagian 8 panduan tersebut.
 
+Untuk evaluasi gabungan per 5 bab (format JLPT, semua pilihan ganda, termasuk soal ★), ikuti `04-evaluasi-guidelines.md`, dengan `soal/evaluasi-bab-01-05/` sebagai patokan format. Skill `/buat-evaluasi <blok>` menjalankan alur ini dari awal sampai PDF jadi.
+
 ## Hal yang harus dipertahankan
 
 - Tulis dalam bahasa Indonesia dengan dialog Jepang yang benar dan sesuai materi siswa.

@@ -94,6 +94,8 @@ Atau satu file saja: `soal/build-pdf.sh soal/bab-15/post-test-bab-15.md`.
 
 Skrip ini membutuhkan Node.js (menjalankan `npx marked@12.0.2`) dan Google Chrome (headless). Chrome kadang tidak menutup sendiri setelah mencetak; skrip sudah menangani ini dengan menunggu PDF lalu menghentikan Chrome.
 
+Di lingkungan tanpa Google Chrome Mac (misalnya sesi cloud), pakai `NODE_PATH=$(npm root -g) node soal/build-pdf-playwright.js soal/bab-15`. Hasilnya memakai font Jepang yang tersedia di lingkungan itu.
+
 ## 7. Cek sebelum selesai
 
 1. Jumlah soal dan nilai: 25 × 4 dan 20 × 5. Nomor soal berurutan.

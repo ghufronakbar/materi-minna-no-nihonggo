@@ -2,129 +2,142 @@
 
 **LEMBAR GURU / EVALUASI** · 50 soal × 2 = 100
 
+## Kunci cepat
+
+| No | Jwb | No | Jwb | No | Jwb | No | Jwb | No | Jwb |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | 3 | 11 | 2 | 21 | 3 | 31 | 3 | 41 | 3 |
+| 2 | 2 | 12 | 3 | 22 | 1 | 32 | 4 | 42 | 4 |
+| 3 | 4 | 13 | 4 | 23 | 2 | 33 | 1 | 43 | 2 |
+| 4 | 1 | 14 | 1 | 24 | 1 | 34 | 2 | 44 | 3 |
+| 5 | 4 | 15 | 2 | 25 | 3 | 35 | 4 | 45 | 2 |
+| 6 | 2 | 16 | 2 | 26 | 4 | 36 | 2 | 46 | 3 |
+| 7 | 3 | 17 | 3 | 27 | 2 | 37 | 1 | 47 | 2 |
+| 8 | 4 | 18 | 1 | 28 | 4 | 38 | 4 | 48 | 1 |
+| 9 | 3 | 19 | 4 | 29 | 4 | 39 | 3 | 49 | 4 |
+| 10 | 1 | 20 | 2 | 30 | 1 | 40 | 1 | 50 | 2 |
+
 ## Kisi-kisi
 
-| Bab | I. Kotoba | II. Partikel | III. Bentuk | IV. Respons | V. Susun | VI. Baca | Jumlah |
-|---|---|---|---|---|---|---|---|
-| 1 | 1, 2, 3 | 16, 17 | 26, 27 | 36 | 44 | 46 | 10 |
-| 2 | 4, 5, 6 | 23 | 28, 29 | 37 | 41 | — | 8 |
-| 3 | 7, 8, 9 | 24, 25 | 30, 31 | 38 | 42 | — | 9 |
-| 4 | 10, 11, 12 | 18, 19 | 32, 33 | 39 | 43 | 47 | 11 |
-| 5 | 13, 14, 15 | 20, 21, 22 | 34, 35 | 40 | 45 | 48, 49, 50 | 12 |
+| Bab | もんだい１–２ Kosakata | もんだい３ Bunpou | もんだい４ ★ | もんだい５ Teks | もんだい６–７ Membaca | Jumlah |
+|---|---|---|---|---|---|---|
+| 1 | 1, 2, 11 | 16, 17, 18 | 31 | 36 | — | 8 |
+| 2 | 3, 4, 12 | 19, 20, 21 | 32 | — | — | 7 |
+| 3 | 5, 6, 13 | 22, 23, 24 | 33 | — | 46, 47, 50 | 10 |
+| 4 | 7, 8, 14 | 25, 26, 27 | 34 | 38 | 41, 44, 48, 49 | 12 |
+| 5 | 9, 10, 15 | 28, 29, 30 | 35 | 37, 39, 40 | 42, 43, 45 | 13 |
 
-## BAGIAN I: Kotoba dalam Kalimat
+## もんだい１　Kosakata
 
-| No | Jawaban | Kalimat lengkap | Arti |
+| No | Jwb | Kalimat lengkap | Arti |
 |---|---|---|---|
-| 1 | a | サントスさん は にほんじん です か。……いいえ、ブラジルじん です。 | Apakah Pak Santos orang Jepang? …Bukan, orang Brasil. |
-| 2 | b | ワンさん は びょういん の いしゃ です。 | Pak Wang dokter di rumah sakit. |
-| 3 | c | グプタさん は なんさい です か。……よんじゅうにさい です。 | Pak Gupta umur berapa? …42 tahun. |
-| 4 | d | これ は にほんご の じしょ です。 | Ini kamus bahasa Jepang. |
-| 5 | a | これ は ワンさん の かさ です か。……いいえ、ちがいます。わたし の です。 | Apakah ini payung Pak Wang? …Bukan. Punya saya. |
-| 6 | b | これ は きょう の しんぶん です。 | Ini koran hari ini. |
-| 7 | c | この くつ は いくら です か。……はっせん えん です。 | Sepatu ini berapa? …8.000 yen. |
-| 8 | a | ミラーさん の くに は アメリカ です。 | Negara Pak Miller adalah Amerika. |
-| 9 | d | わたし の へや は にかい です。 | Kamar saya di lantai 2. |
-| 10 | c | ぎんこう は さんじ に おわります。 | Bank tutup (selesai) jam 3. |
-| 11 | b | きょう は もくようび です。あさって は どようび です。 | Hari ini Kamis. Lusa hari Sabtu. |
-| 12 | a | やすみ は なんようび です か。……にちようび です。 | Liburnya hari apa? …Hari Minggu. |
-| 13 | d | いつ おおさか へ いきます か。……らいげつ いきます。 | Kapan pergi ke Osaka? …Bulan depan. |
-| 14 | c | どようび ひとりで デパート へ いきました。ともだち は いきませんでした。 | Hari Sabtu saya pergi sendirian ke department store. Teman tidak ikut. |
-| 15 | b | ミラーさん の たんじょうび は いつ です か。……はちがつ とおか です。 | Ulang tahun Pak Miller kapan? …10 Agustus. |
+| 1 | 3 | ワットさん は えいご の せんせい です。 | Pak Watt guru bahasa Inggris. |
+| 2 | 2 | しつれいですが、おなまえ は？ | Maaf, nama Anda siapa? |
+| 3 | 4 | これ は にほんご の しんぶん です。 | Ini koran berbahasa Jepang. |
+| 4 | 1 | あのう、これ、ほんの きもち です。 | Eh, ini sekadar tanda mata. |
+| 5 | 4 | この ネクタイ は いくら です か。 | Dasi ini berapa? |
+| 6 | 2 | わたし の へや は ごかい です。 | Kamar saya di lantai 5. |
+| 7 | 3 | あした は にちようび です。きょう は どようび です。 | Besok Minggu. Hari ini Sabtu. |
+| 8 | 4 | びじゅつかん は ごご ごじ に おわります。 | Museum seni tutup jam 5 sore. |
+| 9 | 3 | つぎ の でんしゃ は なんじ です か。 | Kereta berikutnya jam berapa? |
+| 10 | 1 | いつ くに へ かえります か。 | Kapan pulang ke negara asal? |
 
-## BAGIAN II: Partikel
+## もんだい２　Kalimat yang Artinya Sama
 
-| No | Jawaban | Pola yang diuji |
+| No | Jwb | Alasan |
 |---|---|---|
-| 16 | も | N も (juga) — Bab 1 |
-| 17 | の | N1 の N2 (afiliasi) — Bab 1 |
-| 18 | に | jam ＋ に — Bab 4 |
-| 19 | まで | ～から ～まで — Bab 4 |
-| 20 | と | orang ＋ と (bersama) — Bab 5 |
-| 21 | で | kendaraan ＋ で — Bab 5 |
-| 22 | へ (に diterima) | tujuan ＋ へ — Bab 5 |
-| 23 | か | ～ですか、～ですか (pilihan) — Bab 2 |
-| 24 | を | N を ください — Bab 3 |
-| 25 | は | N は どこ ですか — Bab 3 |
+| 11 | 2 | どなた = bentuk sopan だれ. |
+| 12 | 3 | この かばん は ワンさん の です = これ は ワンさん の かばん です. |
+| 13 | 4 | どちら = bentuk sopan どこ. |
+| 14 | 1 | やすみ = libur, tidak bekerja. |
+| 15 | 2 | Hari ini tanggal 9, besok tanggal 10 (とおか). |
 
-## BAGIAN III: Bentuk Kata dan Bunpou
+## もんだい３　Bunpou
 
-| No | Jawaban | Jawaban lain yang diterima | Pola yang diuji |
+| No | Jwb | Jawaban | Pola yang diuji |
 |---|---|---|---|
-| 26 | じゃ ありません | では ありません | Negatif kata benda — Bab 1 |
-| 27 | どなた | — (だれ tidak sopan) | Bertanya "siapa" dengan sopan — Bab 1 |
-| 28 | その | — | この／その／あの ＋ N — Bab 2 |
-| 29 | なん の | — | なんの (isi/jenis) — Bab 2 |
-| 30 | そこ | そちら | ここ／そこ／あそこ — Bab 3 |
-| 31 | さんぜん | — | Bacaan harga — Bab 3 |
-| 32 | やすみませんでした | — | ～ませんでした — Bab 4 |
-| 33 | くじ はん | くじ さんじゅっぷん / さんじっぷん | Bacaan jam — Bab 4 |
-| 34 | ろくがつ はつか | — | Bacaan tanggal — Bab 5 |
-| 35 | いきました | — | ～ました — Bab 5 |
+| 16 | 2 | は | N1 は N2 です |
+| 17 | 3 | か | Kalimat tanya ～か |
+| 18 | 1 | じゃ ありません | Negatif kata benda |
+| 19 | 4 | それ | これ／それ／あれ sesuai jarak |
+| 20 | 2 | か | Pertanyaan pilihan ～か、～か |
+| 21 | 3 | そう | はい、そうです |
+| 22 | 1 | どこ | N は どこ ですか |
+| 23 | 2 | を | N を ください |
+| 24 | 1 | どこ | どこの N (asal barang) |
+| 25 | 3 | に | Jam ＋ に |
+| 26 | 4 | べんきょうしませんでした | ～ませんでした |
+| 27 | 2 | なんじ | Menanyakan jam |
+| 28 | 4 | と | Orang ＋ と (bersama) |
+| 29 | 4 | しがつ ついたち | Bacaan tanggal |
+| 30 | 1 | も | どこ［へ］も ＋ negatif |
 
-## BAGIAN IV: Memilih Jawaban yang Tepat
+## もんだい４　Mengurutkan Kata (★)
 
-| No | Jawaban | Situasi |
+| No | Jwb | Kalimat lengkap (★ = kata bergaris bawah) |
 |---|---|---|
-| 36 | a | Membalas perkenalan diri — Bab 1 |
-| 37 | b | Menerima oleh-oleh — Bab 2 |
-| 38 | c | Menanyakan letak tempat penjualan — Bab 3 |
-| 39 | b | Kegiatan rutin, bentuk ます (bukan ました) — Bab 4 |
-| 40 | a | Bertanya kereta di stasiun — Bab 5 |
+| 31 | 3 | あの ひと は IMC <u>の</u> しゃいん です。 |
+| 32 | 4 | それ は <u>だれ</u> の かさ です か。 |
+| 33 | 1 | この とけい は <u>いちまん</u> えん です。 |
+| 34 | 2 | ゆうびんきょく の やすみ <u>は</u> なんようび です か。 |
+| 35 | 4 | ミラーさん の たんじょうび は <u>くがつ</u> はつか です。 |
 
-## BAGIAN V: Menyusun Kalimat
+## もんだい５　Bunpou dalam Teks
 
-| No | Jawaban | Urutan lain yang diterima | Arti |
+| No | Jwb | Jawaban | Pola yang diuji |
 |---|---|---|---|
-| 41 | これ は だれ の かさ です か。 | — | Ini payung siapa? |
-| 42 | この とけい は どこ の です か。 | — | Jam ini buatan mana? |
-| 43 | わたし は せんしゅう の どようび も はたらきました。 | せんしゅう の どようび も わたし は はたらきました。 | Sabtu minggu lalu pun saya bekerja. |
-| 44 | ワットさん は さくらだいがく の せんせい です。 | — | Pak Watt guru di Universitas Sakura. |
-| 45 | じゅうにがつ に インドネシア へ かえります。 | インドネシア へ じゅうにがつ に かえります。 | Bulan Desember pulang ke Indonesia. |
+| 36 | 2 | の | N1 の N2 (afiliasi) |
+| 37 | 1 | で | Kendaraan ＋ で |
+| 38 | 4 | まで | ～から ～まで |
+| 39 | 3 | いきました | ～ました (せんしゅう) |
+| 40 | 1 | いつ | Menanyakan waktu |
 
-## BAGIAN VI: Membaca
+## もんだい６–７　Membaca
 
-| No | Jawaban | Bukti di teks |
+| No | Jwb | Bukti di teks |
 |---|---|---|
-| 46 | S | がくせい です。 |
-| 47 | B | まいあさ ろくじ に おきます。 |
-| 48 | S | あるいて だいがく へ いきます。 |
-| 49 | S | きのう は だいがく へ いきませんでした。 |
-| 50 | B | らいしゅう の どようび に きょうと へ いきます。 |
-
-**Arti teks:** Saya Rina, orang Indonesia, mahasiswa. Setiap pagi bangun jam 6 dan berjalan kaki ke kampus. Sabtu dan Minggu libur. Kemarin tidak ke kampus, saya libur. Sabtu minggu depan saya pergi ke Kyoto.
+| 41 | 3 | あさって は かいしゃ へ きます。 |
+| 42 | 4 | あるいて だいがく へ いきます。 |
+| 43 | 2 | せんしゅう の にちようび、ひとりで きょうと へ いきました。 |
+| 44 | 3 | ばん じゅういちじ に ねます。 |
+| 45 | 2 | Hari ini tanggal 8, ulang tahunnya besok, yaitu tanggal 9 (ここのか). |
+| 46 | 3 | さんがい：くつ・かばん |
+| 47 | 2 | ちか いっかい：ワイン・コーヒー |
+| 48 | 1 | ごぜん じゅうじ 〜 ごご はちじ |
+| 49 | 4 | やすみ：かようび |
+| 50 | 2 | よんかい：とけい・カメラ |
 
 **Catatan:**
-- Bacaan angka yang sering keliru: さんぜん (bukan さんせん), くじ (bukan きゅうじ), はつか (bukan にじゅうにち).
-- Isi rekap per bagian di bawah, lalu cocokkan nomor soal yang banyak salah dengan kisi-kisi untuk menentukan bab yang perlu diulang.
+- Soal ★ hanya dinilai dari kata di posisi ★. Jika banyak yang salah, minta siswa menulis kalimat lengkapnya untuk mengecek apakah urutannya sudah benar dan hanya salah melingkari.
+- Bacaan angka yang sering keliru: しがつ (bukan よんがつ), ついたち (bukan いちにち), くがつ (bukan きゅうがつ).
 
 <div style="break-before: page"></div>
 
 ## Rekap Nilai Kelas
 
-Isi jumlah jawaban benar per bagian. Nilai = jumlah benar × 2.
+Isi jumlah jawaban benar per もんだい. Nilai = jumlah benar × 2.
 
-| No | Nama | I (15) | II (10) | III (10) | IV (5) | V (5) | VI (5) | Benar (50) | Nilai |
-|---|---|---|---|---|---|---|---|---|---|
-| 1 | | | | | | | | | |
-| 2 | | | | | | | | | |
-| 3 | | | | | | | | | |
-| 4 | | | | | | | | | |
-| 5 | | | | | | | | | |
-| 6 | | | | | | | | | |
-| 7 | | | | | | | | | |
-| 8 | | | | | | | | | |
-| 9 | | | | | | | | | |
-| 10 | | | | | | | | | |
-| 11 | | | | | | | | | |
-| 12 | | | | | | | | | |
-| 13 | | | | | | | | | |
-| 14 | | | | | | | | | |
-| 15 | | | | | | | | | |
-| 16 | | | | | | | | | |
-| 17 | | | | | | | | | |
-| 18 | | | | | | | | | |
-| 19 | | | | | | | | | |
-| 20 | | | | | | | | | |
+| No | Nama | 1 (10) | 2 (5) | 3 (15) | 4 (5) | 5 (5) | 6 (5) | 7 (5) | Benar (50) | Nilai |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | | | | | | | | | | |
+| 2 | | | | | | | | | | |
+| 3 | | | | | | | | | | |
+| 4 | | | | | | | | | | |
+| 5 | | | | | | | | | | |
+| 6 | | | | | | | | | | |
+| 7 | | | | | | | | | | |
+| 8 | | | | | | | | | | |
+| 9 | | | | | | | | | | |
+| 10 | | | | | | | | | | |
+| 11 | | | | | | | | | | |
+| 12 | | | | | | | | | | |
+| 13 | | | | | | | | | | |
+| 14 | | | | | | | | | | |
+| 15 | | | | | | | | | | |
+| 16 | | | | | | | | | | |
+| 17 | | | | | | | | | | |
+| 18 | | | | | | | | | | |
+| 19 | | | | | | | | | | |
+| 20 | | | | | | | | | | |
 
 **Soal yang paling banyak salah:** ……………………………………………… → **Bab yang perlu diulang:** ………………………
