@@ -69,7 +69,7 @@ soal/evaluasi-bab-AA-BB/
 **Kunci**, dengan urutan:
 1. Judul `# Kunci Jawaban Evaluasi — Bab AA–BB` dan baris `**LEMBAR GURU / EVALUASI** · 50 soal × 2 = 100`.
 2. **Kunci cepat:** tabel 5 pasang kolom `| No | Jwb |`. Format ini dibaca oleh `soal/cek-kunci-evaluasi.py`, jadi jangan diubah.
-3. **Kisi-kisi:** bab × もんだい, berisi nomor soal dan jumlah per bab.
+3. **Kisi-kisi:** bab × もんだい, berisi nomor soal dan jumlah per bab. Soal yang terutama menguji materi blok sebelumnya (paling banyak sekitar 5 soal, hanya di もんだい５–７) dicatat di baris `Ulang AA–BB`. Contohnya ada di `soal/evaluasi-bab-06-10/`.
 4. Tabel per もんだい: もんだい１ memuat kalimat lengkap dan arti; もんだい２ alasan; もんだい３ dan ５ jawaban dan pola yang diuji; もんだい４ kalimat lengkap dengan kata ★ bergaris bawah; もんだい６–７ bukti di teks.
 5. Satu atau dua catatan singkat tentang kesalahan yang mungkin muncul.
 6. Pemisah halaman, lalu **Rekap Nilai Kelas** (20 baris, skor per もんだい).
