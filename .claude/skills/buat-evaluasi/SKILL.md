@@ -12,7 +12,7 @@ Blok yang diminta: $ARGUMENTS (jika kosong, tanyakan bloknya ke pengguna: 1–5,
 2. Buka kedua file Markdown di `soal/evaluasi-bab-01-05/` sebagai patokan format yang sudah disetujui pengguna.
 3. Kumpulkan cakupan blok: kunci tes kotoba dan post test di `soal/bab-NN/` untuk kelima bab (sebagai sumber kosakata, sekaligus supaya kalimatnya tidak disalin), `materi-minna-no-nihonggo.md`, dan `materi/script-bab-NN-senin.md`, untuk memastikan pola yang benar-benar diajarkan.
 4. Rencanakan kisi-kisi dahulu (bab × もんだい, sesuai sebaran di panduan bagian 1), lalu tulis soal dan kunci di `soal/evaluasi-bab-AA-BB/`, nomor bab dua digit.
-5. Jalankan `python3 soal/cek-kunci-evaluasi.py soal/evaluasi-bab-AA-BB`. Baca setiap opsi yang ditunjuk kunci, lalu jalankan daftar cek di panduan bagian 7: satu jawaban benar, tidak ada jawaban bocor, dan sebaran jawaban merata.
+5. Jalankan `python3 soal/cek-kunci-evaluasi.py soal/evaluasi-bab-AA-BB`. Baca setiap opsi yang ditunjuk kunci, lalu jalankan daftar cek di panduan bagian 7: satu jawaban benar dan tidak ada jawaban bocor. Setelah itu acak posisi jawaban dengan `python3 soal/acak-jawaban-evaluasi.py soal/evaluasi-bab-AA-BB`, lalu jalankan cek kunci sekali lagi.
 6. Generate PDF dengan `soal/build-pdf.sh`, atau dengan `soal/build-pdf-playwright.js` jika Chrome Mac tidak tersedia. Render PDF ke gambar dan lihat tata letaknya. Perbaiki lalu generate ulang bila perlu.
 7. Kirim kedua PDF ke pengguna. Sebutkan asumsi yang dipakai dan soal yang perlu keputusan pengguna.
 

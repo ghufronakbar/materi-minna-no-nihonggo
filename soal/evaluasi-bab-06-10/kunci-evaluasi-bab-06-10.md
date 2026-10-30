@@ -6,16 +6,16 @@
 
 | No | Jwb | No | Jwb | No | Jwb | No | Jwb | No | Jwb |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | 4 | 11 | 4 | 21 | 4 | 31 | 3 | 41 | 3 |
-| 2 | 1 | 12 | 1 | 22 | 2 | 32 | 2 | 42 | 4 |
-| 3 | 2 | 13 | 3 | 23 | 3 | 33 | 1 | 43 | 2 |
-| 4 | 3 | 14 | 2 | 24 | 4 | 34 | 4 | 44 | 4 |
-| 5 | 4 | 15 | 3 | 25 | 1 | 35 | 3 | 45 | 1 |
-| 6 | 1 | 16 | 4 | 26 | 2 | 36 | 2 | 46 | 3 |
-| 7 | 2 | 17 | 1 | 27 | 3 | 37 | 4 | 47 | 2 |
-| 8 | 3 | 18 | 2 | 28 | 1 | 38 | 3 | 48 | 4 |
-| 9 | 4 | 19 | 3 | 29 | 4 | 39 | 1 | 49 | 2 |
-| 10 | 1 | 20 | 1 | 30 | 3 | 40 | 2 | 50 | 4 |
+| 1 | 3 | 11 | 3 | 21 | 2 | 31 | 3 | 41 | 1 |
+| 2 | 3 | 12 | 2 | 22 | 1 | 32 | 2 | 42 | 3 |
+| 3 | 4 | 13 | 2 | 23 | 2 | 33 | 4 | 43 | 4 |
+| 4 | 2 | 14 | 3 | 24 | 1 | 34 | 1 | 44 | 1 |
+| 5 | 4 | 15 | 3 | 25 | 2 | 35 | 3 | 45 | 4 |
+| 6 | 4 | 16 | 1 | 26 | 4 | 36 | 1 | 46 | 3 |
+| 7 | 1 | 17 | 2 | 27 | 3 | 37 | 2 | 47 | 1 |
+| 8 | 1 | 18 | 4 | 28 | 1 | 38 | 4 | 48 | 2 |
+| 9 | 4 | 19 | 1 | 29 | 1 | 39 | 3 | 49 | 4 |
+| 10 | 2 | 20 | 2 | 30 | 3 | 40 | 4 | 50 | 3 |
 
 ## Kisi-kisi
 
@@ -32,45 +32,45 @@
 
 | No | Jwb | Kalimat lengkap | Arti |
 |---|---|---|---|
-| 1 | 4 | まいあさ しんぶん を よみます。 | Setiap pagi membaca koran. |
-| 2 | 1 | あした ワンさん に あいます。 | Besok bertemu Pak Wang. |
-| 3 | 2 | ナイフ で パン を きります。 | Memotong roti dengan pisau. |
-| 4 | 3 | わたし は がくせい です。まいにち せんせい に にほんご を ならいます。 | Saya pelajar. Setiap hari belajar bahasa Jepang dari guru. |
+| 1 | 3 | まいあさ しんぶん を よみます。 | Setiap pagi membaca koran. |
+| 2 | 3 | あした ワンさん に あいます。 | Besok bertemu Pak Wang. |
+| 3 | 4 | ナイフ で パン を きります。 | Memotong roti dengan pisau. |
+| 4 | 2 | わたし は がくせい です。まいにち せんせい に にほんご を ならいます。 | Saya pelajar. Setiap hari belajar bahasa Jepang dari guru. |
 | 5 | 4 | ふじさん は ゆうめい です。 | Gunung Fuji terkenal. |
-| 6 | 1 | …あの かばん は たかい です。 | …Tas itu mahal. |
-| 7 | 2 | わたし は ほん が たくさん あります。 | Saya punya banyak buku. |
-| 8 | 3 | きょう は じかん が ありません から、いきません。 | Hari ini tidak ada waktu, jadi tidak pergi. |
+| 6 | 4 | …あの かばん は たかい です。 | …Tas itu mahal. |
+| 7 | 1 | わたし は ほん が たくさん あります。 | Saya punya banyak buku. |
+| 8 | 1 | きょう は じかん が ありません から、いきません。 | Hari ini tidak ada waktu, jadi tidak pergi. |
 | 9 | 4 | あそこ に おおきい き が あります。 | Di sana ada pohon besar. |
-| 10 | 1 | ビール は れいぞうこ の なか に あります。 | Bir ada di dalam kulkas. |
+| 10 | 2 | ビール は れいぞうこ の なか に あります。 | Bir ada di dalam kulkas. |
 
 ## もんだい２　Kalimat yang Artinya Sama
 
 | No | Jwb | Alasan |
 |---|---|---|
-| 11 | 4 | Tidak sarapan = pagi tidak makan apa pun (なにも ＋ negatif). |
-| 12 | 1 | Saya meminjam dari Wang = Wang meminjamkan kepada saya (かります ↔ かします). |
-| 13 | 3 | Tidak tenang = ramai. |
-| 14 | 2 | ちょっと…… = penolakan halus, artinya tidak bisa (だめ). |
+| 11 | 3 | Tidak sarapan = pagi tidak makan apa pun (なにも ＋ negatif). |
+| 12 | 2 | Saya meminjam dari Wang = Wang meminjamkan kepada saya (かります ↔ かします). |
+| 13 | 2 | Tidak tenang = ramai. |
+| 14 | 3 | ちょっと…… = penolakan halus, artinya tidak bisa (だめ). |
 | 15 | 3 | Taman di kanan sekolah = sekolah di kiri taman. |
 
 ## もんだい３　Bunpou
 
 | No | Jwb | Jawaban | Pola yang diuji |
 |---|---|---|---|
-| 16 | 4 | で | Tempat kegiatan ＋ で — Bab 6 |
-| 17 | 1 | たべましょう | Menerima ajakan ～ませんか → ～ましょう — Bab 6 |
-| 18 | 2 | なに | なにを しますか — Bab 6 |
-| 19 | 3 | に | Orang ＋ に あげます — Bab 7 |
-| 20 | 1 | で | Alat/sarana ＋ で — Bab 7 |
-| 21 | 4 | です | もう～ましたか → いいえ、まだです — Bab 7 |
-| 22 | 2 | むずかしく ない です | Negatif kata sifat い (あまり ＋ negatif) — Bab 8 |
-| 23 | 3 | しんせつな | Kata sifat な ＋ N — Bab 8 |
-| 24 | 4 | どんな | どんな N ですか — Bab 8 |
-| 25 | 1 | が | N が すきです — Bab 9 |
-| 26 | 2 | ぜんぜん | ぜんぜん ＋ negatif — Bab 9 |
+| 16 | 1 | で | Tempat kegiatan ＋ で — Bab 6 |
+| 17 | 2 | たべましょう | Menerima ajakan ～ませんか → ～ましょう — Bab 6 |
+| 18 | 4 | なに | なにを しますか — Bab 6 |
+| 19 | 1 | に | Orang ＋ に あげます — Bab 7 |
+| 20 | 2 | で | Alat/sarana ＋ で — Bab 7 |
+| 21 | 2 | です | もう～ましたか → いいえ、まだです — Bab 7 |
+| 22 | 1 | むずかしく ない です | Negatif kata sifat い (あまり ＋ negatif) — Bab 8 |
+| 23 | 2 | しんせつな | Kata sifat な ＋ N — Bab 8 |
+| 24 | 1 | どんな | どんな N ですか — Bab 8 |
+| 25 | 2 | が | N が すきです — Bab 9 |
+| 26 | 4 | ぜんぜん | ぜんぜん ＋ negatif — Bab 9 |
 | 27 | 3 | どうして | どうして ～か。…～から — Bab 9 |
 | 28 | 1 | に | Tempat ＋ に います (bukan で) — Bab 10 |
-| 29 | 4 | や | N1 や N2 など — Bab 10 |
+| 29 | 1 | や | N1 や N2 など — Bab 10 |
 | 30 | 3 | います | Orang/hewan: います — Bab 10 |
 
 ## もんだい４　Mengurutkan Kata (★)
@@ -79,19 +79,19 @@
 |---|---|---|
 | 31 | 3 | あさ パン を たべます。<u>それから、</u>コーヒー を のみます。 |
 | 32 | 2 | 「ありがとう」 は えいご で <u>なん</u> です か。 |
-| 33 | 1 | ミラーさん の かばん は <u>どれ</u> です か。 |
-| 34 | 4 | わたし は りょうり が <u>あまり</u> じょうず じゃ ありません。 |
+| 33 | 4 | ミラーさん の かばん は <u>どれ</u> です か。 |
+| 34 | 1 | わたし は りょうり が <u>あまり</u> じょうず じゃ ありません。 |
 | 35 | 3 | こうえん は がっこう と びょういん <u>の</u> あいだ に あります。 |
 
 ## もんだい５　Bunpou dalam Teks
 
 | No | Jwb | Jawaban | Pola yang diuji |
 |---|---|---|---|
-| 36 | 2 | と | Orang ＋ と (bersama) — ulang Bab 5 |
-| 37 | 4 | じょうず | N が じょうずです — Bab 9 |
-| 38 | 3 | そして | Menyambung dua kesan — Bab 8 |
-| 39 | 1 | かいました | Bentuk lampau (せんしゅう) — Bab 6 |
-| 40 | 2 | あります | Bangunan/benda: あります — Bab 10 |
+| 36 | 1 | と | Orang ＋ と (bersama) — ulang Bab 5 |
+| 37 | 2 | じょうず | N が じょうずです — Bab 9 |
+| 38 | 4 | そして | Menyambung dua kesan — Bab 8 |
+| 39 | 3 | かいました | Bentuk lampau (せんしゅう) — Bab 6 |
+| 40 | 4 | あります | Bangunan/benda: あります — Bab 10 |
 
 **Arti teks:** Minggu lalu hari Minggu saya pergi ke department store bersama Wang. Wang orang Tiongkok, bahasa Jepangnya sangat pandai. Department store-nya besar dan ramai. Wang membeli sepatu, saya membeli buku. Rumah Wang ada di dekat stasiun.
 
@@ -99,16 +99,16 @@
 
 | No | Jwb | Bukti di teks |
 |---|---|---|
-| 41 | 3 | ワンさん と サントスさん は いきます。(Karina tidak pergi.) |
-| 42 | 4 | ベッド の した に ねこ が います。 |
-| 43 | 2 | つくえ の うえ に パソコン が あります。 |
-| 44 | 4 | ぎゅうにゅう を のみます。 |
-| 45 | 1 | パン と たまご を たべます。 |
+| 41 | 1 | ワンさん と サントスさん は いきます。(Karina tidak pergi.) |
+| 42 | 3 | ベッド の した に ねこ が います。 |
+| 43 | 4 | つくえ の うえ に パソコン が あります。 |
+| 44 | 1 | ぎゅうにゅう を のみます。 |
+| 45 | 4 | パン と たまご を たべます。 |
 | 46 | 3 | Urutan: えき｜ほんや｜ぎんこう｜はなや｜ゆうびんきょく |
-| 47 | 2 | ゆうびんきょく：ごご ごじ まで |
-| 48 | 4 | やすみ：どようび・にちようび → ぎんこう, ゆうびんきょく |
-| 49 | 2 | ほんや：やすみ すいようび |
-| 50 | 4 | はなや：やすみ げつようび |
+| 47 | 1 | ゆうびんきょく：ごご ごじ まで |
+| 48 | 2 | やすみ：どようび・にちようび → ぎんこう, ゆうびんきょく |
+| 49 | 4 | ほんや：やすみ すいようび |
+| 50 | 3 | はなや：やすみ げつようび |
 
 **Catatan:**
 - Soal 28 dan 30 menguji perbedaan yang sering tertukar: tempat keberadaan memakai に (bukan で), dan orang/hewan memakai います (bukan あります).

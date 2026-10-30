@@ -35,7 +35,7 @@ Semua soal pilihan ganda 1–4.
 - **Opsi harus sejenis**, misalnya semua kata benda, semua partikel, atau semua bentuk kata kerja yang sama.
 - **Tidak ada jawaban yang bocor.** Jawaban satu soal tidak boleh muncul dalam frasa yang sama persis di soal lain, terutama di potongan ★, teks もんだい５–７, dan kalimat bergaris bawah もんだい２. Contoh: potongan ★ 「この ワイン は どこ の です か」 membocorkan soal 「（どこ）の じどうしゃ」, sehingga soal ★ diganti.
 - **Soal ★ hanya boleh punya satu urutan alami.** Hindari potongan yang bisa ditukar, seperti keterangan waktu atau 「ともだち と」／「きょうと へ」. Pakai urutan yang tetap, misalnya 「くがつ はつか」 dan 「いちまん えん」. Posisi ★ jangan selalu di tempat yang sama.
-- **Sebarkan jawaban merata** di posisi 1–4 (masing-masing sekitar 10–15).
+- **Sebarkan jawaban merata dan acak** di posisi 1–4 (masing-masing sekitar 10–15). Jangan menyusun jawaban berpola (misalnya 1-2-3-4 berulang); siswa bisa menebaknya. Setelah soal dan kunci cocok, jalankan `python3 soal/acak-jawaban-evaluasi.py soal/evaluasi-bab-AA-BB` untuk mengacak posisi jawaban. Skrip ini memperbarui lembar soal, kunci cepat, dan kolom Jwb di tabel kunci sekaligus.
 - **Teks bacaan** ditulis paling banyak sekitar 7 kalimat. もんだい７ memakai tema blok, misalnya papan lantai, jam buka, dan harga untuk Bab 1–5.
 
 ## 4. Fokus per blok
@@ -85,7 +85,7 @@ Hasil di cloud memakai font Jepang yang tersedia di sana, bukan Hiragino.
 
 ## 7. Cek sebelum selesai
 
-1. Jalankan `python3 soal/cek-kunci-evaluasi.py soal/evaluasi-bab-AA-BB`. Baca setiap opsi yang ditunjuk kunci, lalu pastikan jumlah soal 50, sebaran jawaban merata, dan tidak ada kanji.
+1. Jalankan `python3 soal/cek-kunci-evaluasi.py soal/evaluasi-bab-AA-BB`. Baca setiap opsi yang ditunjuk kunci, lalu pastikan jumlah soal 50 dan tidak ada kanji. Setelah itu jalankan `soal/acak-jawaban-evaluasi.py`, lalu `cek-kunci-evaluasi.py` sekali lagi untuk memastikan teks opsi yang ditunjuk kunci tidak berubah.
 2. Untuk setiap soal, cek bahwa pengecoh tidak ada yang juga benar (bagian 3).
 3. Cari jawaban yang bocor antarbagian, terutama ★ dan teks bacaan.
 4. Cocokkan kisi-kisi dengan sebaran di bagian 1; jumlah per bab harus sama dengan 50.
