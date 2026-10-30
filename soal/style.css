@@ -48,3 +48,7 @@ blockquote {
   break-inside: avoid;
 }
 blockquote p { margin: 0; }
+
+/* Lembar jawaban pilihan ganda (evaluasi format JLPT) */
+.lembar-jawaban td, .lembar-jawaban th { white-space: nowrap; text-align: center; padding: 6pt 4pt; }
+.lembar-jawaban td:nth-child(even) { font-size: 13pt; letter-spacing: 2pt; }
