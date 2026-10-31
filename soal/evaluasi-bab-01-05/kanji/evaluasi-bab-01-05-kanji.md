@@ -174,6 +174,8 @@ Bacalah teks berikut. Apa yang tepat untuk （３６）–（４０）? Pilih sa
 39. （３９）　１　{行|い}きます　　２　{行|い}きません　　３　{行|い}きました　　４　{行|い}きませんでした
 40. （４０）　１　いつ　　２　どこ　　３　だれ　　４　{何|なん}
 
+<div style="break-before: page"></div>
+
 ## もんだい６　Membaca
 
 Bacalah teks berikut, lalu jawab pertanyaannya. Pilih satu dari １・２・３・４.
