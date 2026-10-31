@@ -48,7 +48,7 @@ Pilih kalimat yang artinya paling dekat dengan kalimat yang bergaris bawah.
     １　まいしゅう　いっかい　プール　へ　いきます。  
     ２　まいにち　いっかい　プール　へ　いきます。  
     ３　まいしゅう　にかい　プール　へ　いきます。  
-    ４　まいとし　いっかい　プール　へ　いきます。
+    ４　まいばん　いっかい　プール　へ　いきます。
 
 12. <u>バス　は　でんしゃ　より　おそい　です。</u>  
     １　でんしゃ　は　バス　より　おそい　です。  

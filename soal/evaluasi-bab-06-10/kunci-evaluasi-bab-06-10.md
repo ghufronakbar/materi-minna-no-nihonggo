@@ -93,7 +93,7 @@
 | 39 | 3 | かいました | Bentuk lampau (せんしゅう) — Bab 6 |
 | 40 | 4 | あります | Bangunan/benda: あります — Bab 10 |
 
-**Arti teks:** Minggu lalu hari Minggu saya pergi ke department store bersama Wang. Wang orang Tiongkok, bahasa Jepangnya sangat pandai. Department store-nya besar dan ramai. Wang membeli sepatu, saya membeli buku. Rumah Wang ada di dekat stasiun.
+**Arti teks:** Minggu lalu hari Minggu saya pergi ke department store bersama Wang. Wang orang Tiongkok, bahasa Jepangnya sangat pandai. Department store-nya besar dan ramai. Kami makan siang di department store, dan saya membeli buku. Rumah Wang ada di dekat stasiun.
 
 ## もんだい６–７　Membaca
 

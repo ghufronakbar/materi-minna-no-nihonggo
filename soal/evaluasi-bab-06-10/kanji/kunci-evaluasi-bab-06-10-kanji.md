@@ -95,7 +95,7 @@ Jawaban siswa berupa nomor pilihan (①–④), jadi tidak ada aturan penulisan 
 | 39 | 3 | {買|か}いました | Bentuk lampau ({先週|せんしゅう}) — Bab 6 |
 | 40 | 4 | あります | Bangunan/benda: あります — Bab 10 |
 
-**Arti teks:** Minggu lalu hari Minggu saya pergi ke department store bersama Wang. Wang orang Tiongkok, bahasa Jepangnya sangat pandai. Department store-nya besar dan ramai. Wang membeli sepatu, saya membeli buku. Rumah Wang ada di dekat stasiun.
+**Arti teks:** Minggu lalu hari Minggu saya pergi ke department store bersama Wang. Wang orang Tiongkok, bahasa Jepangnya sangat pandai. Department store-nya besar dan ramai. Kami makan siang di department store, dan saya membeli buku. Rumah Wang ada di dekat stasiun.
 
 <div style="break-before: page"></div>
 
