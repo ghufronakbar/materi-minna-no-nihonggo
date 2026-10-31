@@ -97,6 +97,8 @@ Jawaban siswa berupa nomor pilihan (①–④), jadi tidak ada aturan penulisan 
 
 **Arti teks:** Hari ini saya pergi ke laut bersama teman. Di stasiun turun dari kereta, lalu naik taksi. Lautnya luas dan sangat tenang. Saya belum pernah berenang di laut; hari ini pertama kali. Teman saya bisa berenang dengan pandai. Karena baik untuk badan, saya ingin berenang setiap minggu.
 
+<div style="break-before: page"></div>
+
 ## もんだい６–７　Membaca
 
 | No | Jwb | Bukti di teks |
