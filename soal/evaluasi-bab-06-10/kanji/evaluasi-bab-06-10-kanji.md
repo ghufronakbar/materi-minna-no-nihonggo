@@ -129,6 +129,8 @@ Apa yang tepat untuk （　　）? Pilih satu dari １・２・３・４.
 30. あそこ　に　{男|おとこ}　の　{人|ひと}　が　（　　）。  
     １　あります　　２　です　　３　います　　４　ありません
 
+<div style="break-before: page"></div>
+
 ## もんだい４　Mengurutkan Kata (★)
 
 Urutkan pilihan １–４ menjadi kalimat yang benar, lalu pilih kata yang masuk ke tempat **★**.
