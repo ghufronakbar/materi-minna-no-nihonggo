@@ -41,6 +41,8 @@ Kata apa yang tepat untuk （　　）? Pilih satu dari １・２・３・４.
 10. わからない　ことば　は　{辞書|じしょ}　で　（　　）。  
     １　{直|なお}す　　２　{要|い}る　　３　{電話|でんわ}する　　４　{調|しら}べる
 
+<div style="break-before: page"></div>
+
 ## もんだい２　Kalimat yang Artinya Sama
 
 Pilih kalimat yang artinya paling dekat dengan kalimat yang bergaris bawah.
@@ -123,6 +125,8 @@ Apa yang tepat untuk （　　）? Pilih satu dari １・２・３・４.
 
 30. きのう　は　{何|なに}も　（　　）。　({食|た}べませんでした → bentuk biasa)  
     １　{食|た}べない　　２　{食|た}べませんだった　　３　{食|た}べなくて　　４　{食|た}べなかった
+
+<div style="break-before: page"></div>
 
 ## もんだい４　Mengurutkan Kata (★)
 
