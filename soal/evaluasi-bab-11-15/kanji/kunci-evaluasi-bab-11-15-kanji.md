@@ -96,6 +96,8 @@ Jawaban siswa berupa nomor pilihan (①–④), jadi tidak ada aturan penulisan 
 
 **Arti teks:** Kemarin saya pergi ke kebun binatang bersama keluarga. Naik mobil kira-kira satu jam. Cuacanya sangat bagus. Di kebun binatang banyak anak sedang bermain. Ayah mengambil 100 lembar foto. Hari ini saya sangat lelah, jadi tidur cepat.
 
+<div style="break-before: page"></div>
+
 ## もんだい６–７　Membaca
 
 | No | Jwb | Bukti di teks |
