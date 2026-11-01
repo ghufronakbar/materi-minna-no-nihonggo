@@ -1,6 +1,6 @@
 # Catatan Koreksi Kosakata Bab 1–25
 
-Perbandingan antara `Kosakata minna no nihongo 1 Bab 1-25.pdf` (lama) dan `kosakata/kosakata-bab-01-25.md` (revisi).
+Perbandingan antara `Kosakata minna no nihongo 1 Bab 1-25.pdf` (lama, sudah dihapus dari repo; masih ada di riwayat git) dan `kosakata/kosakata-bab-01-25.md` (revisi).
 
 Penyeragaman tanpa mengubah isi tidak dicatat satu per satu: tanda ～ untuk semua awalan/akhiran (di PDF lama ada yang memakai ー, -, ~, atau 〜), kurung lebar （ ） pada teks Jepang, spasi berlebih, dan baris yang di scan bertumpuk (sudah dipisah).
 

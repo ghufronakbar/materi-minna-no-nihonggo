@@ -7,7 +7,7 @@
 3. `02-script-guidelines.md` — format, tingkat keringkasan, dan cara menyusun skrip.
 4. `materi/contoh-script-bab-14-senin-ringkas.md` — **patokan format yang sudah disetujui pengguna**.
 5. `contoh-kasar.md` — cuplikan gaya interaksi yang diinginkan.
-6. `materi-minna-no-nihonggo.md` dan kosakata bab terkait di `kosakata/kosakata-bab-01-25.md` — cakupan materi serta batas bahasa siswa. Daftar ini sudah dibersihkan dari salah kanji, bacaan, dan arti (lihat `kosakata/catatan-koreksi.md`). PDF scan lama `Kosakata minna no nihongo 1 Bab 1-25.pdf` tidak dipakai lagi.
+6. `materi-minna-no-nihonggo.md` dan kosakata bab terkait di `kosakata/kosakata-bab-01-25.md` — cakupan materi serta batas bahasa siswa. Daftar ini sudah dibersihkan dari salah kanji, bacaan, dan arti (lihat `kosakata/catatan-koreksi.md`). PDF scan lama sudah dihapus dari repo.
 7. `dasar/` — pegangan hafalan sensei (bilangan, jam, tanggal, counter, partikel, perubahan bentuk, dll.). Rujuk untuk mengecek bacaan dan bentuk dasar; jangan salin ulang tabelnya ke skrip.
 
 Skill `/buat-skrip <bab>` menjalankan alur pembuatan skrip Senin penuh untuk satu bab dari awal sampai file di `materi/` jadi.

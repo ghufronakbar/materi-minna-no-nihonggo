@@ -11,7 +11,7 @@ Setiap bab mendapat dua tes yang dicetak atau dibagikan ke siswa. Sumbernya ditu
 
 ## 1. Persiapan
 
-1. **Ambil kosakata bab dari** `kosakata/kosakata-bab-01-25.md`, bagian `## Bab N` (kolom No, Hiragana, Kanji, Arti). Daftar ini sudah dibersihkan dari salah kanji, bacaan, dan arti; PDF scan lama `Kosakata minna no nihongo 1 Bab 1-25.pdf` tidak dipakai lagi.
+1. **Ambil kosakata bab dari** `kosakata/kosakata-bab-01-25.md`, bagian `## Bab N` (kolom No, Hiragana, Kanji, Arti). Daftar ini sudah dibersihkan dari salah kanji, bacaan, dan arti. PDF scan lama sudah dihapus dari repo.
 2. **Jika masih menemukan kesalahan di daftar**, laporkan ke pengguna. Setelah disetujui, perbaiki `kosakata/kosakata-bab-01-25.md`, catat di `kosakata/catatan-koreksi.md`, lalu buat ulang PDF-nya: `NODE_PATH=$(npm root -g) node kosakata/build-pdf.js kosakata/kosakata-bab-01-25.md`.
 3. **Cek cakupan bunpou** di `materi-minna-no-nihonggo.md` dan di skrip bab terkait (`materi/script-bab-NN-senin.md`). Dari skrip itu, cari tahu pola apa yang baru diajarkan hari itu dan pola lama apa yang sudah dikuasai siswa.
 
