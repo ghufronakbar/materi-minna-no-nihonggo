@@ -209,7 +209,7 @@ Bentuk た dan bentuk biasa lampau: lihat `dasar/14-perubahan-kata-kerja.md`.
 - `もし` menekankan pengandaian dan dipasangkan dengan `～たら`; `いくら` dipasangkan dengan `～ても` (“seberapa pun”). Bedakan dengan `いくらですか` (Bab 3).
 - Di dalam anak kalimat, pelaku memakai `が`: `友達が来たら、～`.
 - `年を取ります` = menjadi tua; `取ります` biasa = mengambil (Bab 14).
-- Koreksi PDF: `億` = seratus juta (100.000.000), bukan “ratusan juta”; `1億円` = seratus juta yen. `保育園` adalah tempat penitipan anak (daycare). `大学院` = pascasarjana (S2/S3), `学士` = gelar sarjana.
+- `億` = seratus juta (100.000.000); `1億円` = seratus juta yen. `保育園` adalah tempat penitipan anak (daycare). `大学院` = pascasarjana (S2/S3), `学士` = gelar sarjana.
 - `いっぱい` di sini “penuh/kenyang” (`おなかがいっぱいです`), juga bisa “banyak”.
 - `お元気で` diucapkan saat berpisah lama, bukan untuk pulang sore biasa (`さようなら`／`お疲れさまでした`).
 - Koreksi: beri waktu berpikir → satu petunjuk → model jika diperlukan → coba lagi tanpa contoh.

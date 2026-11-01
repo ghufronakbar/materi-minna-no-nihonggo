@@ -234,7 +234,7 @@ Catat tiap can-do: **mandiri / perlu petunjuk / perlu model**. Ketiganya harus m
 - `おなかがすきました・のどが渇きました・疲れました` menyatakan keadaan sekarang dengan bentuk lampau.
 - `そうしましょう` menyetujui usulan. `ご注文は？` diucapkan pelayan. `別々にお願いします` berarti membayar sendiri-sendiri.
 - Untuk siswa Muslim, `お祈り` boleh diberikan sebagai kata tambahan: 「モスクへお祈りに行きます。」 `酒屋` ada di daftar tetapi tidak perlu dilatih.
-- Koreksi PDF: `美術館` lebih tepat “museum seni”.
+- `美術館` adalah museum seni.
 - Bentuk て baru di Bab 14; jangan dituntut.
 - Koreksi: beri waktu berpikir → satu petunjuk → model jika diperlukan → coba lagi tanpa contoh.
 

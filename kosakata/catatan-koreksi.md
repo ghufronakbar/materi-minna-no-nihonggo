@@ -51,32 +51,48 @@ Penyeragaman tanpa mengubah isi tidak dicatat satu per satu: tanda ～ untuk sem
 | 23 | 12 | Hiragana | ザイス | サイズ | Dakuten tertukar: size = サイズ (sa-i-zu), bukan ザイス. |
 | 23 | 22 | Kanji | 駐車所 | 駐車場 | Kanji salah: ちゅうしゃじょう = 駐車**場** (じょう), 所 dibaca しょ/じょ dan bukan kata yang dipakai. |
 
-## 2. Arti yang salah atau menyesatkan (22 perubahan)
+## 2. Arti yang salah atau menyesatkan (38 perubahan)
 
 | Bab | No | Kolom | Di PDF lama | Menjadi | Alasan |
 |---|---|---|---|---|---|
 | 1 | 9 | Arti | (akhiran yang dipakai untuk anak-anak laki-laki diletakan di depan nama anaknya) | (akhiran yang dipakai untuk anak laki-laki, diletakkan di belakang nama anaknya) | Arti terbalik: くん adalah akhiran, diletakkan di belakang nama |
 | 1 | 12 | Arti | guru, dosen (tidak dipakai untuk kalangan sendiri) | guru, dosen (dipakai untuk menyebut pekerjaan sendiri) | Keterangan terbalik: yang tidak dipakai untuk diri sendiri adalah せんせい |
+| 1 | 13 | Arti | mahasiswa | pelajar, mahasiswa | がくせい juga dipakai untuk pelajar/siswa (disamakan dengan skrip dan kunci Bab 1) |
 | 1 | 26 | Arti |  | umur berapa (bentuk sopan dari なんさい) | Kolom arti kosong |
 | 1 | 31 | Arti | apa kabar? (ucapan salam pada waktu pertama kali berkenalan) | perkenalkan, salam kenal (ucapan salam pada waktu pertama kali berkenalan) | はじめまして bukan "apa kabar?" |
 | 4 | 11 | Arti | gedung kesenian | museum seni, galeri seni | 美術館 = museum seni, bukan gedung pertunjukan |
 | 4 | 48 | Arti | di sana | di situ, tempat Anda (pihak lawan bicara) | Pada Bab 4 そちら menunjuk tempat lawan bicara, bukan "di sana" |
 | 4 | 49 | Arti | sangat menyusahkan, ya. (ungkapan rasa simpati dari lawan bicara terhadap si pembicara yang mengalami suatu hal yang dianggap susah/sulit) | wah, berat ya. (ungkapan simpati kepada lawan bicara yang mengalami hal yang susah/sulit) | Arah simpati terbalik: diucapkan pembicara kepada lawan bicara |
+| 6 | 24 | Arti | teh | teh hitam | 紅茶 = teh hitam, beda dengan お茶 |
 | 8 | 57 | Arti | silahkan datang lagi | silakan datang lagi | Ejaan baku "silakan" |
 | 9 | 6 | Arti | tidak pandai, bodoh, tidak mahir | tidak pandai, tidak mahir | 下手 tidak berarti "bodoh" |
+| 10 | 19 | Arti | lemari | rak | 棚 = rak, bukan lemari |
 | 13 | 31 | Arti | gedung kesenian | museum seni, galeri seni | Sama dengan Bab 4 No 11 |
+| 14 | 47 | Arti | alat penghitung otomatis | mesin penyesuaian tarif | 精算機 = mesin untuk membayar kekurangan tarif |
 | 14 | 64 | Arti | kereta api yang melewati pinggiran kota | kereta api rapid (lebih cepat dari kereta biasa, berhenti di stasiun tertentu) | 快速 bukan "kereta yang melewati pinggiran kota" |
 | 14 | 68 | Arti | berangkat dari～berangkat pukul～ | berangkat dari ～, berangkat pukul ～ | Pemisah yang hilang |
 | 14 | 69 | Arti | berangkat ke～ tiba pukul～ | tiba di ～, tiba pukul ～ | 着 = tiba, bukan "berangkat ke" |
 | 15 | 25 | Arti | pegawai kantor | pegawai negeri | 公務員 = pegawai negeri, bukan pegawai kantor |
 | 16 | 31 | Arti | punggung | tinggi badan (せが たかい: tinggi), punggung | Di Bab 16 背 dipakai untuk tinggi badan |
+| 17 | 30 | Arti | masuk angin | flu, pilek | かぜ lebih tepat flu/pilek ringan |
+| 17 | 53 | Arti | masuk angin | terkena flu, pilek | Disamakan dengan No 30 |
 | 18 | 34 | Arti | berjungkir balik | berdiri dengan tangan (handstand) | 逆立ち = berdiri dengan tangan, bukan berjungkir balik |
+| 19 | 11 | Arti | teh | teh, upacara minum teh | Di bab ini お茶 juga berarti upacara minum teh (茶道) |
 | 19 | 14 | Arti | sekali-sekali | belum pernah sekali pun (diikuti bentuk negatif) | 一度も bukan "sekali-sekali" |
+| 19 | 18 | Arti | tos | bersulang | "tos" kurang tepat; 乾杯 = bersulang |
+| 19 | 31 | Arti | komedi | cerita lucu tradisional (dibawakan satu orang) | 落語 bukan sekadar komedi |
 | 20 | 12 | Arti | Tempo akhir | Beberapa waktu lalu, tempo hari | "Tempo akhir" tidak jelas maknanya |
+| 21 | 27 | Arti | Taman bermain (playgroup) | Tempat penitipan anak (daycare) | 保育園 = penitipan anak, bukan playgroup |
+| 21 | 35 | Arti | Daerah | Kota kecil | 町 lebih tepat kota kecil |
+| 21 | 40 | Arti | Kepala Yayasan | Ketua (dewan) perusahaan | 会長 bukan kepala yayasan |
 | 22 | 15 | Arti | Kulkas | Lemari dinding (tempat menyimpan futon) | 押し入れ bukan kulkas |
 | 23 | 3 | Arti | Menukar | Mengubah, mengganti | 変えます = mengubah |
+| 23 | 16 | Arti | Rusak | Kerusakan (故障しています: rusak) | 故障 adalah kata benda |
 | 24 | 8 | Arti | Membuat, memasak | Membuat, menyeduh (kopi, teh) | いれます di Bab 24 = menyeduh kopi/teh, bukan memasak |
 | 25 | 9 | Arti | Ratusan Juta | Seratus juta | 億 = seratus juta (100.000.000), bukan "ratusan juta" |
+| 25 | 18 | Arti | Taman bermain (playgroup) | Tempat penitipan anak (daycare) | Sama dengan Bab 21 No 27 |
+| 25 | 25 | Arti | S2 | Pascasarjana (S2/S3) | 大学院 mencakup S2 dan S3 |
+| 25 | 26 | Arti | S1 | Gelar sarjana (S1) | 学士 adalah gelar, bukan jenjang sekolah |
 
 ## 3. Salah ketik dan teks terpotong pada kolom Arti (39 perubahan)
 
@@ -127,4 +143,4 @@ Penyeragaman tanpa mengubah isi tidak dicatat satu per satu: tanda ～ untuk sem
 - Kolom kanji yang dibiarkan kosong seperti di PDF lama, padahal buku Minna no Nihongo versi kanji menulisnya dengan kanji: きのう 昨日, きょう 今日, あした 明日, けさ 今朝 (Bab 4), うしろ 後ろ (Bab 10).
 - Variansi penulisan yang benar tetapi berbeda dari buku: 1人／2人 (buku: 一人／二人) dan ～ヶ月 (buku: ～か月) di Bab 11, 付けます (buku: つけます) di Bab 14.
 - もちます（持ちます）dari Bab 14 buku Minna no Nihongo tidak ada di daftar ini.
-- Beberapa arti masih bisa diperhalus, misalnya がくせい "pelajar, mahasiswa" (Bab 1), てちょう "buku agenda" (Bab 2), 紅茶 "teh hitam" (Bab 6), 棚 "rak" (Bab 10), 精算機 "mesin penyesuaian tarif" (Bab 14), 会長 "ketua/presiden komisaris" (Bab 21).
+- てちょう (Bab 2) diartikan sama dengan ノート; bisa diperjelas menjadi "buku agenda, buku catatan saku".

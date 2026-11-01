@@ -255,7 +255,7 @@ Catat tiap can-do: **mandiri / perlu petunjuk / perlu model**. Ketiganya harus m
 - `～から～まで` bisa langsung dengan `です` atau dengan kata kerja; boleh juga hanya salah satunya.
 - `と` hanya menghubungkan kata benda: `土曜日と日曜日`.
 - Nomor telepon dibaca per angka; tanda hubung dibaca `の`; 0 dibaca `ゼロ` atau `れい`.
-- `そちら` di telepon berarti “tempat Anda”, bukan sekadar “di sana” seperti di PDF. `大変ですね` adalah ungkapan simpati “wah, berat ya”. `美術館` lebih tepat “museum seni”.
+- `そちら` di telepon berarti “tempat Anda”, bukan sekadar “di sana”. `大変ですね` adalah ungkapan simpati “wah, berat ya”. `美術館` lebih tepat “museum seni”.
 - `かしこまりました` adalah ungkapan sopan petugas untuk “baik, saya mengerti”.
 - `行きます・来ます・帰ります` baru di Bab 5; `を` dan kata kerja seperti `食べます` di Bab 6. Jangan dipakai dalam latihan rutinitas.
 - Koreksi: beri waktu berpikir → satu petunjuk → model jika diperlukan → coba lagi tanpa contoh.

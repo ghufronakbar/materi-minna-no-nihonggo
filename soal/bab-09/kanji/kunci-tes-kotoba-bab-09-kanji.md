@@ -48,4 +48,4 @@ Di lembar siswa, kata Bagian II ditulis tanpa furigana.
 | 24 | a | きのう {友達|ともだち} と {野球|やきゅう} を しました。 | Kemarin bermain bisbol dengan teman. |
 | 25 | b | コンサート の チケット を {買|か}いました。 | Membeli tiket konser. |
 
-**Catatan:** Bagian III tidak memakai が dengan {好|す}き／{上手|じょうず}／わかります／あります, ～から (alasan), atau どうして, karena pola itu baru diajarkan setelah tes pagi. Di PDF kosakata, スポーツ salah tertulis スボーン.
+**Catatan:** Bagian III tidak memakai が dengan {好|す}き／{上手|じょうず}／わかります／あります, ～から (alasan), atau どうして, karena pola itu baru diajarkan setelah tes pagi.

@@ -31,7 +31,7 @@ Kata kerja tanpa ～ます dianggap salah. Kata sifat な yang ditulis dengan �
 | 16 | だいじょうぶ | tidak apa-apa | tidak masalah |
 | 17 | あぶない | bahaya | berbahaya |
 | 18 | ほけんしょう | kartu asuransi | — |
-| 19 | かぜ | masuk angin | flu, pilek |
+| 19 | かぜ | flu, pilek | masuk angin |
 | 20 | びょうき | penyakit | sakit |
 
 ## BAGIAN III

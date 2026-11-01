@@ -2,7 +2,7 @@
 
 **LEMBAR GURU / EVALUASI** · 25 soal × 4 = 100
 
-Kosakata Bab 22 di PDF hanya 20 kata dan semuanya dipakai (soal 11 menguji めがね dan かけます sekaligus). Soal 15–16 adalah kosakata ulangan Bab 9 yang dipakai di pola `V辞書形＋やくそく／ようじ` hari ini; soal 17–20 adalah ulangan Bab 21.
+Kosakata Bab 22 di daftar kosakata hanya 20 kata dan semuanya dipakai (soal 11 menguji めがね dan かけます sekaligus). Soal 15–16 adalah kosakata ulangan Bab 9 yang dipakai di pola `V辞書形＋やくそく／ようじ` hari ini; soal 17–20 adalah ulangan Bab 21.
 
 ## BAGIAN I
 
@@ -46,4 +46,4 @@ Kata kerja tanpa ～ます dianggap salah. Salah satu huruf dianggap salah; perh
 | 24 | b | あさ くつ を はきます。それから かいしゃ へ いきます。 | Pagi hari memakai sepatu, lalu pergi ke kantor. |
 | 25 | a | この へや の やちん は 1かげつ 4まんえん です。 | Sewa kamar ini 40.000 yen sebulan. |
 
-**Catatan:** PDF kosakata mengartikan おしいれ sebagai "kulkas"; artinya yang benar adalah lemari dinding untuk menyimpan futon (sudah dikoreksi di kelas). Bagian III tidak memakai kalimat penerang karena pola itu baru diajarkan setelah tes pagi.
+**Catatan:** Bagian III tidak memakai kalimat penerang karena pola itu baru diajarkan setelah tes pagi.

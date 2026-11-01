@@ -48,4 +48,4 @@ Di lembar siswa, kata Bagian II ditulis tanpa furigana.
 | 24 | c | ワンさん は {25歳|にじゅうごさい} です。 | Pak Wang berumur 25 tahun. |
 | 25 | c | {失礼|しつれい}ですが、お{名前|なまえ} は？……サントス です。 | Maaf, nama Anda siapa? …Santos. |
 
-**Catatan:** di PDF kosakata, {学生|がくせい} diartikan "mahasiswa"; terima juga "pelajar" atau "siswa". Ingatkan bahwa ～さん tidak dipakai untuk nama sendiri.
+**Catatan:** untuk {学生|がくせい}, terima "pelajar", "siswa", atau "mahasiswa". Ingatkan bahwa ～さん tidak dipakai untuk nama sendiri.

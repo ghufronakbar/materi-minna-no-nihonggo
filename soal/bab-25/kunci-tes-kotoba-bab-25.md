@@ -2,7 +2,7 @@
 
 **LEMBAR GURU / EVALUASI** · 25 soal × 4 = 100
 
-Kosakata Bab 25 di PDF ada 30 kata. Tidak dipakai: もし dan いくら (diuji bersama pola ～たら／～ても di post test), がくし, dan さいこん.
+Kosakata Bab 25 di daftar kosakata ada 30 kata. Tidak dipakai: もし dan いくら (diuji bersama pola ～たら／～ても di post test), がくし, dan さいこん.
 
 ## BAGIAN I
 
@@ -32,7 +32,7 @@ Kata kerja tanpa ～ます dianggap salah. Salah satu huruf dianggap salah; perh
 | 15 | せいねん | pemuda | anak muda |
 | 16 | ちゅうねん | setengah baya | paruh baya |
 | 17 | ようちえん | TK | taman kanak-kanak |
-| 18 | だいがくいん | pascasarjana | S2 (arti di PDF), S2/S3 |
+| 18 | だいがくいん | pascasarjana | S2, S3 |
 | 19 | しゅうしょく | bekerja (mendapat pekerjaan) | mencari/masuk kerja |
 | 20 | りこん | cerai | perceraian |
 
@@ -46,4 +46,4 @@ Kata kerja tanpa ～ます dianggap salah. Salah satu huruf dianggap salah; perh
 | 24 | b | この うち は 1おくえん です。とても たかい です。 | Rumah ini seratus juta yen. Mahal sekali. |
 | 25 | a | にほん では 15さい から 18さい まで こうとうがっこう で べんきょうします。 | Di Jepang, dari umur 15 sampai 18 tahun orang belajar di SMA. |
 
-**Catatan:** PDF mengartikan おく sebagai "ratusan juta"; yang benar seratus juta (100.000.000). ほいくえん adalah tempat penitipan anak (daycare), bukan playgroup. Bagian III tidak memakai ～たら atau ～ても karena pola itu baru diajarkan setelah tes pagi.
+**Catatan:** ほいくえん adalah tempat penitipan anak (daycare), bukan playgroup. Bagian III tidak memakai ～たら atau ～ても karena pola itu baru diajarkan setelah tes pagi.

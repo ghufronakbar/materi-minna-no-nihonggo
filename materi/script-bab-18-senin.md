@@ -2,7 +2,7 @@
 
 **Kelas:** ±20 siswa, 10 pasangan.  
 **Jadwal:** 07.30–10.00, 10.15–12.00, 13.00–16.30.  
-**Alat:** buku, pulpen, papan, kartu kata kerja bentuk ます, kartu kata gerak bentuk kamus (no. 26–46 di PDF), kartu informasi tempat (apa yang bisa dilakukan), kartu profil hobi, kartu peran wawancara kerja.
+**Alat:** buku, pulpen, papan, kartu kata kerja bentuk ます, kartu kata gerak bentuk kamus (no. 26–46 di daftar kosakata), kartu informasi tempat (apa yang bisa dilakukan), kartu profil hobi, kartu peran wawancara kerja.
 
 **Pertemuan sebelumnya:** Bab 17 sesuai `materi/script-bab-17-senin.md`. Jika sebagian Bab 17 dipindahkan, recall hanya bagian yang benar-benar sudah diajarkan.
 
@@ -71,7 +71,7 @@ Pasangan bergantian: A memperagakan atau menunjuk gambar, B menyebut kata. Cek b
 
 **Kelompok I:** **Sensei:** 「書きます→書く。」「飲みます→飲む。」 “Bunyi sebelum `ます` berubah dari baris い ke baris apa?” Lalu `買います→買う`.
 
-**Kata gerak:** bagikan kartu bentuk kamus dari PDF (`走る・泳ぐ・飛ぶ・投げる・押す・引く`…). Siswa mengubahnya kembali ke bentuk ます untuk mengecek pola.
+**Kata gerak:** bagikan kartu bentuk kamus dari daftar kosakata (`走る・泳ぐ・飛ぶ・投げる・押す・引く`…). Siswa mengubahnya kembali ke bentuk ます untuk mengecek pola.
 
 Gunakan pegangan di `dasar/14-perubahan-kata-kerja.md` untuk memilih kata. Pada setiap kelompok: satu contoh, siswa mencoba kata sejenis, pasangan memeriksa.
 
@@ -210,7 +210,7 @@ Catat tiap can-do: **mandiri / perlu petunjuk / perlu model**. Ketiganya harus m
 
 Bentuk kamus per kelompok: lihat `dasar/14-perubahan-kata-kerja.md`. Jebakan utama: `来ます→くる`, `します→する`, `買います→買う`, `あります→ある`.
 
-- Kosakata gerak (no. 26–46 di PDF) sudah dalam bentuk kamus; cocok untuk latihan mengubah kembali ke bentuk ます dan untuk peregangan, tidak wajib dihafal semua.
+- Kosakata gerak (no. 26–46 di daftar kosakata) sudah dalam bentuk kamus; cocok untuk latihan mengubah kembali ke bentuk ます dan untuk peregangan, tidak wajib dihafal semua.
 - `Nができます` untuk bahasa, olahraga, dan kata benda kegiatan (`運転ができます`). `V辞書形＋ことができます` untuk kata kerja. Negatif: `できません`.
 - `～ことができますか` juga menanyakan kemungkinan di suatu tempat (`カードで払うことができますか`). Berbeda dengan izin `～てもいいですか` (Bab 15).
 - `趣味は＋N／V辞書形ことです`; bentuk dengan kata kerja lebih spesifik.

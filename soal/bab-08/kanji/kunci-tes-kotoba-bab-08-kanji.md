@@ -48,4 +48,4 @@ Di lembar siswa, kata Bagian II ditulis tanpa furigana.
 | 24 | a | {富士山|ふじさん} は {日本|にほん} の {山|やま} です。 | Gunung Fuji adalah gunung di Jepang. |
 | 25 | c | {私|わたし} は {毎晩|まいばん} {寮|りょう} で {勉強|べんきょう}します。 | Setiap malam saya belajar di asrama. |
 
-**Catatan:** Bagian III tidak memakai kata sifat sebagai predikat atau penerang benda, karena pola itu baru diajarkan setelah tes pagi. Di PDF kosakata, やさしい diberi kanji 優しい (baik hati), padahal arti di bab ini "mudah" (易しい).
+**Catatan:** Bagian III tidak memakai kata sifat sebagai predikat atau penerang benda, karena pola itu baru diajarkan setelah tes pagi. やさしい di bab ini berarti "mudah" (易しい), bukan 優しい (baik hati).

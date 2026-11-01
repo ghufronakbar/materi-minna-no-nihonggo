@@ -18,7 +18,7 @@ Versi revisi: kanji, cara baca, dan arti sudah diperiksa ulang. Tanda ～ menand
 | 10 | ～じん | ～人 | (akhiran yang dipakai untuk menyatakan warga negara misalnya アメリカ人) |
 | 11 | せんせい | 先生 | guru, dosen (tidak dipakai untuk pekerjaan sendiri) |
 | 12 | きょうし | 教師 | guru, dosen (dipakai untuk menyebut pekerjaan sendiri) |
-| 13 | がくせい | 学生 | mahasiswa |
+| 13 | がくせい | 学生 | pelajar, mahasiswa |
 | 14 | かいしゃいん | 会社員 | pegawai perusahaan, karyawan, karyawati |
 | 15 | しゃいん | 社員 | pegawai perusahaan ～ (dipakai mengikuti perusahaan misalnya IMC のしゃいん) |
 | 16 | ぎんこういん | 銀行員 | pegawai bank |
@@ -308,7 +308,7 @@ Versi revisi: kanji, cara baca, dan arti sudah diperiksa ulang. Tanda ～ menand
 | 21 | くだもの | 果物 | buah-buahan |
 | 22 | みず | 水 | air |
 | 23 | おちゃ | お茶 | teh, teh jepang |
-| 24 | こうちゃ | 紅茶 | teh |
+| 24 | こうちゃ | 紅茶 | teh hitam |
 | 25 | ぎゅうにゅう（ミルク） | 牛乳 | susu sapi |
 | 26 | ジュース |  | jus |
 | 27 | ビール |  | bir |
@@ -532,7 +532,7 @@ Versi revisi: kanji, cara baca, dan arti sudah diperiksa ulang. Tanda ～ menand
 | 16 | れいぞうこ | 冷蔵庫 | kulkas, lemari es |
 | 17 | テーブル |  | meja |
 | 18 | ベッド |  | tempat tidur |
-| 19 | たな | 棚 | lemari |
+| 19 | たな | 棚 | rak |
 | 20 | ドア |  | pintu |
 | 21 | まど | 窓 | jendela |
 | 22 | ポスト |  | kotak pos |
@@ -801,7 +801,7 @@ Versi revisi: kanji, cara baca, dan arti sudah diperiksa ulang. Tanda ～ menand
 | 44 | おつり | お釣り | uang kembalian |
 | 45 | きっぷうりば | 切符売り場 | loket penjualan karcis |
 | 46 | じどうけんばいき | 自動券売機 | mesin karcis otomatis |
-| 47 | せいさんき | 精算機 | alat penghitung otomatis |
+| 47 | せいさんき | 精算機 | mesin penyesuaian tarif |
 | 48 | かいさつぐち | 改札口 | pintu pemeriksaan karcis |
 | 49 | でぐち | 出口 | pintu keluar |
 | 50 | いりぐち | 入口 | pintu masuk |
@@ -973,7 +973,7 @@ Versi revisi: kanji, cara baca, dan arti sudah diperiksa ulang. Tanda ～ menand
 | 27 | ですから |  | oleh karena itu |
 | 28 | どうしましたか |  | kenapa? Ada masalah apa? |
 | 29 | （～が）いたいです。 | （～が）痛いです。 | ～sakit |
-| 30 | かぜ |  | masuk angin |
+| 30 | かぜ |  | flu, pilek |
 | 31 | それから |  | dan, kemudian |
 | 32 | おだいじに | お大事に | semoga lekas sembuh |
 | 33 | からだ | 体 | badan |
@@ -996,7 +996,7 @@ Versi revisi: kanji, cara baca, dan arti sudah diperiksa ulang. Tanda ～ menand
 | 50 | かたがこります | 肩がこります | bahu pegal |
 | 51 | からだがだるい | 体がだるい | badan lemas |
 | 52 | かゆい |  | gatal |
-| 53 | かぜをひきます | 風邪をひきます | masuk angin |
+| 53 | かぜをひきます | 風邪をひきます | terkena flu, pilek |
 | 54 | インフルエンザ |  | influenza |
 | 55 | もうちょう | 盲腸 | usus buntu |
 | 56 | ぎっくりごし | ぎっくり腰 | sakit pinggang |
@@ -1093,14 +1093,14 @@ Versi revisi: kanji, cara baca, dan arti sudah diperiksa ulang. Tanda ～ menand
 | 8 | れんしゅう | 練習 | latihan |
 | 9 | ゴルフ |  | golf |
 | 10 | すもう | 相撲 | sumo |
-| 11 | おちゃ | お茶 | teh |
+| 11 | おちゃ | お茶 | teh, upacara minum teh |
 | 12 | ちょうし | 調子 | kondisi |
 | 13 | いちど | 一度 | sekali |
 | 14 | いちども | 一度も | belum pernah sekali pun (diikuti bentuk negatif) |
 | 15 | だんだん |  | berangsur-angsur, lama-kelamaan |
 | 16 | もうすぐ |  | tidak lama lagi |
 | 17 | おかげさまで |  | atas berkat |
-| 18 | かんぱい | 乾杯 | tos |
+| 18 | かんぱい | 乾杯 | bersulang |
 | 19 | ダイエット |  | diet |
 | 20 | むり（な） | 無理（な） | paksa, berlebihan |
 | 21 | からだにいい | 体にいい | baik untuk tubuh |
@@ -1113,7 +1113,7 @@ Versi revisi: kanji, cara baca, dan arti sudah diperiksa ulang. Tanda ～ menand
 | 28 | じゅうどう | 柔道 | Judo |
 | 29 | けんどう | 剣道 | Kendo (olahraga tradisional pedang jepang) |
 | 30 | からて | 空手 | karate |
-| 31 | らくご | 落語 | komedi |
+| 31 | らくご | 落語 | cerita lucu tradisional (dibawakan satu orang) |
 | 32 | しょうぎ | 将棋 | catur jepang |
 | 33 | パチンコ |  | pachinko |
 | 34 | ぼんおどり | 盆踊り | tari bon |
@@ -1169,7 +1169,7 @@ Versi revisi: kanji, cara baca, dan arti sudah diperiksa ulang. Tanda ～ menand
 | 24 | しかたがありません |  | Apa boleh buat (saat putus asa) |
 | 25 | しばらく |  | Sementara |
 | 26 | もちろん |  | Tentu saja |
-| 27 | ほいくえん | 保育園 | Taman bermain (playgroup) |
+| 27 | ほいくえん | 保育園 | Tempat penitipan anak (daycare) |
 | 28 | ようちえん | 幼稚園 | TK |
 | 29 | しょうがっこう | 小学校 | SD |
 | 30 | ちゅうがっこう | 中学校 | SMP |
@@ -1177,12 +1177,12 @@ Versi revisi: kanji, cara baca, dan arti sudah diperiksa ulang. Tanda ～ menand
 | 32 | だいがく | 大学 | Universitas |
 | 33 | けいさつ | 警察 | Polisi |
 | 34 | し | 市 | Kota |
-| 35 | まち | 町 | Daerah |
+| 35 | まち | 町 | Kota kecil |
 | 36 | むら | 村 | Desa |
 | 37 | かちょう | 課長 | Kepala Seksi (Supervisor) |
 | 38 | ぶちょう | 部長 | Kepala Bagian (Manager) |
 | 39 | しゃちょう | 社長 | Kepala Perusahaan (Direktur) |
-| 40 | かいちょう | 会長 | Kepala Yayasan |
+| 40 | かいちょう | 会長 | Ketua (dewan) perusahaan |
 
 ## Bab 22
 
@@ -1228,7 +1228,7 @@ Versi revisi: kanji, cara baca, dan arti sudah diperiksa ulang. Tanda ～ menand
 | 13 | おと | 音 | Bunyi |
 | 14 | きかい | 機械 | Mesin |
 | 15 | つまみ |  | Tombol |
-| 16 | こしょう | 故障 | Rusak |
+| 16 | こしょう | 故障 | Kerusakan (故障しています: rusak) |
 | 17 | みち | 道 | Jalan |
 | 18 | こうさてん | 交差点 | Perempatan |
 | 19 | しんごう | 信号 | Lampu Lalu Lintas |
@@ -1286,15 +1286,15 @@ Versi revisi: kanji, cara baca, dan arti sudah diperiksa ulang. Tanda ～ menand
 | 15 | せいねん | 青年 | Pemuda |
 | 16 | ちゅうねん | 中年 | Setengah baya |
 | 17 | ろうじん | 老人 | Orang tua |
-| 18 | ほいくえん | 保育園 | Taman bermain (playgroup) |
+| 18 | ほいくえん | 保育園 | Tempat penitipan anak (daycare) |
 | 19 | ようちえん | 幼稚園 | TK |
 | 20 | しょうがっこう | 小学校 | SD |
 | 21 | ちゅうがっこう | 中学校 | SMP |
 | 22 | こうとうがっこう | 高等学校 | SMA |
 | 23 | だいがく | 大学 | Universitas |
 | 24 | せんもんがっこう | 専門学校 | Sekolah Kejuruan |
-| 25 | だいがくいん | 大学院 | S2 |
-| 26 | がくし | 学士 | S1 |
+| 25 | だいがくいん | 大学院 | Pascasarjana (S2/S3) |
+| 26 | がくし | 学士 | Gelar sarjana (S1) |
 | 27 | しゅうしょく | 就職 | Bekerja |
 | 28 | けっこん | 結婚 | Menikah |
 | 29 | りこん | 離婚 | Cerai |

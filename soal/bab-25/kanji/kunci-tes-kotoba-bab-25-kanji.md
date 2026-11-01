@@ -2,7 +2,7 @@
 
 **LEMBAR GURU / EVALUASI** · 25 soal × 4 = 100
 
-Kosakata Bab 25 di PDF ada 30 kata. Tidak dipakai: もし dan いくら (diuji bersama pola ～たら／～ても di post test), {学士|がくし}, dan {再婚|さいこん}.
+Kosakata Bab 25 di daftar kosakata ada 30 kata. Tidak dipakai: もし dan いくら (diuji bersama pola ～たら／～ても di post test), {学士|がくし}, dan {再婚|さいこん}.
 
 ## BAGIAN I
 
@@ -34,7 +34,7 @@ Jawaban boleh ditulis hiragana atau kanji. Kanji yang salah tulis dianggap salah
 | 15 | {青年|せいねん} | pemuda | anak muda |
 | 16 | {中年|ちゅうねん} | setengah baya | paruh baya |
 | 17 | {幼稚園|ようちえん} | TK | taman kanak-kanak |
-| 18 | {大学院|だいがくいん} | pascasarjana | S2 (arti di PDF), S2/S3 |
+| 18 | {大学院|だいがくいん} | pascasarjana | S2, S3 |
 | 19 | {就職|しゅうしょく} | bekerja (mendapat pekerjaan) | mencari/masuk kerja |
 | 20 | {離婚|りこん} | cerai | perceraian |
 
@@ -50,4 +50,4 @@ Di lembar siswa, kata Bagian II ditulis tanpa furigana.
 | 24 | b | この うち は {1億円|いちおくえん} です。とても {高|たか}い です。 | Rumah ini seratus juta yen. Mahal sekali. |
 | 25 | a | {日本|にほん} では {15歳|じゅうごさい} から {18歳|じゅうはっさい} まで {高等学校|こうとうがっこう} で {勉強|べんきょう}します。 | Di Jepang, dari umur 15 sampai 18 tahun orang belajar di SMA. |
 
-**Catatan:** PDF mengartikan {億|おく} sebagai "ratusan juta"; yang benar seratus juta (100.000.000). {保育園|ほいくえん} adalah tempat penitipan anak (daycare), bukan playgroup. Bagian III tidak memakai ～たら atau ～ても karena pola itu baru diajarkan setelah tes pagi.
+**Catatan:** {保育園|ほいくえん} adalah tempat penitipan anak (daycare), bukan playgroup. Bagian III tidak memakai ～たら atau ～ても karena pola itu baru diajarkan setelah tes pagi.

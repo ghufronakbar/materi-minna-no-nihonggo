@@ -2,7 +2,7 @@
 
 **LEMBAR GURU / EVALUASI** · 25 soal × 4 = 100
 
-Kosakata Bab 24 di PDF hanya 17 kata dan semuanya dipakai. Soal 9–10 dan 22–23 adalah ulangan Bab 7 dan 14 yang menjadi dasar pola hari ini; soal 19–20 dan 24–25 adalah ulangan Bab 23.
+Kosakata Bab 24 di daftar kosakata hanya 17 kata dan semuanya dipakai. Soal 9–10 dan 22–23 adalah ulangan Bab 7 dan 14 yang menjadi dasar pola hari ini; soal 19–20 dan 24–25 adalah ulangan Bab 23.
 
 ## BAGIAN I
 
@@ -50,4 +50,4 @@ Di lembar siswa, kata Bagian II ditulis tanpa furigana.
 | 24 | b | テレビ が {故障|こしょう} して います。{見|み}る こと が {出来|でき}ません。 | TV-nya rusak. Tidak bisa ditonton. |
 | 25 | c | この つまみ を {回|まわ}す と、{音|おと} が {大|おお}きく なります。 | Kalau kenop ini diputar, suaranya menjadi keras. |
 
-**Catatan:** Bagian III tidak memakai くれます atau ～てあげます／～てもらいます／～てくれます karena pola itu baru diajarkan setelah tes pagi. PDF mengartikan いれます sebagai "membuat, memasak"; di bab ini artinya menyeduh kopi/teh.
+**Catatan:** Bagian III tidak memakai くれます atau ～てあげます／～てもらいます／～てくれます karena pola itu baru diajarkan setelah tes pagi. いれます di bab ini artinya menyeduh kopi/teh.

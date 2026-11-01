@@ -212,7 +212,7 @@ Catat tiap can-do: **mandiri / perlu petunjuk / perlu model**. Ketiganya harus m
 Bentuk た: lihat `dasar/14-perubahan-kata-kerja.md`. Pola dasarnya bentuk て dengan `て→た`, `で→だ`; jebakannya sama dengan bentuk て (`行った`).
 
 - `Vたことがあります`: pengalaman (pernah). Kejadian tertentu yang waktunya disebut memakai lampau biasa: `きのうすしを食べました`. Jawaban: `はい、あります／いいえ、ありません`.
-- Koreksi PDF: `一度も` + negatif berarti “(belum) sekali pun”, bukan “sekali-sekali”. `お茶` di daftar ini maksudnya upacara minum teh (`茶道`). `落語` adalah cerita lucu tradisional yang dibawakan satu orang.
+- `一度も` + negatif berarti “(belum) sekali pun”. `お茶` di daftar ini juga berarti upacara minum teh (`茶道`). `落語` adalah cerita lucu tradisional yang dibawakan satu orang.
 - `Vたり、Vたりします`: beberapa contoh kegiatan, tidak harus berurutan atau lengkap. Kala ditentukan `します／しました` di akhir. Bandingkan `Vて、Vて` (Bab 16) yang berurutan.
 - `Aい→くなります` (`いい→よくなります`), `Aな／N→になります`.
 - `だんだん` = lambat laun; `もうすぐ` = sebentar lagi.

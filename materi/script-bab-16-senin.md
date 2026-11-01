@@ -209,7 +209,7 @@ Bentuk て kata kerja: lihat `dasar/14-perubahan-kata-kerja.md`. Bentuk `くて�
 - `Vてから`: menekankan “setelah melakukan …”. Pelakunya sama.
 - `Aい→くて` (`いい→よくて`), `Aな→で`, `N→で`. Hanya untuk sifat yang searah; sifat berlawanan memakai `～が` (Bab 8).
 - `N1はN2がA`: N2 adalah bagian atau aspek dari N1 (`背が高い・髪が長い・緑が多い`).
-- Koreksi PDF: `背` di bab ini berarti tinggi badan (`背が高い`), bukan “punggung”.
+- `背` di bab ini berarti tinggi badan (`背が高い`).
 - `電車に乗ります` (`に`), `電車を降ります` (`を`, tempat yang ditinggalkan). `降ります`（おります）kelompok II: `降りて`; berbeda dengan `雨が降ります`（ふります, Bab 14）, kelompok I: `降って`.
 - `大学に入ります` (masuk), `大学を出ます` (lulus/keluar). `シャワーを浴びます`.
 - `どうやって` menanyakan cara atau rute. `どの＋N` memilih dari tiga atau lebih; `どれ` tanpa kata benda (Bab 8).

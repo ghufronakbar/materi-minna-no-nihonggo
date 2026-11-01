@@ -2,7 +2,7 @@
 
 **LEMBAR GURU / EVALUASI** · 25 soal × 4 = 100
 
-Kosakata Bab 24 di PDF hanya 17 kata dan semuanya dipakai. Soal 9–10 dan 22–23 adalah ulangan Bab 7 dan 14 yang menjadi dasar pola hari ini; soal 19–20 dan 24–25 adalah ulangan Bab 23.
+Kosakata Bab 24 di daftar kosakata hanya 17 kata dan semuanya dipakai. Soal 9–10 dan 22–23 adalah ulangan Bab 7 dan 14 yang menjadi dasar pola hari ini; soal 19–20 dan 24–25 adalah ulangan Bab 23.
 
 ## BAGIAN I
 
@@ -46,4 +46,4 @@ Kata kerja tanpa ～ます dianggap salah. Untuk soal 5, おじいちゃん juga
 | 24 | b | テレビ が こしょう して います。みる こと が できません。 | TV-nya rusak. Tidak bisa ditonton. |
 | 25 | c | この つまみ を まわす と、おと が おおきく なります。 | Kalau kenop ini diputar, suaranya menjadi keras. |
 
-**Catatan:** Bagian III tidak memakai くれます atau ～てあげます／～てもらいます／～てくれます karena pola itu baru diajarkan setelah tes pagi. PDF mengartikan いれます sebagai "membuat, memasak"; di bab ini artinya menyeduh kopi/teh.
+**Catatan:** Bagian III tidak memakai くれます atau ～てあげます／～てもらいます／～てくれます karena pola itu baru diajarkan setelah tes pagi. いれます di bab ini artinya menyeduh kopi/teh.

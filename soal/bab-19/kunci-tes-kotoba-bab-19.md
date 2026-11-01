@@ -44,4 +44,4 @@ Kata kerja tanpa ～ます dianggap salah. Salah satu huruf dianggap salah; perh
 | 24 | a | A：しょうぎ を する こと が できます か。B：はい、ちち と よく します。 | Bisa main shogi? …Ya, sering main dengan ayah. |
 | 25 | b | なつ の まつり で ぼんおどり を みる こと が できます。 | Di festival musim panas bisa melihat tari Bon. |
 
-**Catatan:** Bagian III tidak memakai bentuk た, ～たことがあります, ～たり～たり, atau ～なります, karena pola itu baru diajarkan setelah tes pagi. Di PDF kosakata, いちども diartikan "sekali-sekali"; arti yang benar "sekali pun tidak" (dipakai dengan kalimat negatif). Arti おちゃ tertulis "the" (teh) dan かんぱい tertulis "tos" (bersulang).
+**Catatan:** Bagian III tidak memakai bentuk た, ～たことがあります, ～たり～たり, atau ～なります, karena pola itu baru diajarkan setelah tes pagi. いちども berarti "sekali pun tidak" (dipakai dengan kalimat negatif).

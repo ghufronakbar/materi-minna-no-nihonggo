@@ -56,7 +56,7 @@
 **Jalan:** gambar peta di papan: `道・交差点・信号・角・橋・駐車場・建物`, kata kerja `歩きます・渡ります`, dan `～目`（2つ目）.  
 **Sensei menunjuk jembatan:** 「橋を渡ります。」 “Kalau jalan raya?”
 
-**Lainnya:** `引越しします・お正月・ごちそうさまでした・外国人登録証・図書館`.
+**Lainnya:** `引っ越しします・お正月・ごちそうさまでした・外国人登録証・図書館`.
 
 Pasangan bergantian: A memperagakan gerakan atau menunjuk peta, B menyebut kata. Cek beberapa siswa tanpa bantuan.
 
@@ -138,7 +138,7 @@ Berpasangan: A bertanya tiga hal; B menjawab dengan kalimat lengkap. Tukar.
 **Sensei:** 「仕事をするとき、帽子をかぶります。」（Bab 22）  
 **Sensei:** 「機械が動かないとき、触らないでください。課長に言ってください。」（Bab 17）  
 **Sensei:** 「会社を休むとき、会社に電話しなければなりません。」  
-**Sensei:** 「日本で引越ししたとき、市役所へ行きます。」  
+**Sensei:** 「日本で引っ越ししたとき、市役所へ行きます。」  
 “Mana yang dilakukan sebelum pindah atau sesudah pindah? Saat mesin bermasalah, apa yang tidak boleh dilakukan?”
 
 **Buku saku magang:** pasangan membuat tiga aturan dengan `～とき` untuk pabrik atau asrama (`機械が故障したとき・道がわからないとき・熱があるとき`), memakai `～てください・～ないでください・～なければなりません`. Lalu bertukar dengan pasangan lain: satu membaca aturan, yang lain bertanya 「どうしてですか」.
@@ -205,7 +205,7 @@ Bentuk biasa: lihat bagian “Bentuk biasa (Bab 20)” di `dasar/14-perubahan-ka
 - `～目` menyatakan urutan: `2つ目の信号` (counter `～つ`, Bab 11).
 - `聞きます` juga berarti “bertanya”: `先生に聞きます`. `触ります` memakai `に`: `機械に触ります`.
 - `出ます`: `お釣りが出ます` (keluar sendiri); `うちを出ます` (keluar dari tempat, partikel `を`).
-- Koreksi PDF: `変えます` lebih tepat “mengubah/mengganti” daripada “menukar”. `故障` adalah kata benda “kerusakan”; untuk mesin: `故障しています`.
+- `変えます` berarti “mengubah/mengganti”. `故障` adalah kata benda “kerusakan”; untuk mesin: `故障しています`.
 - `外国人登録証` sudah tidak dipakai di Jepang; sejak 2012 diganti `在留カード`. Cukup dikenali saja.
 - `信号・曲がります・まっすぐ` sudah muncul di Bab 14; `押します・ボタン` di Bab 16.
 - Koreksi: beri waktu berpikir → satu petunjuk → model jika diperlukan → coba lagi tanpa contoh.

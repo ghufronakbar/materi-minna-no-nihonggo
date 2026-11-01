@@ -33,7 +33,7 @@ Jawaban boleh ditulis hiragana atau kanji. Kanji yang salah tulis dianggap salah
 | 16 | {大丈夫|だいじょうぶ} | tidak apa-apa | tidak masalah |
 | 17 | {危|あぶ}ない | bahaya | berbahaya |
 | 18 | {保険証|ほけんしょう} | kartu asuransi | — |
-| 19 | かぜ | masuk angin | flu, pilek |
+| 19 | かぜ | flu, pilek | masuk angin |
 | 20 | {病気|びょうき} | penyakit | sakit |
 
 Di lembar siswa, kata Bagian II ditulis tanpa furigana.

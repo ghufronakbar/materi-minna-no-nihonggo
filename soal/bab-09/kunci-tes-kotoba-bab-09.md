@@ -44,4 +44,4 @@ Kata sifat な yang ditulis dengan な (すきな) tetap diterima. Salah satu hu
 | 24 | a | きのう ともだち と やきゅう を しました。 | Kemarin bermain bisbol dengan teman. |
 | 25 | b | コンサート の チケット を かいました。 | Membeli tiket konser. |
 
-**Catatan:** Bagian III tidak memakai が dengan すき／じょうず／わかります／あります, ～から (alasan), atau どうして, karena pola itu baru diajarkan setelah tes pagi. Di PDF kosakata, スポーツ salah tertulis スボーン.
+**Catatan:** Bagian III tidak memakai が dengan すき／じょうず／わかります／あります, ～から (alasan), atau どうして, karena pola itu baru diajarkan setelah tes pagi.

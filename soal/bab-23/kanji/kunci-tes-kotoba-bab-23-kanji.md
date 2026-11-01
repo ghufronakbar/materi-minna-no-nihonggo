@@ -2,7 +2,7 @@
 
 **LEMBAR GURU / EVALUASI** · 25 soal × 4 = 100
 
-Kosakata Bab 23 di PDF ada 29 kata. Tidak dipakai: {法隆寺|ほうりゅうじ} (nama tempat), {外国人登録証|がいこくじんとうろくしょう} (sudah diganti {在留|ざいりゅう}カード, cukup dikenali), dan ～{屋|や}. つまみ diuji di post test.
+Kosakata Bab 23 di daftar kosakata ada 29 kata. Tidak dipakai: {法隆寺|ほうりゅうじ} (nama tempat), {外国人登録証|がいこくじんとうろくしょう} (sudah diganti {在留|ざいりゅう}カード, cukup dikenali), dan ～{屋|や}. つまみ diuji di post test.
 
 ## BAGIAN I
 
@@ -27,7 +27,7 @@ Jawaban boleh ditulis hiragana atau kanji. Kanji yang salah tulis dianggap salah
 
 | No | Soal | Jawaban | Jawaban lain yang diterima |
 |---|---|---|---|
-| 11 | {変|か}えます | mengubah, mengganti | menukar (arti di PDF) |
+| 11 | {変|か}えます | mengubah, mengganti | menukar |
 | 12 | {動|うご}きます | bergerak | berjalan (mesin), menyala |
 | 13 | {歩|ある}きます | berjalan kaki | berjalan |
 | 14 | サイズ | ukuran | — |

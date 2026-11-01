@@ -25,7 +25,7 @@ Kata kerja tanpa ～ます dianggap salah. Salah satu huruf dianggap salah; perh
 |---|---|---|---|
 | 11 | やすみます | beristirahat, libur | istirahat |
 | 12 | おわります | selesai | berakhir |
-| 13 | びじゅつかん | gedung kesenian | museum seni, galeri |
+| 13 | びじゅつかん | museum seni | galeri seni, gedung kesenian |
 | 14 | ごぜん | sebelum jam 12 siang | a.m., pagi |
 | 15 | ばん | malam | — |
 | 16 | おととい | kemarin dulu | 2 hari yang lalu, kemarin lusa |

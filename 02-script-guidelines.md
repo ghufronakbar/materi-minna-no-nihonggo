@@ -12,7 +12,7 @@ Tujuannya menghasilkan pegangan yang mudah dilihat saat mengajar: ringkas, berur
 - Materi lama yang perlu dipanggil kembali sebelum topik baru.
 - Can-do dan cara memeriksa kemampuan setiap siswa.
 
-Gunakan `materi-minna-no-nihonggo.md` untuk cakupan bab dan PDF untuk kosakata terkait. Periksa ejaan dan makna; jangan menganggap setiap terjemahan PDF selalu tepat. Jangan mengarang nomor halaman atau soal buku yang belum dilihat.
+Gunakan `materi-minna-no-nihonggo.md` untuk cakupan bab dan `kosakata/kosakata-bab-01-25.md` untuk kosakata terkait (bukan PDF scan lama). Jika masih menemukan kesalahan di daftar itu, laporkan ke pengguna lalu perbaiki daftarnya beserta `kosakata/catatan-koreksi.md`. Jangan mengarang nomor halaman atau soal buku yang belum dilihat.
 
 ## 2. Recall adalah prioritas
 

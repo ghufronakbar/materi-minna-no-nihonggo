@@ -11,12 +11,8 @@ Setiap bab mendapat dua tes yang dicetak atau dibagikan ke siswa. Sumbernya ditu
 
 ## 1. Persiapan
 
-1. **Ambil kosakata bab dari PDF** `Kosakata minna no nihongo 1 Bab 1-25.pdf`. Teks PDF ini rusak jika diekstrak (`pdftotext` menghasilkan huruf acak), jadi render halamannya menjadi gambar lalu baca:
-   ```bash
-   pdftoppm -f 25 -l 26 -r 110 -png "Kosakata minna no nihongo 1 Bab 1-25.pdf" <scratchpad>/bab
-   ```
-   Bab 14 ada di halaman 23–24 dan Bab 15 di halaman 25–26. Untuk bab lain, render beberapa halaman di resolusi rendah (`-r 60`) untuk mencari judul "Kosa Kata Bab N".
-2. **Periksa salah ketik di PDF.** Contoh: di Bab 15, `ソフト` tertulis `オフト`. Pakai bentuk yang benar di soal.
+1. **Ambil kosakata bab dari** `kosakata/kosakata-bab-01-25.md`, bagian `## Bab N` (kolom No, Hiragana, Kanji, Arti). Daftar ini sudah dibersihkan dari salah kanji, bacaan, dan arti; PDF scan lama `Kosakata minna no nihongo 1 Bab 1-25.pdf` tidak dipakai lagi.
+2. **Jika masih menemukan kesalahan di daftar**, laporkan ke pengguna. Setelah disetujui, perbaiki `kosakata/kosakata-bab-01-25.md`, catat di `kosakata/catatan-koreksi.md`, lalu buat ulang PDF-nya: `NODE_PATH=$(npm root -g) node kosakata/build-pdf.js kosakata/kosakata-bab-01-25.md`.
 3. **Cek cakupan bunpou** di `materi-minna-no-nihonggo.md` dan di skrip bab terkait (`materi/script-bab-NN-senin.md`). Dari skrip itu, cari tahu pola apa yang baru diajarkan hari itu dan pola lama apa yang sudah dikuasai siswa.
 
 ## 2. Aturan bahasa (berlaku untuk semua soal)
@@ -42,7 +38,7 @@ Aturan:
 - **Bagian III hanya memakai bentuk ます dan pola sampai bab sebelumnya**, karena bunpou bab ini belum diajarkan saat tes pagi.
 - **Opsi a/b/c harus sejenis:** semua kata kerja atau semua kata benda, supaya tidak bisa dijawab dari jenis katanya saja. Sebisa mungkin satu opsi pengecoh mirip bunyinya (contoh: かんごし/べんごし) atau artinya.
 - Pengecoh boleh diambil dari bab lama, misalnya すわります dan たちます dari Bab 14.
-- **Jika kosakata bab kurang dari 25 kata** (misalnya Bab 20 hanya 16 kata), lengkapi dengan kosakata yang diajarkan di skrip bab itu tetapi tidak ada di PDF (contoh: うん／ううん), lalu dengan kosakata ulangan dari bab-bab sebelumnya yang terdekat. Tandai di kunci, misalnya dengan "(ulangan Bab 17)" di samping soal dan satu baris keterangan di bawah judul kunci. Lihat `soal/bab-20/`.
+- **Jika kosakata bab kurang dari 25 kata** (misalnya Bab 20 hanya 16 kata), lengkapi dengan kosakata yang diajarkan di skrip bab itu tetapi tidak ada di daftar kosakata (contoh: うん／ううん), lalu dengan kosakata ulangan dari bab-bab sebelumnya yang terdekat. Tandai di kunci, misalnya dengan "(ulangan Bab 17)" di samping soal dan satu baris keterangan di bawah judul kunci. Lihat `soal/bab-20/`.
 
 ## 4. Post test (siang): 20 soal × 5 = 100
 
@@ -119,8 +115,8 @@ soal/bab-15/kanji/kunci-post-test-bab-15-kanji.md
 Folder lain mengikuti pola yang sama, misalnya `soal/evaluasi-bab-01-05/kanji/evaluasi-bab-01-05-kanji.md`.
 
 **Kata yang ditulis kanji**
-- Kosakata bab ini dan bab sebelumnya mengikuti **kolom Kanji di PDF kosakata**. Kolom kosong berarti kata itu tetap ditulis kana. Kolom kanji di kunci versi hiragana boleh dipakai sebagai acuan cepat, tetapi PDF yang menentukan.
-- Kata yang tidak ada di PDF mengikuti penulisan baku Minna no Nihongo.
+- Kosakata bab ini dan bab sebelumnya mengikuti **kolom Kanji di `kosakata/kosakata-bab-01-25.md`**. Kolom kosong berarti kata itu tetap ditulis kana. Kolom kanji di kunci versi hiragana boleh dipakai sebagai acuan cepat, tetapi daftar kosakata yang menentukan.
+- Kata yang tidak ada di daftar kosakata mengikuti penulisan baku Minna no Nihongo.
 - Tetap kana: partikel, okurigana, katakana, kosoado (これ, ここ, この), kata tanya selain 何 (だれ, どこ, いつ, いくら, どう), salam dan ungkapan (すみません, ありがとう ございます), serta bagian pola seperti います, あります, ください, いい, いけません, ～さん.
 - Bilangan ditulis dengan angka Arab dan counter kanji, dengan furigana bacaan lengkap: `{3時|さんじ}`, `{100円|ひゃくえん}`.
 - Spasi penuh `　` antarkata tetap sama seperti versi hiragana.
@@ -146,5 +142,5 @@ Folder lain mengikuti pola yang sama, misalnya `soal/evaluasi-bab-01-05/kanji/ev
    ```bash
    perl -CSD -ne 's/\{[^{}|]+\|[^{}|]+\}//g; print "$.: $_" if /\p{sc=Han}/' soal/bab-15/kanji/tes-kotoba-bab-15-kanji.md
    ```
-3. Kanji sesuai kolom Kanji di PDF kosakata, dan furigana sesuai bacaan di versi hiragana.
+3. Kanji sesuai kolom Kanji di `kosakata/kosakata-bab-01-25.md`, dan furigana sesuai bacaan di versi hiragana.
 4. Tidak ada `{` atau `|` yang tersisa di PDF. Furigana tampil di atas kanji dan tidak menabrak baris di atasnya.

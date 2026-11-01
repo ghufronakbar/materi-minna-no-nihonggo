@@ -6,7 +6,7 @@
 
 **Pertemuan sebelumnya:** Bab 13 sesuai `materi/script-bab-13-senin.md`. Jika sebagian Bab 13 dipindahkan, recall hanya bagian yang benar-benar sudah diajarkan.
 
-**Catatan:** alur mengikuti patokan `materi/contoh-script-bab-14-senin-ringkas.md`, disesuaikan dengan recall Bab 13, kosakata Bab 14 di PDF, dan latihan naik taksi.
+**Catatan:** alur mengikuti patokan `materi/contoh-script-bab-14-senin-ringkas.md`, disesuaikan dengan recall Bab 13, kosakata Bab 14 di `kosakata/kosakata-bab-01-25.md`, dan latihan naik taksi.
 
 **Can-do:** siswa bisa meminta tindakan, menyebut kegiatan yang sedang berlangsung, menawarkan bantuan dan menanggapinya, serta memberi arah sederhana saat naik taksi.
 
@@ -236,7 +236,7 @@ Pastikan kelompoknya dahulu; bunyi sebelum ます tidak selalu menentukan kelomp
 - `〜ています` pada pertemuan ini fokus kegiatan berlangsung. Penggunaan keadaan hasil, pekerjaan, dan tempat tinggal dibahas pada Bab 15.
 - Taksi: `～までお願いします`, `まっすぐ行ってください`, `信号を右へ曲がってください`, `ここで止めてください`, `お釣り`.
 - Kosakata stasiun (`改札口・東口・自動券売機・定期券・片道・往復` dan sejenisnya) cukup dikenalkan bila waktu tersisa; berguna saat di Jepang.
-- Koreksi PDF: `～着` berarti “tiba di/tiba pukul”, bukan “berangkat ke”; `精算機` adalah mesin penyesuaian tarif; `快速` adalah kereta cepat yang hanya berhenti di stasiun tertentu.
+- `～着` berarti “tiba di/tiba pukul”; `精算機` adalah mesin penyesuaian tarif; `快速` adalah kereta cepat yang hanya berhenti di stasiun tertentu.
 - Koreksi: beri waktu berpikir → satu petunjuk → model jika diperlukan → coba lagi tanpa contoh.
 
 ## E. Jika dijadwalkan pada Sabtu

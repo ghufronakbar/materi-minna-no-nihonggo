@@ -211,7 +211,7 @@ Bentuk biasa: lihat bagian “Bentuk biasa (Bab 20)” di `dasar/14-perubahan-ka
 - `～でしょう？` dengan intonasi naik meminta persetujuan. Sebelumnya bentuk biasa, tetapi kata sifat な dan kata benda **tanpa** `だ`: `元気でしょう？`, `休みでしょう？`.
 - `きっと` = pasti (perkiraan kuat); `もちろん` = tentu saja; `しかたがありません` = apa boleh buat; `～について` = tentang.
 - `足ります` = cukup: `お金が足りません`.
-- Koreksi PDF: `町` lebih tepat “kota kecil”, bukan sekadar “daerah”; `会長` adalah ketua (dewan) perusahaan, bukan “kepala yayasan”.
+- `町` adalah kota kecil; `会長` adalah ketua (dewan) perusahaan.
 - Kosakata tambahan (`保育園`–`大学`, `警察`, `市・町・村`) berguna untuk alamat dan sekolah di Jepang; cukup sebagai rujukan.
 - `伝えます` belum dipelajari; permintaan menyampaikan pesan cukup dalam bahasa Indonesia.
 - Koreksi: beri waktu berpikir → satu petunjuk → model jika diperlukan → coba lagi tanpa contoh.

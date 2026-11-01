@@ -206,7 +206,7 @@ Bentuk て: lihat `dasar/14-perubahan-kata-kerja.md`.
 - Partikel kata kerja asal tetap: `アユさんを手伝ってあげました`, `デウィさんの写真を撮ってあげました`, `デウィさんに町を案内してあげました`. Jangan otomatis memakai `に`.
 - `～てあげます` kepada atasan atau orang yang lebih tua terdengar menggurui. Untuk menawarkan langsung pakai `～ましょうか` (Bab 14). Kepada teman pun, tawaran langsung lebih alami dengan `～ましょうか`.
 - `送ります`: Bab 7 mengirim barang; di sini juga mengantar orang (`駅まで送ります`). `連れて行きます／連れて来ます` untuk orang/hewan; benda memakai `持って行きます／持って来ます` (Bab 17). `持ちます` sendiri belum diajarkan.
-- Koreksi PDF: `いれます` di sini “menyeduh/membuatkan” kopi atau teh (`コーヒーをいれます`), bukan memasak umum.
+- `いれます` di sini “menyeduh/membuatkan” kopi atau teh (`コーヒーをいれます`), bukan memasak umum.
 - `おじいさん／おばあさん` untuk kakek/nenek orang lain; kakek/nenek sendiri kepada orang luar: `祖父／祖母` (lihat `dasar/09-keluarga.md`). Panjang vokal membedakan `おじいさん` dan `おじさん`.
 - `自分で` berarti “sendiri, tanpa bantuan”: `自分でできます`.
 - Koreksi: beri waktu berpikir → satu petunjuk → model jika diperlukan → coba lagi tanpa contoh.

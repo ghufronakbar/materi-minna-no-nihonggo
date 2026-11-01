@@ -44,4 +44,4 @@ Salah satu huruf dianggap salah. Perhatikan panjang-pendek (びょういん/び�
 | 24 | c | ワンさん は にじゅうごさい です。 | Pak Wang berumur 25 tahun. |
 | 25 | c | しつれいですが、おなまえ は？……サントス です。 | Maaf, nama Anda siapa? …Santos. |
 
-**Catatan:** di PDF kosakata, がくせい diartikan "mahasiswa"; terima juga "pelajar" atau "siswa". Ingatkan bahwa ～さん tidak dipakai untuk nama sendiri.
+**Catatan:** untuk がくせい, terima "pelajar", "siswa", atau "mahasiswa". Ingatkan bahwa ～さん tidak dipakai untuk nama sendiri.

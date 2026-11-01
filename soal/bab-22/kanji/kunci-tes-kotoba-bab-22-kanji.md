@@ -2,7 +2,7 @@
 
 **LEMBAR GURU / EVALUASI** · 25 soal × 4 = 100
 
-Kosakata Bab 22 di PDF hanya 20 kata dan semuanya dipakai (soal 11 menguji めがね dan かけます sekaligus). Soal 15–16 adalah kosakata ulangan Bab 9 yang dipakai di pola `V辞書形＋やくそく／ようじ` hari ini; soal 17–20 adalah ulangan Bab 21.
+Kosakata Bab 22 di daftar kosakata hanya 20 kata dan semuanya dipakai (soal 11 menguji めがね dan かけます sekaligus). Soal 15–16 adalah kosakata ulangan Bab 9 yang dipakai di pola `V辞書形＋やくそく／ようじ` hari ini; soal 17–20 adalah ulangan Bab 21.
 
 ## BAGIAN I
 
@@ -50,4 +50,4 @@ Di lembar siswa, kata Bagian II ditulis tanpa furigana.
 | 24 | b | {朝|あさ} {靴|くつ} を はきます。それから {会社|かいしゃ} へ {行|い}きます。 | Pagi hari memakai sepatu, lalu pergi ke kantor. |
 | 25 | a | この {部屋|へや} の {家賃|やちん} は {1ヶ月|いっかげつ} {4万円|よんまんえん} です。 | Sewa kamar ini 40.000 yen sebulan. |
 
-**Catatan:** PDF kosakata mengartikan {押|お}し{入|い}れ sebagai "kulkas"; artinya yang benar adalah lemari dinding untuk menyimpan futon (sudah dikoreksi di kelas). Bagian III tidak memakai kalimat penerang karena pola itu baru diajarkan setelah tes pagi.
+**Catatan:** Bagian III tidak memakai kalimat penerang karena pola itu baru diajarkan setelah tes pagi.

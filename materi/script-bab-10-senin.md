@@ -217,7 +217,7 @@ Catat tiap can-do: **mandiri / perlu petunjuk / perlu model**. Ketiganya harus m
 - `や～など` menyebut beberapa contoh; `と` menyebut semuanya.
 - `あります` berarti “punya” (Bab 9) dan “ada” (Bab 10); kata kerjanya sama.
 - Rak: `いちばん上・いちばん下`, `上から2段目`. `奥` berarti bagian dalam/belakang.
-- Koreksi PDF: `棚` lebih tepat “rak”, bukan “lemari”. `［どうも］すみません` di sini berarti terima kasih sambil merasa merepotkan.
+- `棚` adalah rak. `［どうも］すみません` di sini berarti terima kasih sambil merasa merepotkan.
 - Kata bantu bilangan (`～つ・～人`) baru di Bab 11; jangan menuntut jumlah benda atau orang.
 - Koreksi: beri waktu berpikir → satu petunjuk → model jika diperlukan → coba lagi tanpa contoh.
 

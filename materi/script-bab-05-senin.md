@@ -248,7 +248,7 @@ Harga dan jalur fiktif. Buat dua set.
 - `に` dipakai dengan tanggal, bulan, dan jam: `3月10日に`. Tidak dipakai dengan `いつ` dan `先週・来月・去年` dan sejenisnya.
 - `よ` menyampaikan informasi yang belum diketahui lawan bicara. Jangan berlebihan, terutama kepada atasan.
 - `普通` adalah kereta lokal yang berhenti di setiap stasiun; `急行` lebih cepat; `特急` lebih cepat lagi dan berhenti di lebih sedikit stasiun.
-- Koreksi PDF: `らいげつ` ditulis `来月`, bukan `来週`; `はつか` berarti tanggal dua puluh, bukan dua puluh empat.
+- `らいげつ` ditulis `来月` (bukan `来週` = らいしゅう); `はつか` berarti tanggal dua puluh.
 - `彼・彼女` cukup dikenalkan sebagai “dia”; hindari pertanyaan pribadi tentang pacar.
 - `を` dan kata kerja seperti `食べます・見ます` baru di Bab 6; jangan dipakai dalam latihan.
 - Koreksi: beri waktu berpikir → satu petunjuk → model jika diperlukan → coba lagi tanpa contoh.

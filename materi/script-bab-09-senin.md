@@ -227,7 +227,7 @@ Catat tiap can-do: **mandiri / perlu petunjuk / perlu model**. Ketiganya harus m
 - `よく・だいたい・少し` dengan positif; `あまり・全然` dengan negatif. `たくさん・少し` untuk jumlah.
 - `嫌いです` terdengar keras; lebih halus `あまり好きじゃありません`.
 - `上手` jarang dipakai untuk diri sendiri. Saat dipuji, jawab dengan merendah.
-- Koreksi PDF: `下手` berarti “kurang mahir/tidak pandai” dalam keterampilan, bukan “bodoh”.
+- `下手` berarti “kurang mahir/tidak pandai” dalam keterampilan, bukan “bodoh”.
 - `あります` di sini berarti “punya” (waktu, urusan, janji, uang). Untuk orang dan hewan, `います` baru di Bab 10.
 - `～から`: alasan diletakkan sebelum `から`, hasil sesudahnya. Jawaban `どうして` boleh diakhiri `～から。`
 - Keluarga orang lain: `ご主人・奥さん`; keluarga sendiri: `主人／夫・家内／妻`.

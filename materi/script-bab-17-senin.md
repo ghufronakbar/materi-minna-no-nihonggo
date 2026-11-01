@@ -220,7 +220,7 @@ Bentuk ない per kelompok: lihat `dasar/14-perubahan-kata-kerja.md`. Jebakan ut
 - `持って行きます・持って来ます`: membawa (pergi/datang). `持ちます` sendiri belum diajarkan.
 - `お風呂に入ります`: mandi berendam. Obat memakai `飲みます`, bukan `食べます`.
 - Keluhan: `［bagian］が痛いです`, `熱があります`, `せきが出ます`, `かぜをひきました` (bentuk lampau untuk keadaan sekarang).
-- Koreksi PDF: `げりがします` lazimnya `下痢をしています`; `かぜをひき` lengkapnya `かぜをひきます`; `かぜ` lebih tepat “pilek/flu ringan”.
+- `下痢をします` dalam percakapan lazimnya `下痢をしています`. `かぜ` lebih tepat “pilek/flu ringan”.
 - `保険証` wajib dibawa ke klinik di Jepang. `どうしましたか` = “ada keluhan apa?”; `お大事に` = “semoga lekas sembuh”.
 - `ですから` di awal kalimat berarti “oleh karena itu”; berbeda posisi dengan `～から` (Bab 9).
 - Kosakata tambahan (`盲腸・骨折・二日酔い` dsb.) cukup sebagai rujukan; tidak perlu dilatih.

@@ -27,7 +27,7 @@ Jawaban boleh ditulis hiragana atau kanji. Kanji yang salah tulis dianggap salah
 |---|---|---|---|
 | 11 | {休|やす}みます | beristirahat, libur | istirahat |
 | 12 | {終|お}わります | selesai | berakhir |
-| 13 | {美術館|びじゅつかん} | gedung kesenian | museum seni, galeri |
+| 13 | {美術館|びじゅつかん} | museum seni | galeri seni, gedung kesenian |
 | 14 | {午前|ごぜん} | sebelum jam 12 siang | a.m., pagi |
 | 15 | {晩|ばん} | malam | — |
 | 16 | おととい | kemarin dulu | 2 hari yang lalu, kemarin lusa |

@@ -2,7 +2,7 @@
 
 **LEMBAR GURU / EVALUASI** · 25 soal × 4 = 100
 
-Kosakata Bab 23 di PDF ada 29 kata. Tidak dipakai: ほうりゅうじ (nama tempat), がいこくじんとうろくしょう (sudah diganti ざいりゅうカード, cukup dikenali), dan ～や. つまみ diuji di post test.
+Kosakata Bab 23 di daftar kosakata ada 29 kata. Tidak dipakai: ほうりゅうじ (nama tempat), がいこくじんとうろくしょう (sudah diganti ざいりゅうカード, cukup dikenali), dan ～や. つまみ diuji di post test.
 
 ## BAGIAN I
 
@@ -25,7 +25,7 @@ Kata kerja tanpa ～ます dianggap salah. Salah satu huruf dianggap salah; perh
 
 | No | Soal | Jawaban | Jawaban lain yang diterima |
 |---|---|---|---|
-| 11 | かえます | mengubah, mengganti | menukar (arti di PDF) |
+| 11 | かえます | mengubah, mengganti | menukar |
 | 12 | うごきます | bergerak | berjalan (mesin), menyala |
 | 13 | あるきます | berjalan kaki | berjalan |
 | 14 | サイズ | ukuran | — |

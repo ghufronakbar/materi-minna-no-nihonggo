@@ -231,7 +231,7 @@ Bentuk biasa kata kerja: lihat bagian “Bentuk biasa (Bab 20)” di `dasar/14-p
 - `けど` = “tetapi” dalam gaya akrab; `が` (Bab 8) lebih sopan.
 - `僕` dipakai laki-laki; `君` kepada teman sebaya atau junior, jangan kepada atasan. Perempuan umumnya tetap `わたし`. `お兄ちゃん・お姉ちゃん` adalah panggilan dalam keluarga.
 - Gaya akrab untuk teman sebaya, keluarga, dan junior. Kepada atasan, senpai, pelanggan, dan orang yang baru dikenal pakai gaya sopan. Di tempat kerja, ikuti gaya senpai; jika ragu, pilih sopan.
-- Koreksi PDF: `この間` berarti “tempo hari, beberapa waktu lalu”, bukan “tempo akhir”.
+- `この間` berarti “tempo hari, beberapa waktu lalu”.
 - Bentuk biasa akan dipakai lagi di dalam kalimat pada Bab 21–25 (`～と思います`, klausa penerang, `～とき`, `～たら`).
 - Pertanyaan akrab dengan `～の？` dan bentuk ajakan `～よう` belum diajarkan; cukup intonasi naik dan `～ない？`.
 - Koreksi: beri waktu berpikir → satu petunjuk → model jika diperlukan → coba lagi tanpa contoh.

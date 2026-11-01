@@ -44,4 +44,4 @@ Kata sifat な yang ditulis dengan な (しずかな) tetap diterima. Salah satu
 | 24 | a | ふじさん は にほん の やま です。 | Gunung Fuji adalah gunung di Jepang. |
 | 25 | c | わたし は まいばん りょう で べんきょうします。 | Setiap malam saya belajar di asrama. |
 
-**Catatan:** Bagian III tidak memakai kata sifat sebagai predikat atau penerang benda, karena pola itu baru diajarkan setelah tes pagi. Di PDF kosakata, やさしい diberi kanji 優しい (baik hati), padahal arti di bab ini "mudah" (易しい).
+**Catatan:** Bagian III tidak memakai kata sifat sebagai predikat atau penerang benda, karena pola itu baru diajarkan setelah tes pagi. やさしい di bab ini berarti "mudah" (易しい), bukan 優しい (baik hati).

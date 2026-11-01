@@ -209,7 +209,7 @@ Bentuk biasa untuk kalimat penerang: lihat bagian “Bentuk biasa (Bab 20)” di
 - Memakai pakaian: `着ます` (badan: シャツ・セーター・コート・スーツ・着物), `はきます` (bagian bawah dan kaki: 靴), `かぶります` (帽子), `かけます` (眼鏡). Keadaan memakai: `～ています` (Bab 15). Melepas umumnya `脱ぎます` (Bab 17).
 - `V辞書形＋時間・約束・用事`: `本を読む時間がありません`, `友達に会う約束があります`.
 - `よく` di Bab 22 berarti “sering”; di Bab 9 `よくわかります` berarti “dengan baik”.
-- Koreksi PDF: `押し入れ` adalah lemari dinding untuk menyimpan futon, **bukan** “kulkas”. `布団` adalah kasur dan selimut lipat ala Jepang.
+- `押し入れ` adalah lemari dinding untuk menyimpan futon. `布団` adalah kasur dan selimut lipat ala Jepang.
 - Bacaan harga sewa seperti `4万円`, `3万8千円`: lihat `dasar/01-bilangan.md`.
 - Saat menjelaskan pakaian teman, fokus pada warna dan jenis; hindari komentar yang bisa menyinggung.
 - `くれます` baru di Bab 24; pakai `～にもらった＋N`.

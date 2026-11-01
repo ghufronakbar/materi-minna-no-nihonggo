@@ -239,7 +239,7 @@ Kartu jadwal ditulis dalam bahasa Indonesia; alasannya tidak perlu diucapkan. Si
 - `～ませんか` adalah ajakan sopan, bukan pertanyaan negatif. Menerima: `ええ、いいですね／ええ、～ましょう`. Menolak: `すみません。～はちょっと…`.
 - `～ましょう` mengajak melakukan bersama atau mengusulkan; `～ませんか` lebih memberi pilihan kepada lawan bicara.
 - `何ですか` saat dipanggil berarti “ya, ada apa?”.
-- `お茶` umumnya teh Jepang; `紅茶` adalah teh hitam/teh ala Barat. PDF hanya menulis “teh”.
+- `お茶` umumnya teh Jepang; `紅茶` adalah teh hitam/teh ala Barat.
 - `ビール・お酒・吸います` ada di kosakata; latihan memakai makanan, minuman, dan kegiatan lain.
 - Kata sifat seperti `おいしい` baru di Bab 8; `～ましょうか` (menawarkan) di Bab 14. Jangan dituntut.
 - Koreksi: beri waktu berpikir → satu petunjuk → model jika diperlukan → coba lagi tanpa contoh.

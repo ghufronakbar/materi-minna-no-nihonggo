@@ -44,4 +44,4 @@ Kata kerja tanpa ～ます dianggap salah. Salah satu huruf dianggap salah; perh
 | 24 | b | つぎ の バス は なんじ です か。 | Bus berikutnya jam berapa? |
 | 25 | c | あの ひと は だれ です か。……ミラーさん です。 | Orang itu siapa? …Pak Miller. |
 
-**Catatan:** Bagian III tidak memakai へ, で (kendaraan), atau と (bersama), karena pola itu baru diajarkan setelah tes pagi. Di PDF kosakata, kanji らいげつ tertulis 来週 (seharusnya 来月), dan arti はつか tertulis "dua puluh empat" (seharusnya tanggal dua puluh). Betulkan jika siswa belajar dari PDF itu.
+**Catatan:** Bagian III tidak memakai へ, で (kendaraan), atau と (bersama), karena pola itu baru diajarkan setelah tes pagi.

@@ -278,7 +278,7 @@ Buat dua set agar setiap pasangan mendapat kartu.
 - `じゃありません` lazim dalam percakapan; `ではありません` lebih formal. Keduanya benar.
 - Jawaban negatif atas pertanyaan dengan `も` kembali memakai `は`: 「いいえ、ビマさんは学生じゃありません。」
 - `あなた` jarang dipakai kepada orang yang diajak bicara; gunakan nama＋さん.
-- Koreksi arti PDF: `はじめまして` bukan “apa kabar”, melainkan salam saat pertama berkenalan. `学生` tertulis “mahasiswa”, tetapi di kelas ini dipakai untuk pelajar.
+- `はじめまして` adalah salam saat pertama berkenalan, bukan “apa kabar”. `学生` dipakai untuk pelajar maupun mahasiswa.
 - `そうです・違います・そうですか・こちらこそ` baru di Bab 2; jangan dituntut.
 - Usia: 1歳 `いっさい`, 8歳 `はっさい`, 10歳 `じゅっさい`, 20歳 `はたち`.
 - Koreksi: beri waktu berpikir → satu petunjuk → model jika diperlukan → coba lagi tanpa contoh.

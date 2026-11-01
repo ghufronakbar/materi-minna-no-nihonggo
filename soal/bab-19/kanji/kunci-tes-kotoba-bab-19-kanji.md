@@ -48,4 +48,4 @@ Di lembar siswa, kata Bagian II ditulis tanpa furigana.
 | 24 | a | A：{将棋|しょうぎ} を する こと が {出来|でき}ます か。B：はい、{父|ちち} と よく します。 | Bisa main shogi? …Ya, sering main dengan ayah. |
 | 25 | b | {夏|なつ} の {祭|まつ}り で {盆踊|ぼんおど}り を {見|み}る こと が {出来|でき}ます。 | Di festival musim panas bisa melihat tari Bon. |
 
-**Catatan:** Bagian III tidak memakai bentuk た, ～たことがあります, ～たり～たり, atau ～なります, karena pola itu baru diajarkan setelah tes pagi. Di PDF kosakata, {一度|いちど}も diartikan "sekali-sekali"; arti yang benar "sekali pun tidak" (dipakai dengan kalimat negatif). Arti お{茶|ちゃ} tertulis "the" (teh) dan {乾杯|かんぱい} tertulis "tos" (bersulang).
+**Catatan:** Bagian III tidak memakai bentuk た, ～たことがあります, ～たり～たり, atau ～なります, karena pola itu baru diajarkan setelah tes pagi. {一度|いちど}も berarti "sekali pun tidak" (dipakai dengan kalimat negatif).

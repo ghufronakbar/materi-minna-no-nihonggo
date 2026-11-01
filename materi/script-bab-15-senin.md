@@ -225,7 +225,6 @@ Catat tiap can-do: **mandiri / perlu petunjuk / perlu model**. Ketiganya harus m
 - `いらっしゃいます` adalah bentuk hormat `います` untuk keluarga orang lain atau atasan; keluarga sendiri memakai `います`.
 - `何をしていますか` bisa menanyakan pekerjaan; konteks menentukan.
 - `思い出します` berarti teringat kembali: `家族を思い出します`.
-- Koreksi PDF: `オフト` seharusnya `ソフト` (perangkat lunak).
 - Koreksi: beri waktu berpikir → satu petunjuk → model jika diperlukan → coba lagi tanpa contoh.
 
 ## E. Jika dijadwalkan pada Sabtu

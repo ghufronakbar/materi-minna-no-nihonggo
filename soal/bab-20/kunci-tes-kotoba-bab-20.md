@@ -2,7 +2,7 @@
 
 **LEMBAR GURU / EVALUASI** · 25 soal × 4 = 100
 
-Kosakata Bab 20 di PDF hanya 16 kata. Soal 9–10 dan 16–20 adalah kosakata ulangan Bab 17–19; soal 14–15 (うん／ううん) diambil dari skrip Bab 20.
+Kosakata Bab 20 di daftar kosakata hanya 16 kata. Soal 9–10 dan 16–20 adalah kosakata ulangan Bab 17–19; soal 14–15 (うん／ううん) diambil dari skrip Bab 20.
 
 ## BAGIAN I
 
