@@ -4,7 +4,7 @@ Perbandingan antara `Kosakata minna no nihongo 1 Bab 1-25.pdf` (lama, sudah diha
 
 Penyeragaman tanpa mengubah isi tidak dicatat satu per satu: tanda ～ untuk semua awalan/akhiran (di PDF lama ada yang memakai ー, -, ~, atau 〜), kurung lebar （ ） pada teks Jepang, spasi berlebih, dan baris yang di scan bertumpuk (sudah dipisah).
 
-## 1. Kanji dan cara baca (42 perubahan)
+## 1. Kanji dan cara baca (43 perubahan)
 
 | Bab | No | Kolom | Di PDF lama | Menjadi | Alasan |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@ Penyeragaman tanpa mengubah isi tidak dicatat satu per satu: tanda ～ untuk sem
 | 4 | 13 | Kanji | 一時 | ～時 | Tertulis kanji 一 (satu) sehingga terbaca いちじ; seharusnya ～時 |
 | 4 | 14 | Hiragana | ーふん（ーぷん） | ～ふん（～ぷん） | Tanda prefiks salah; diseragamkan menjadi ～ |
 | 4 | 14 | Kanji | 一分 | ～分 | Tertulis kanji 一 (satu) sehingga terbaca いっぷん; seharusnya ～分 |
+| 4 | 42 | Hiragana | なにようび | なんようび | Disamakan dengan buku Minna no Nihongo dan Nihongofy (keputusan pengajar) |
 | 4 | 59 | Hiragana | ロサンゼレス | ロサンゼルス | Salah tulis katakana (Los Angeles = ロサンゼルス) |
 | 5 | 27 | Kanji | 来週 | 来月 | Kanji tidak cocok dengan らいげつ (来週 = らいしゅう, minggu depan) |
 | 5 | 31 | Hiragana | ーがつ | ～がつ | Tanda prefiks salah; diseragamkan menjadi ～ |

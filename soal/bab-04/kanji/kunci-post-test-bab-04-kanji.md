@@ -19,7 +19,7 @@ Jawaban boleh ditulis hiragana atau kanji. Kanji yang salah tulis dianggap salah
 | 9 | {半|はん} | Sekarang jam setengah lima (4.30). |
 | 10 | {休|やす}み | Sabtu dan Minggu libur. |
 
-Kata pengecoh: {何分|なんぷん}, {何曜日|なにようび}, {番号|ばんごう}. Soal 1 dan 2 dibedakan oleh {毎朝|まいあさ} (setiap pagi) dan {毎晩|まいばん} (setiap malam).
+Kata pengecoh: {何分|なんぷん}, {何曜日|なんようび}, {番号|ばんごう}. Soal 1 dan 2 dibedakan oleh {毎朝|まいあさ} (setiap pagi) dan {毎晩|まいばん} (setiap malam).
 
 ## BAGIAN II: Bunpou
 

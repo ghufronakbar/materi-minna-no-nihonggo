@@ -39,7 +39,7 @@ Kata kerja tanpa ～ます dianggap salah. Salah satu huruf dianggap salah; perh
 | No | Jawaban | Kalimat lengkap | Arti |
 |---|---|---|---|
 | 21 | a | A：いま なんじ です か。B：さんじ です。 | Sekarang jam berapa? …Jam 3. |
-| 22 | b | A：きょう は なにようび です か。B：もくようび です。 | Hari ini hari apa? …Kamis. |
+| 22 | b | A：きょう は なんようび です か。B：もくようび です。 | Hari ini hari apa? …Kamis. |
 | 23 | a | B：えーと、03-3292-3015 です。 | …Eh, 03-3292-3015. |
 | 24 | b | A：この コーヒー を ください。B：かしこまりました。 | Minta kopi ini. …Baik, saya mengerti. |
 | 25 | a | いま ごご よじ はん です。 | Sekarang jam 4.30 sore. |

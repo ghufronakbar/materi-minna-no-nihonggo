@@ -12,7 +12,7 @@ Pilih kata yang tepat dari kotak, lalu tulis di dalam kurung. Setiap kata hanya 
 
 <div class="kotak-kata">
 <span>あさって</span> <span>なんばん</span> <span>ねます</span> <span>なんぷん</span> <span>はん</span>
-<span>おわります</span> <span>なにようび</span> <span>やすみ</span> <span>おきます</span>
+<span>おわります</span> <span>なんようび</span> <span>やすみ</span> <span>おきます</span>
 <span>きのう</span> <span>ばんごう</span> <span>なんじ</span> <span>べんきょうします</span>
 </div>
 

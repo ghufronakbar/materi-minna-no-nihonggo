@@ -40,11 +40,11 @@ Pilihlah opsi a, b, atau c yang paling tepat untuk melengkapi kalimat berikut!
 
 21. A：いま　[ ... ]　です　か。  
     B：さんじ　です。  
-    a. なんじ　　b. なにようび　　c. なんばん
+    a. なんじ　　b. なんようび　　c. なんばん
 
 22. A：きょう　は　[ ... ]　です　か。  
     B：もくようび　です。  
-    a. なんばん　　b. なにようび　　c. なんじ
+    a. なんばん　　b. なんようび　　c. なんじ
 
 23. A：でんわ　は　なんばん　です　か。  
     B：[ ... ]、　03-3292-3015　です。  

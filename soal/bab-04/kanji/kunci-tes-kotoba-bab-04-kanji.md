@@ -43,7 +43,7 @@ Di lembar siswa, kata Bagian II ditulis tanpa furigana.
 | No | Jawaban | Kalimat lengkap | Arti |
 |---|---|---|---|
 | 21 | a | A：{今|いま} {何時|なんじ} です か。B：{3時|さんじ} です。 | Sekarang jam berapa? …Jam 3. |
-| 22 | b | A：きょう は {何曜日|なにようび} です か。B：{木曜日|もくようび} です。 | Hari ini hari apa? …Kamis. |
+| 22 | b | A：きょう は {何曜日|なんようび} です か。B：{木曜日|もくようび} です。 | Hari ini hari apa? …Kamis. |
 | 23 | a | B：えーと、03-3292-3015 です。 | …Eh, 03-3292-3015. |
 | 24 | b | A：この コーヒー を ください。B：かしこまりました。 | Minta kopi ini. …Baik, saya mengerti. |
 | 25 | a | {今|いま} {午後|ごご} {4時|よじ} {半|はん} です。 | Sekarang jam 4.30 sore. |

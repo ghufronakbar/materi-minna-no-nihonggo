@@ -198,7 +198,7 @@ Versi revisi: kanji, cara baca, dan arti sudah diperiksa ulang. Tanda ～ menand
 | 39 | きんようび | 金曜日 | hari jumat |
 | 40 | どようび | 土曜日 | hari sabtu |
 | 41 | にちようび | 日曜日 | hari minggu |
-| 42 | なにようび | 何曜日 | hari apa |
+| 42 | なんようび | 何曜日 | hari apa |
 | 43 | ばんごう | 番号 | nomor |
 | 44 | なんばん | 何番 | nomor berapa |
 | 45 | ～から |  | dari～ |

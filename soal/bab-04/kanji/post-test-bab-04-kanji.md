@@ -12,7 +12,7 @@ Pilih kata yang tepat dari kotak, lalu tulis di dalam kurung. Setiap kata hanya 
 
 <div class="kotak-kata">
 <span>あさって</span> <span>{何番|なんばん}</span> <span>{寝|ね}ます</span> <span>{何分|なんぷん}</span> <span>{半|はん}</span>
-<span>{終|お}わります</span> <span>{何曜日|なにようび}</span> <span>{休|やす}み</span> <span>{起|お}きます</span>
+<span>{終|お}わります</span> <span>{何曜日|なんようび}</span> <span>{休|やす}み</span> <span>{起|お}きます</span>
 <span>きのう</span> <span>{番号|ばんごう}</span> <span>{何時|なんじ}</span> <span>{勉強|べんきょう}します</span>
 </div>
 

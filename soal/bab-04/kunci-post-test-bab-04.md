@@ -17,7 +17,7 @@
 | 9 | はん | Sekarang jam setengah lima (4.30). |
 | 10 | やすみ | Sabtu dan Minggu libur. |
 
-Kata pengecoh: なんぷん, なにようび, ばんごう. Soal 1 dan 2 dibedakan oleh まいあさ (setiap pagi) dan まいばん (setiap malam).
+Kata pengecoh: なんぷん, なんようび, ばんごう. Soal 1 dan 2 dibedakan oleh まいあさ (setiap pagi) dan まいばん (setiap malam).
 
 ## BAGIAN II: Bunpou
 

@@ -233,7 +233,7 @@ Lihat papan informasi berikut, lalu jawab pertanyaannya. Pilih satu dari １・�
 48. どようび　に　やすみ　の　みせ　は　どこ　と　どこ　です　か。  
     １　ほんや　と　はなや　　２　ぎんこう　と　ゆうびんきょく　　３　ほんや　と　ぎんこう　　４　はなや　と　ゆうびんきょく
 
-49. ほんや　の　やすみ　は　なにようび　です　か。  
+49. ほんや　の　やすみ　は　なんようび　です　か。  
     １　げつようび　　２　どようび　　３　にちようび　　４　すいようび
 
 50. Kalimat mana yang **benar**?  
