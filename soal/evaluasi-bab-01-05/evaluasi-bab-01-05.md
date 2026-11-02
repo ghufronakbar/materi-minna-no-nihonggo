@@ -45,6 +45,8 @@ Kata apa yang tepat untuk （　　）? Pilih satu dari １・２・３・４.
     B：らいねん　の　いちがつ　です。  
     １　いつ　　２　どこ　　３　だれ　　４　なん
 
+<div style="break-before: page"></div>
+
 ## もんだい２　Kalimat yang Artinya Sama
 
 Pilih kalimat yang artinya paling dekat dengan kalimat yang bergaris bawah.
@@ -78,6 +80,8 @@ Pilih kalimat yang artinya paling dekat dengan kalimat yang bergaris bawah.
     ２　あした　は　じゅうがつ　とおか　です。  
     ３　あした　は　じゅういちがつ　ここのか　です。  
     ４　あさって　は　じゅうがつ　とおか　です。
+
+<div style="break-before: page"></div>
 
 ## もんだい３　Bunpou
 
@@ -138,6 +142,8 @@ Apa yang tepat untuk （　　）? Pilih satu dari １・２・３・４.
     B：どこ　（　　）　いきませんでした。  
     １　も　　２　へ　　３　に　　４　と
 
+<div style="break-before: page"></div>
+
 ## もんだい４　Mengurutkan Kata (★)
 
 Urutkan pilihan １–４ menjadi kalimat yang benar, lalu pilih kata yang masuk ke tempat **★**.
@@ -157,6 +163,8 @@ Urutkan pilihan １–４ menjadi kalimat yang benar, lalu pilih kata yang masuk
 35. ミラーさん　の　＿＿＿＿　＿＿＿＿　＿★＿　＿＿＿＿　です。  
     １　はつか　　２　は　　３　たんじょうび　　４　くがつ
 
+<div style="break-before: page"></div>
+
 ## もんだい５　Bunpou dalam Teks
 
 Bacalah teks berikut. Apa yang tepat untuk （３６）–（４０）? Pilih satu dari １・２・３・４.
@@ -173,6 +181,8 @@ Bacalah teks berikut. Apa yang tepat untuk （３６）–（４０）? Pilih sa
 38. （３８）　１　に　　２　から　　３　も　　４　まで
 39. （３９）　１　いきます　　２　いきません　　３　いきました　　４　いきませんでした
 40. （４０）　１　いつ　　２　どこ　　３　だれ　　４　なん
+
+<div style="break-before: page"></div>
 
 ## もんだい６　Membaca
 

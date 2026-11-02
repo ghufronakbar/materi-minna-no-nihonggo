@@ -45,6 +45,8 @@ Kata apa yang tepat untuk （　　）? Pilih satu dari １・２・３・４.
     B：{来年|らいねん}　の　{1月|いちがつ}　です。  
     １　いつ　　２　どこ　　３　だれ　　４　{何|なん}
 
+<div style="break-before: page"></div>
+
 ## もんだい２　Kalimat yang Artinya Sama
 
 Pilih kalimat yang artinya paling dekat dengan kalimat yang bergaris bawah.
@@ -79,6 +81,8 @@ Pilih kalimat yang artinya paling dekat dengan kalimat yang bergaris bawah.
     ３　あした　は　じゅういちがつ　ここのか　です。  
     ４　あさって　は　じゅうがつ　とおか　です。
 
+<div style="break-before: page"></div>
+
 ## もんだい３　Bunpou
 
 Apa yang tepat untuk （　　）? Pilih satu dari １・２・３・４.
@@ -112,6 +116,9 @@ Apa yang tepat untuk （　　）? Pilih satu dari １・２・３・４.
 23. すみません。この　ネクタイ　（　　）　ください。  
     １　は　　２　を　　３　の　　４　へ
 
+
+<div style="break-before: page"></div>
+
 24. A：これ　は　（　　）　の　{自動車|じどうしゃ}　です　か。  
     B：ドイツ　の　{自動車|じどうしゃ}　です。  
     １　どこ　　２　いつ　　３　だれ　　４　{何|なん}
@@ -138,6 +145,8 @@ Apa yang tepat untuk （　　）? Pilih satu dari １・２・３・４.
     B：どこ　（　　）　{行|い}きませんでした。  
     １　も　　２　へ　　３　に　　４　と
 
+<div style="break-before: page"></div>
+
 ## もんだい４　Mengurutkan Kata (★)
 
 Urutkan pilihan １–４ menjadi kalimat yang benar, lalu pilih kata yang masuk ke tempat **★**.
@@ -156,6 +165,8 @@ Urutkan pilihan １–４ menjadi kalimat yang benar, lalu pilih kata yang masuk
 
 35. ミラーさん　の　＿＿＿＿　＿＿＿＿　＿★＿　＿＿＿＿　です。  
     １　はつか　　２　は　　３　たんじょうび　　４　くがつ
+
+<div style="break-before: page"></div>
 
 ## もんだい５　Bunpou dalam Teks
 
