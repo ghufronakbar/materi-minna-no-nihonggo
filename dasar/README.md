@@ -29,4 +29,5 @@ Folder ini berisi hal dasar yang sering perlu dijawab cepat di kelas: bacaan ang
 - Sebelum mengajar suatu bab, buka file yang terkait dan ulang bagian ★ serta **Jebakan**.
 - Bagian **Uji diri** berisi pertanyaan untuk sensei sendiri; jawabannya tersembunyi (klik untuk membuka di GitHub).
 - Bila skrip mengajar membutuhkan daftar bacaan, rujuk file di sini daripada menyalin ulang tabel ke skrip.
-- Batas materi siswa tetap mengikuti `materi-minna-no-nihonggo.md`. Hal yang ditandai *tambahan* berguna untuk sensei atau untuk kehidupan di Jepang, tetapi bukan sasaran wajib Minna no Nihongo I Bab 1–25.
+- Batas materi siswa tetap mengikuti peta materi: `materi-minna-no-nihonggo.md` (Bab 1–25) dan `materi-minna-no-nihonggo-2.md` (Bab 26–50). Hal yang ditandai *tambahan* berguna untuk sensei atau untuk kehidupan di Jepang, tetapi bukan sasaran wajib Minna no Nihongo I Bab 1–25.
+- Isi folder ini disusun untuk Bab 1–25. Bentuk kata kerja baru di buku II (potensial, maksud, imperatif, syarat, pasif, kausatif) untuk sementara dirangkum di `materi-minna-no-nihonggo-2.md`, dan grup setiap kata kerja Bab 26–50 tercantum di kolom Ket. `kosakata/kosakata-bab-26-50.md`.

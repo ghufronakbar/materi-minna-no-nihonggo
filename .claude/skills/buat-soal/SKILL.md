@@ -10,7 +10,7 @@ Bab yang diminta: $ARGUMENTS (jika kosong, tanyakan nomor babnya ke pengguna).
 
 1. Baca `03-soal-guidelines.md` sampai selesai. Semua format dan aturan ada di sana.
 2. Buka keempat file di `soal/bab-15/` sebagai patokan format yang sudah disetujui pengguna.
-3. Ambil kosakata bab dari `kosakata/kosakata-bab-01-25.md` (panduan bagian 1). Cek cakupan bunpou di `materi-minna-no-nihonggo.md` dan `materi/script-bab-NN-senin.md`.
+3. Ambil kosakata bab dari `kosakata/kosakata-bab-01-25.md` (Bab 1–25) atau `kosakata/kosakata-bab-26-50.md` (Bab 26–50), sesuai panduan bagian 1. Cek cakupan bunpou di peta materi (`materi-minna-no-nihonggo.md` atau `materi-minna-no-nihonggo-2.md`) dan `materi/script-bab-NN-senin.md`.
 4. Tulis keempat file Markdown di `soal/bab-NN/`, nomor bab dua digit.
 5. Jalankan `soal/build-pdf.sh soal/bab-NN`, render PDF-nya ke gambar, lalu lihat hasilnya.
 6. Jalankan daftar cek di panduan bagian 7. Perbaiki yang belum sesuai, lalu generate ulang.

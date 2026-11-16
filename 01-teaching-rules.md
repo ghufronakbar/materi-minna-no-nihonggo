@@ -13,7 +13,7 @@ Total belajar Senin **465 menit**. Istirahat Senin: 10.00–10.15 dan 12.00–13
 
 ## Sumber dan peserta
 
-- Buku: **Minna no Nihongo I, Bab 1–25**.
+- Buku: **Minna no Nihongo I, Bab 1–25**, dilanjutkan **Minna no Nihongo II edisi ke-2, Bab 26–50**. Pegangan bahasa Indonesia untuk buku II: *Terjemahan & Keterangan Tata Bahasa Versi Bahasa Indonesia* edisi 2.
 - Peserta: kurang lebih **20 siswa**.
 - Format skrip: mengikuti `02-script-guidelines.md` dan contoh ringkas yang disetujui di `materi/contoh-script-bab-14-senin-ringkas.md`.
 

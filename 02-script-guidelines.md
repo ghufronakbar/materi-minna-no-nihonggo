@@ -12,7 +12,14 @@ Tujuannya menghasilkan pegangan yang mudah dilihat saat mengajar: ringkas, berur
 - Materi lama yang perlu dipanggil kembali sebelum topik baru.
 - Can-do dan cara memeriksa kemampuan setiap siswa.
 
-Gunakan `materi-minna-no-nihonggo.md` untuk cakupan bab dan `kosakata/kosakata-bab-01-25.md` untuk kosakata terkait (bukan PDF scan lama). Jika masih menemukan kesalahan di daftar itu, laporkan ke pengguna lalu perbaiki daftarnya beserta `kosakata/catatan-koreksi.md`. Jangan mengarang nomor halaman atau soal buku yang belum dilihat.
+Gunakan peta materi untuk cakupan bab dan daftar kosakata untuk kosakata terkait (bukan PDF scan lama):
+
+| Bab | Peta materi | Kosakata |
+|---|---|---|
+| 1–25 | `materi-minna-no-nihonggo.md` | `kosakata/kosakata-bab-01-25.md` |
+| 26–50 | `materi-minna-no-nihonggo-2.md` | `kosakata/kosakata-bab-26-50.md` |
+
+Untuk Bab 26–50, kolom **Ket.** di daftar kosakata menyebut grup kata kerja (berguna saat memperkenalkan bentuk potensial, maksud, syarat, pasif, dan kausatif) serta menandai kata terkait (*), nama diri (※), dan kata dari Percakapan atau Bacaan. Jika masih menemukan kesalahan di daftar, laporkan ke pengguna lalu perbaiki daftarnya beserta `kosakata/catatan-koreksi.md`. Jangan mengarang nomor halaman atau soal buku yang belum dilihat.
 
 ## 2. Recall adalah prioritas
 
@@ -86,4 +93,4 @@ Blok lain cukup memakai unsur yang dibutuhkan. Tetap berikan contoh ucapan, jang
 - Rumus tidak diberikan pada pembuka; recall akhir mengajak siswa menyimpulkan dahulu.
 - Bahasa Jepang dan contoh situasi tepat; kedalaman tetap sebanding dengan contoh ringkas.
 
-Simpan hasil di `materi/` dengan nama yang menjelaskan bab/pertemuan dan hari. Gunakan Markdown kecuali pengguna meminta format lain. Pembuatan skrip berikutnya mengikuti permintaan pengguna, bukan otomatis seluruh Bab 1–25 sekaligus.
+Simpan hasil di `materi/` dengan nama yang menjelaskan bab/pertemuan dan hari. Gunakan Markdown kecuali pengguna meminta format lain. Pembuatan skrip berikutnya mengikuti permintaan pengguna, bukan otomatis seluruh bab sekaligus.
