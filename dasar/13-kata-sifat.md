@@ -1,6 +1,6 @@
 # Kata sifat い dan な
 
-**Dipakai sejak:** Bab 8 (positif/negatif, menerangkan kata benda), Bab 9 (好き・上手), Bab 12 (lampau), Bab 16 (bentuk て), Bab 19 (〜なります), Bab 20 (bentuk biasa).
+**Dipakai sejak:** Bab 8 (positif/negatif, menerangkan kata benda), Bab 9 (好き・上手), Bab 12 (lampau), Bab 16 (bentuk て), Bab 19 (〜なります), Bab 20 (bentuk biasa); buku II: Bab 35–47 (bagian “Bentuk di buku II”).
 
 ## Tabel perubahan
 
@@ -27,6 +27,26 @@ Berlaku juga untuk kata yang berakhiran いい: かっこいい → かっこよ
 ## Kata sifat な yang berakhiran い ★
 
 きれい（な）, 有名（ゆうめい・な）, 嫌い（きらい・な）. Karena berakhiran い, siswa sering mengubahnya menjadi `きれくない` ✗. Bentuk benar: `きれいじゃありません`, `きれいな部屋`.
+
+## Bentuk di buku II (Bab 26–50)
+
+| Bentuk | Aい: 高い | いい ★ | Aな: 静か | N: 雨 | Bab |
+|---|---|---|---|---|---|
+| Syarat | 高ければ | **よければ** | 静かなら | 雨なら | 35 |
+| Kata keterangan | 高く | **よく** | 静かに | — | 36 |
+| Kata benda ukuran | 高さ | — | — | — | 40 |
+| Kelihatannya | 高そうです | **よさそうです** | 静かそうです | — | 43 |
+| Terlalu | 高すぎます | **よすぎます** | 静かすぎます | — | 44 |
+| Membuat jadi | 高くします | **よくします** | 静かにします | — | 44 |
+| Dalam hal | 高い場合は | いい場合は | 静かな場合は | 雨の場合は | 45 |
+| Padahal | 高いのに | いいのに | 静か**な**のに | 雨**な**のに | 45 |
+| Seharusnya | 高いはずです | いいはずです | 静か**な**はずです | 雨**の**はずです | 46 |
+| Katanya | 高いそうです | いいそうです | 静か**だ**そうです | 雨**だ**そうです | 47 |
+| Sepertinya | 高いようです | いいようです | 静か**な**ようです | 雨**の**ようです | 47 |
+
+- `Nにします` di Bab 44 berarti memilih atau memutuskan: `コーヒーにします`.
+- **ない** mengikuti pola yang sama dengan いい untuk “kelihatannya”: `時間がなさそうです` (bukan `なそう`).
+- Aな dan N berganti-ganti antara **な**, **の**, dan **だ**. Ingat pasangan Bab 47: “katanya” memakai **だ** (`静かだそうです`), “sepertinya” memakai **な／の** (`静かなようです`, `雨のようです`).
 
 ## Kata sifat dasar (sebagian besar dari Bab 8)
 

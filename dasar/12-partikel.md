@@ -38,6 +38,21 @@
 | までに | paling lambat | 金曜日までに出してください | 17 |
 | が | subjek di dalam klausa | 母が作った料理 | 22 |
 | と | kutipan/pendapat | 明日は雨だと思います | 21 |
+| が | objek kata kerja potensial | 日本語が話せます | 27 |
+| しか～ません | hanya (selalu diikuti negatif) | 1時間しか寝ませんでした | 27 |
+| は | perbandingan/kontras | 肉は食べますが、魚は食べません | 27 |
+| には・では・へは | は menempel pada partikel lain | この町には大きい病院がありません | 27 |
+| とか | menyebut contoh (lisan) | 地震とか火事とか | 30 |
+| で | batas waktu/jumlah | 駅まで30分で行けます | 32 |
+| と | isi tulisan, bacaan, arti, pesan | 「止まれ」と書いてあります | 33 |
+| に | pelaku dalam kalimat pasif | 先生に褒められました | 37 |
+| から・で | bahan | ビールは麦から造られます, 昔の家は木で造られました | 37 |
+| で | sebab (kata benda) | 地震でビルが倒れました | 39 |
+| か | pertanyaan di dalam kalimat | 何時に着くか、わかりません | 40 |
+| に | “sebagai …” (hadiah, kunjungan) | お祝いにお皿をいただきました | 41 |
+| は・も (setelah bilangan) | paling sedikit / sebanyak itu | 半分は貯金します, 3時間もかかりました | 42 |
+| によって | pencipta/penemu dalam kalimat pasif | 安藤百福さんによって発明されました | 42 |
+| を・に | orang yang disuruh/diizinkan (kausatif) | 子どもを行かせます, 子どもに野菜を食べさせます | 48 |
 
 ## Pasangan yang sering tertukar
 
@@ -50,6 +65,10 @@
 | **から (awal) vs から (alasan)** | Nから = mulai dari; kalimatから = karena | `9時から` ↔ `暑いですから` |
 | **まで vs までに** | まで = terus sampai; までに = batas waktu sekali tindakan | `5時まで働きます` ↔ `5時までに帰ります` |
 | **で (alat) vs で (tempat)** | Lihat kata bendanya: benda alat vs tempat | `ペンで書きます` ↔ `教室で書きます` |
+| **に vs によって (pasif, 37/42)** | に = orang yang melakukan; によって = pencipta atau penemu | `先生に褒められました` ↔ `安藤百福さんによって発明されました` |
+| **から vs で (bahan, 37)** | から = bahan baku yang sudah berubah dan tidak terlihat lagi; で = bahan yang masih terlihat | `ビールは麦から造られます` ↔ `この机は木で造られました` |
+| **を vs に (kausatif, 48)** | Kata kerja tanpa objek → orang **を**; sudah ada objek を → orang **に** | `子どもを遊ばせます` ↔ `子どもに本を読ませます` |
+| **で (alat/tempat) vs で (sebab, 39)** | Sebab biasanya kejadian: 地震, 事故, 病気, 台風 | `病気で休みました` |
 
 ## Partikel + も
 
@@ -63,6 +82,8 @@
 - `だれは来ましたか` ✗ → `だれが来ましたか` ✓.
 - `友達をあげます` ✗ (berarti “memberikan teman”) → `友達にあげます` ✓.
 - Waktu relatif tanpa に: `明日に` ✗ → `明日` ✓ (lihat `03-hari-minggu-dan-waktu-relatif.md`).
+- `1時間しか寝ました` ✗ → `1時間しか寝ませんでした` ✓ (しか selalu dengan negatif). Bandingkan `1時間だけ寝ました`.
+- Pasif dengan pola aktif yang tertinggal: `わたしを先生が褒められました` ✗ → `わたしは先生に褒められました` ✓ (yang dikenai は／が, pelaku に).
 
 ## Uji diri
 
@@ -70,4 +91,10 @@
 <summary>Isi partikel: ① 図書館（ ）本（ ）読みます ② 机の上（ ）かばん（ ）あります ③ バス（ ）学校（ ）来ます ④ 友達（ ）花（ ）もらいました</summary>
 
 ① で・を ② に・が ③ で・へ（に） ④ に（から）・を
+</details>
+
+<details>
+<summary>Buku II: ① 弟（ ）パソコン（ ）壊されました ② 母は子ども（ ）野菜（ ）食べさせました ③ 台風（ ）木が倒れました ④ 財布に1000円（ ）ありません (hanya 1000 yen) ⑤ ワイン（ ）ぶどう（ ）造られます</summary>
+
+① に・を ② に・を ③ で ④ しか ⑤ は・から
 </details>

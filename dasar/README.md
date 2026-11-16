@@ -19,15 +19,19 @@ Folder ini berisi hal dasar yang sering perlu dijawab cepat di kelas: bacaan ang
 | [09-keluarga.md](09-keluarga.md) | Sebutan keluarga sendiri dan keluarga orang lain | 7, 11 |
 | [10-posisi-dan-arah.md](10-posisi-dan-arah.md) | 上・下・前・後ろ・隣・間, arah jalan, mata angin | 10, 14 |
 | [11-salam-dan-ungkapan-kelas.md](11-salam-dan-ungkapan-kelas.md) | Aisatsu, 教室のことば, ungkapan tempat kerja | Pengantar, 1–7 |
-| [12-partikel.md](12-partikel.md) | Fungsi partikel per bab dan pasangan yang sering tertukar | 1–21 |
-| [13-kata-sifat.md](13-kata-sifat.md) | Perubahan い/な, いい→よくない, な yang berakhiran い, warna | 8, 12, 16, 19, 20 |
+| [12-partikel.md](12-partikel.md) | Fungsi partikel per bab dan pasangan yang sering tertukar, termasuk partikel buku II (しか, pelaku pasif, kausatif, bahan) | 1–48 |
+| [13-kata-sifat.md](13-kata-sifat.md) | Perubahan い/な, いい→よくない, な yang berakhiran い, warna, bentuk kata sifat di buku II | 8, 12, 16, 19, 20, 35–47 |
 | [14-perubahan-kata-kerja.md](14-perubahan-kata-kerja.md) | Grup I/II/III (godan/ichidan), bentuk ます・て・ない・辞書・た, bentuk biasa, arti dan cara menghafal pengecualian | 4, 14, 17–20 |
 | [15-negara-bahasa-dan-pekerjaan.md](15-negara-bahasa-dan-pekerjaan.md) | 〜人, 〜語, nama negara, pekerjaan, perkenalan diri | 1, 3 |
+| [16-bentuk-kata-kerja-buku-2.md](16-bentuk-kata-kerja-buku-2.md) | Potensial, maksud, imperatif/larangan, syarat ば, pasif, kausatif; peta baris あいうえお; bentuk yang sama tetapi artinya berbeda | 27, 31, 33, 35, 37, 48, 49 |
+| [17-transitif-intransitif.md](17-transitif-intransitif.md) | Pasangan 自動詞・他動詞 dari kosakata siswa, pola bunyinya, ています／てあります／ておきます | 29, 30 |
+| [18-keigo.md](18-keigo.md) | 尊敬語 dan 謙譲語Ⅰ/Ⅱ, kata kerja khusus, pola お～になります／お～します, memberi–menerima, orang dalam dan luar | 41, 49, 50 |
+| [19-ungkapan-mirip-buku-2.md](19-ungkapan-mirip-buku-2.md) | Pola buku II yang sering tertukar: そうです (43/47), ようです, はず, ために/ように, のに, ところ/ばかり, と/たら/ば/なら, ないで/なくて | 26–50 |
 
 ## Cara memakai
 
 - Sebelum mengajar suatu bab, buka file yang terkait dan ulang bagian ★ serta **Jebakan**.
 - Bagian **Uji diri** berisi pertanyaan untuk sensei sendiri; jawabannya tersembunyi (klik untuk membuka di GitHub).
 - Bila skrip mengajar membutuhkan daftar bacaan, rujuk file di sini daripada menyalin ulang tabel ke skrip.
-- Batas materi siswa tetap mengikuti peta materi: `materi-minna-no-nihonggo.md` (Bab 1–25) dan `materi-minna-no-nihonggo-2.md` (Bab 26–50). Hal yang ditandai *tambahan* berguna untuk sensei atau untuk kehidupan di Jepang, tetapi bukan sasaran wajib Minna no Nihongo I Bab 1–25.
-- Isi folder ini disusun untuk Bab 1–25. Bentuk kata kerja baru di buku II (potensial, maksud, imperatif, syarat, pasif, kausatif) untuk sementara dirangkum di `materi-minna-no-nihonggo-2.md`, dan grup setiap kata kerja Bab 26–50 tercantum di kolom Ket. `kosakata/kosakata-bab-26-50.md`.
+- Batas materi siswa tetap mengikuti peta materi: `materi-minna-no-nihonggo.md` (Bab 1–25) dan `materi-minna-no-nihonggo-2.md` (Bab 26–50). Hal yang ditandai *tambahan* berguna untuk sensei atau untuk kehidupan di Jepang, tetapi bukan sasaran wajib Minna no Nihongo Bab 1–50.
+- File 01–15 disusun untuk Bab 1–25; file 16–19 serta bagian buku II di file 12 dan 13 untuk Bab 26–50. Grup setiap kata kerja Bab 26–50 tercantum di kolom Ket. `kosakata/kosakata-bab-26-50.md`.

@@ -19,7 +19,7 @@ Kosakata Bab 26–50 ada di `kosakata/kosakata-bab-26-50.md`, disalin dari buku 
 
 Buku II melanjutkan pola buku I. Setiap bab berisi **文型**, **例文**, **会話**, **練習A・B・C**, dan **問題**. Buku terjemahannya berisi *I. Kosa Kata*, *II. Terjemahan* (pola kalimat, contoh kalimat, percakapan), *III. Kata-Kata Referensi dan Informasi*, dan *IV. Keterangan Tata Bahasa*. Tingkatnya umum dipakai sebagai bekal JLPT N4. Bab 1–25 kira-kira setara N5.
 
-Hal yang paling berbeda dari buku I adalah **tujuh bentuk kata kerja baru**. Semuanya dibentuk dari pengelompokan Grup I/II/III yang sudah dikenal sejak Bab 14 (lihat `dasar/14-perubahan-kata-kerja.md`). Daftar kosakata Bab 26–50 mencantumkan grup setiap kata kerja.
+Hal yang paling berbeda dari buku I adalah **tujuh bentuk kata kerja baru**. Semuanya dibentuk dari pengelompokan Grup I/II/III yang sudah dikenal sejak Bab 14 (lihat `dasar/14-perubahan-kata-kerja.md`; rincian dan jebakannya di `dasar/16-bentuk-kata-kerja-buku-2.md`). Daftar kosakata Bab 26–50 mencantumkan grup setiap kata kerja.
 
 | Bentuk | Bab | 行きます | 食べます | します | 来ます |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@ Hal yang paling berbeda dari buku I adalah **tujuh bentuk kata kerja baru**. Sem
 | Pasif（受身形） | 37 | 行かれる | 食べられる | される | 来られる |
 | Kausatif（使役形） | 48 | 行かせる | 食べさせる | させる | 来させる |
 
-Bentuk hormat `V(ら)れます` di Bab 49 sama bentuknya dengan pasif Bab 37.
+Bentuk hormat `V(ら)れます` di Bab 49 sama bentuknya dengan pasif Bab 37. Pegangan sensei lain untuk buku II: `dasar/17-transitif-intransitif.md` (Bab 29–30), `dasar/18-keigo.md` (Bab 41, 49–50), dan `dasar/19-ungkapan-mirip-buku-2.md` (pola yang sering tertukar).
 
 ## Memilih materi untuk recall
 
