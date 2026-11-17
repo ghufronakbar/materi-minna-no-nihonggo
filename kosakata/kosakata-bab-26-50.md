@@ -20,7 +20,7 @@ Kolom Kanji kosong berarti kata itu ditulis dengan kana di buku. Kolom ini juga 
 | 3 | おくれます［じかんに～］ | 遅れます［時間に～］ | terlambat [pada waktu] | Grup II |
 | 4 | まにあいます［じかんに～］ | 間に合います［時間に～］ | sempat [pada waktu] | Grup I |
 | 5 | やります |  | melakukan | Grup I |
-| 6 | ひろいます | 拾います | mendapat, mengambil | Grup I |
+| 6 | ひろいます | 拾います | memungut | Grup I |
 | 7 | れんらくします | 連絡します | menghubungi | Grup III |
 | 8 | きぶんがいい | 気分がいい | rasa enak, segar | kata terkait (*) |
 | 9 | きぶんがわるい | 気分が悪い | rasa tidak enak |  |

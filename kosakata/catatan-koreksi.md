@@ -160,12 +160,13 @@ Isi buku disalin apa adanya. Penyeragaman berikut tidak dicatat satu per satu:
 - Jika kolom kanji buku hanya berisi keterangan dalam kurung (misalnya ［雨が～］ untuk やみます), kata kerjanya ditambahkan dalam kana: やみます［雨が～］.
 - Kurung dan titik dua lebar di kolom Arti ditulis biasa; huruf miring ditulis tegak.
 
-Selain itu ada 35 koreksi, dibagi menjadi tiga kelompok berikut.
+Selain itu ada 36 koreksi, dibagi menjadi tiga kelompok berikut.
 
-## 1. Arti yang salah atau menyesatkan (13 perubahan)
+## 1. Arti yang salah atau menyesatkan (14 perubahan)
 
 | Bab | No | Kolom | Di buku | Menjadi | Alasan |
 |---|---|---|---|---|---|
+| 26 | 6 | Arti | mendapat, mengambil | memungut | 拾います = memungut barang dari tanah atau lantai; "mendapat" menyesatkan. |
 | 26 | 31 | Arti | membereskan [barang] | [barang] menjadi beres, rapi | Arti di buku adalah arti transitif (片づけます, Bab 30); 片づきます intransitif. |
 | 26 | 33 | Arti | sampah organik | sampah yang bisa dibakar | 燃えるごみ = sampah yang dibakar; "organik" menyesatkan untuk aturan buang sampah di Jepang. |
 | 27 | 31 | Arti | kesukaan | sangat suka | 大好き［な］ kata sifat, bukan kata benda. |

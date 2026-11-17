@@ -25,7 +25,7 @@ Kata kerja tanpa ～ます dianggap salah. Salah satu huruf dianggap salah; perh
 
 | No | Soal | Jawaban | Jawaban lain yang diterima |
 |---|---|---|---|
-| 11 | ひろいます | memungut | mengambil (dari tanah/lantai), mendapat (arti di daftar kosakata) |
+| 11 | ひろいます | memungut | mengambil (dari tanah/lantai), mendapat (arti di buku terjemahan) |
 | 12 | やります | melakukan | mengerjakan |
 | 13 | びん | botol | botol kaca |
 | 14 | うんどうかい | lomba olahraga | pesta olahraga, pekan olahraga |

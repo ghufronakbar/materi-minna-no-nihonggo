@@ -218,7 +218,7 @@ Bentuk biasa: lihat `dasar/14-perubahan-kata-kerja.md`. Pemakaian `～んです`
 - `～ていただけませんか` lebih sopan daripada `～てください` (Bab 14); cocok untuk atasan, guru, dan orang yang belum akrab. Kesalahan umum: `いただきませんか` ✗.
 - `kata tanya＋Vたらいいですか` memakai `～たら` dari Bab 25. Jawaban yang aman untuk siswa: `～てください` atau `Nがいいですよ`.
 - Objek dengan `は`: `サッカーは好きですが、野球は好きじゃありません`. `が`／`を` diganti `は` saat objek dijadikan topik atau dibandingkan.
-- `診ます` khusus dokter memeriksa pasien; tulisan kana tetap `みます`. `拾います` = memungut barang dari tanah atau lantai (daftar kosakata: “mendapat, mengambil”). `やります` = `します` dalam ragam santai.
+- `診ます` khusus dokter memeriksa pasien; tulisan kana tetap `みます`. `拾います` = memungut barang dari tanah atau lantai (buku terjemahan: “mendapat, mengambil”). `やります` = `します` dalam ragam santai.
 - `間に合います` (sempat, tidak terlambat) ↔ `遅れます` (terlambat): keduanya memakai `時間に～`.
 - `燃えるごみ` = sampah yang dibakar (sisa makanan, kertas kotor). Aturan dan hari pembuangan berbeda di tiap kota; selalu tanyakan ke 管理人 atau lihat papan.
 - `いつでも・どこでも・だれでも・何でも` = kata tanya＋でも (“… saja”). Bedakan dengan kata tanya＋も＋negatif dari buku I (`何も食べません`).
