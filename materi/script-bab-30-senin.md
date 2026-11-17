@@ -193,7 +193,7 @@ Perbandingan `ています／てあります／ておきます` dan daftar pasan
 - `Nが V(transitif)てあります` = keadaan hasil tindakan yang sengaja dilakukan seseorang, biasanya untuk suatu tujuan. Objek `を` menjadi `が` (atau `は` jika topik): `カレンダーが掛けてあります`.
 - Hanya kata kerja transitif: `窓が開いてあります` ✗. Bandingkan `窓を開けています` (sedang), `窓が開いています` (keadaan, Bab 29), `窓が開けてあります` (sengaja dibuka).
 - Negatif untuk “belum”: `まだはってありません`.
-- `～ておきます` punya tiga makna: persiapan sebelum sesuatu (`会議の前に資料をコピーしておきます`), tindakan seperlunya atau mengembalikan (`元の所に戻しておきます`), dan membiarkan (`そのままにしておきます`). Dalam percakapan sering terdengar `～とく` (*tambahan*).
+- `～ておきます` punya tiga makna: persiapan sebelum sesuatu (`ミーティングの前に資料をコピーしておきます`), tindakan seperlunya atau mengembalikan (`元の所に戻しておきます`), dan membiarkan (`そのままにしておきます`). Dalam percakapan sering terdengar `～とく` (*tambahan*).
 - `てあります` menggambarkan keadaan sekarang; `ておきます` adalah tindakannya.
 - `まだ` + positif = masih (`まだ雨が降っています`). `まだ` + negatif (`まだ～ていません`) baru diajarkan di Bab 31.
 - `とか` = menyebut contoh dalam percakapan, mirip `や～など` (Bab 10).
