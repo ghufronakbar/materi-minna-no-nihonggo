@@ -25,7 +25,7 @@ Kata kerja tanpa ～ます dianggap salah. Salah satu huruf dianggap salah; perh
 
 | No | Soal | Jawaban | Jawaban lain yang diterima |
 |---|---|---|---|
-| 11 | にげます | melarikan diri | lari, kabur |
+| 11 | にげます | melarikan diri | berlari (arti di daftar kosakata), lari, kabur |
 | 12 | まもります | menjaga, menaati (aturan) | mematuhi, melindungi |
 | 13 | ちゅういします | berhati-hati | memperhatikan |
 | 14 | はじまります | dimulai | mulai |

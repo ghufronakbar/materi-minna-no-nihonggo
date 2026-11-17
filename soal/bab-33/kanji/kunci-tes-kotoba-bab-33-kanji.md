@@ -27,7 +27,7 @@ Jawaban boleh ditulis hiragana atau kanji. Kanji yang salah tulis dianggap salah
 
 | No | Soal | Jawaban | Jawaban lain yang diterima |
 |---|---|---|---|
-| 11 | {逃|に}げます | melarikan diri | lari, kabur |
+| 11 | {逃|に}げます | melarikan diri | berlari (arti di daftar kosakata), lari, kabur |
 | 12 | {守|まも}ります | menjaga, menaati (aturan) | mematuhi, melindungi |
 | 13 | {注意|ちゅうい}します | berhati-hati | memperhatikan |
 | 14 | {始|はじ}まります | dimulai | mulai |
