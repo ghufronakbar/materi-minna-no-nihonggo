@@ -10,7 +10,7 @@ Bab yang diminta: $ARGUMENTS (jika kosong, tanyakan nomor babnya ke pengguna).
 
 1. Baca `03-soal-guidelines.md`, terutama bagian 2, 6, 7, dan **bagian 8 (Versi kanji)**. Semua aturan versi kanji ada di sana.
 2. Buka semua file `.md` di `soal/bab-NN/` (nomor bab dua digit). Ini sumber soalnya. Jika foldernya belum ada, hentikan dan sarankan `/buat-soal <bab>` dahulu.
-3. Ambil kolom Kanji kosakata bab ini dari `kosakata/kosakata-bab-01-25.md` (panduan bagian 1). Untuk kata dari bab lama, lihat bagian bab tersebut di daftar yang sama.
+3. Ambil kolom Kanji kosakata bab ini dari `kosakata/kosakata-bab-01-25.md` (Bab 1–25) atau `kosakata/kosakata-bab-26-50.md` (Bab 26–50), sesuai panduan bagian 1. Untuk kata dari bab lama, lihat bagian bab tersebut di daftar yang sesuai nomor babnya.
 4. Tulis file versi kanji di `soal/bab-NN/kanji/` dengan nama asal ditambah `-kanji`. Salin isi versi hiragana, ganti kata yang ber-kanji dengan notasi furigana `{漢字|かな}`, lalu sesuaikan judul, instruksi Bagian I tes kotoba, Bagian II tes kotoba (tanpa furigana), dan catatan kunci sesuai bagian 8.
 5. Jalankan kedua perintah cek di bagian 8 (diff dengan versi hiragana dan cari kanji tanpa furigana). Pastikan setiap perbedaan memang termasuk yang wajar.
 6. Jalankan `soal/build-pdf.sh soal/bab-NN/kanji`, render PDF-nya ke gambar (`pdftoppm -r 80 -png`), lalu lihat hasilnya: furigana tampil di atas kanji dan tidak ada `{`/`|` yang tersisa. Jika Chrome Mac tidak tersedia (misalnya sesi cloud), pakai `NODE_PATH=$(npm root -g) node soal/build-pdf-playwright.js soal/bab-NN/kanji`. Pastikan lingkungan itu punya font Jepang; jika tidak, huruf Jepang tampil kosong di PDF.

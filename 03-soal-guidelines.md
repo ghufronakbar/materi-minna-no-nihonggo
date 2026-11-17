@@ -11,9 +11,11 @@ Setiap bab mendapat dua tes yang dicetak atau dibagikan ke siswa. Sumbernya ditu
 
 ## 1. Persiapan
 
-1. **Ambil kosakata bab dari** `kosakata/kosakata-bab-01-25.md`, bagian `## Bab N` (kolom No, Hiragana, Kanji, Arti). Daftar ini sudah dibersihkan dari salah kanji, bacaan, dan arti. PDF scan lama sudah dihapus dari repo.
-2. **Jika masih menemukan kesalahan di daftar**, laporkan ke pengguna. Setelah disetujui, perbaiki `kosakata/kosakata-bab-01-25.md`, catat di `kosakata/catatan-koreksi.md`, lalu buat ulang PDF-nya: `NODE_PATH=$(npm root -g) node kosakata/build-pdf.js kosakata/kosakata-bab-01-25.md`.
-3. **Cek cakupan bunpou** di `materi-minna-no-nihonggo.md` dan di skrip bab terkait (`materi/script-bab-NN-senin.md`). Dari skrip itu, cari tahu pola apa yang baru diajarkan hari itu dan pola lama apa yang sudah dikuasai siswa.
+1. **Ambil kosakata bab** dari bagian `## Bab N` di daftar kosakata (kolom No, Hiragana, Kanji, Arti):
+   - Bab 1–25: `kosakata/kosakata-bab-01-25.md`. Daftar ini sudah dibersihkan dari salah kanji, bacaan, dan arti. PDF scan lama sudah dihapus dari repo.
+   - Bab 26–50: `kosakata/kosakata-bab-26-50.md`, disalin dari buku terjemahan edisi ke-2. Kolom **Ket.** membantu memilih kata: kata bertanda nama diri (※) tidak ditanyakan sebagai kosakata. Kata terkait (*) dan kata dari Bacaan boleh dipakai, tetapi utamakan kosakata utama dan Percakapan.
+2. **Jika masih menemukan kesalahan di daftar**, laporkan ke pengguna. Setelah disetujui, perbaiki daftar yang bersangkutan, catat di `kosakata/catatan-koreksi.md`, lalu buat ulang PDF-nya, misalnya: `NODE_PATH=$(npm root -g) node kosakata/build-pdf.js kosakata/kosakata-bab-26-50.md`.
+3. **Cek cakupan bunpou** di peta materi (`materi-minna-no-nihonggo.md` untuk Bab 1–25, `materi-minna-no-nihonggo-2.md` untuk Bab 26–50) dan di skrip bab terkait (`materi/script-bab-NN-senin.md`). Dari skrip itu, cari tahu pola apa yang baru diajarkan hari itu dan pola lama apa yang sudah dikuasai siswa.
 
 ## 2. Aturan bahasa (berlaku untuk semua soal)
 
@@ -115,7 +117,7 @@ soal/bab-15/kanji/kunci-post-test-bab-15-kanji.md
 Folder lain mengikuti pola yang sama, misalnya `soal/evaluasi-bab-01-05/kanji/evaluasi-bab-01-05-kanji.md`.
 
 **Kata yang ditulis kanji**
-- Kosakata bab ini dan bab sebelumnya mengikuti **kolom Kanji di `kosakata/kosakata-bab-01-25.md`**. Kolom kosong berarti kata itu tetap ditulis kana. Kolom kanji di kunci versi hiragana boleh dipakai sebagai acuan cepat, tetapi daftar kosakata yang menentukan.
+- Kosakata bab ini dan bab sebelumnya mengikuti **kolom Kanji di daftar kosakata** (`kosakata/kosakata-bab-01-25.md` untuk Bab 1–25, `kosakata/kosakata-bab-26-50.md` untuk Bab 26–50). Kolom kosong berarti kata itu tetap ditulis kana. Jika kolom Kanji memuat dua pilihan (misalnya 見ます、診ます), pakai yang sesuai dengan arti di kalimat. Kolom kanji di kunci versi hiragana boleh dipakai sebagai acuan cepat, tetapi daftar kosakata yang menentukan.
 - Kata yang tidak ada di daftar kosakata mengikuti penulisan baku Minna no Nihongo.
 - Tetap kana: partikel, okurigana, katakana, kosoado (これ, ここ, この), kata tanya selain 何 (だれ, どこ, いつ, いくら, どう), salam dan ungkapan (すみません, ありがとう ございます), serta bagian pola seperti います, あります, ください, いい, いけません, ～さん.
 - Bilangan ditulis dengan angka Arab dan counter kanji, dengan furigana bacaan lengkap: `{3時|さんじ}`, `{100円|ひゃくえん}`.
@@ -142,5 +144,5 @@ Folder lain mengikuti pola yang sama, misalnya `soal/evaluasi-bab-01-05/kanji/ev
    ```bash
    perl -CSD -ne 's/\{[^{}|]+\|[^{}|]+\}//g; print "$.: $_" if /\p{sc=Han}/' soal/bab-15/kanji/tes-kotoba-bab-15-kanji.md
    ```
-3. Kanji sesuai kolom Kanji di `kosakata/kosakata-bab-01-25.md`, dan furigana sesuai bacaan di versi hiragana.
+3. Kanji sesuai kolom Kanji di daftar kosakata bab terkait, dan furigana sesuai bacaan di versi hiragana.
 4. Tidak ada `{` atau `|` yang tersisa di PDF. Furigana tampil di atas kanji dan tidak menabrak baris di atasnya.

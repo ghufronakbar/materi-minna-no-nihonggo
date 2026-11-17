@@ -2,7 +2,7 @@
 
 **Acuan yang disetujui:** `soal/evaluasi-bab-01-05/`, berisi lembar soal format JLPT dengan lembar jawaban di halaman terakhir, serta kuncinya.
 
-Evaluasi dibuat untuk setiap blok 5 bab: **1–5, 6–10, 11–15, 16–20, 21–25**. Tes harian per bab (`03-soal-guidelines.md`) mengecek hafalan dan pola satu bab. Evaluasi ini mengecek apakah siswa bisa memakai materi 5 bab sekaligus, dengan format seperti JLPT N5.
+Evaluasi dibuat untuk setiap blok 5 bab: **1–5, 6–10, 11–15, 16–20, 21–25** (buku I) dan **26–30, 31–35, 36–40, 41–45, 46–50** (buku II). Tes harian per bab (`03-soal-guidelines.md`) mengecek hafalan dan pola satu bab. Evaluasi ini mengecek apakah siswa bisa memakai materi 5 bab sekaligus, dengan format seperti JLPT N5 untuk buku I dan N4 untuk buku II. Komposisi dan aturannya sama untuk semua blok.
 
 ## 1. Komposisi: 50 soal × 2 = 100, waktu 60 menit
 
@@ -47,8 +47,13 @@ Semua soal pilihan ganda 1–4.
 | 11–15 | counter, kata benda/sifat lampau, perbandingan, ほしい／たい, ～に いきます (tujuan), bentuk て, てください, ています, てもいい／てはいけません |
 | 16–20 | ～て～て, てから, bentuk ない (ないでください, なければなりません), bentuk kamus (ことができます, しゅみは～こと, まえに), bentuk た (ことがあります, たり), なります, bentuk biasa |
 | 21–25 | と おもいます／いいました, でしょう, modifikasi kata benda, とき, と (kondisi), くれます, ～てあげます／もらいます／くれます, たら／ても |
+| 26–30 | ～んです, ～て いただけませんか, kata tanya＋～たら いいですか, bentuk potensial, みえます／きこえます, できます, しか～ません, ～ながら, ～し、～し, ～て います (keadaan, intransitif), ～て しまいました, ～て あります, ～て おきます |
+| 31–35 | bentuk maksud (～よう と おもって います), つもり, よてい, まだ～て いません, ～た／～ない ほうが いいです, でしょう (perkiraan), かもしれません, bentuk imperatif/larangan, ～と かいて あります, ～と いう いみ, ～と いって いました, とおりに, あとで, ～て／～ないで, bentuk ば, ～なら |
+| 36–40 | ～ように, ～ように なります／します, bentuk pasif, ～から／～で つくります, ～のは／～のが／～のを, ～て／～くて／～で (sebab), ～ので, kata tanya＋～か, ～か どうか, ～て みます, ～さ |
+| 41–45 | いただきます／くださいます／やります, ～て いただきます／くださいます／やります, ～て くださいませんか, ～ために, ～のに (kegunaan), ～に よって, ～そうです (kelihatannya), ～て きます, ～すぎます, ～やすい／にくい, ～く／～に します, ～に します, ～ばあいは, ～のに (padahal) |
+| 46–50 | ～ところです, ～た ばかりです, ～はずです, ～そうです (katanya), ～ようです, こえ／おと／におい／あじ が します, bentuk kausatif, ～させて いただけませんか, bahasa hormat (お～に なります, ～れます, kata kerja khusus), bahasa merendah (お～します, kata kerja khusus) |
 
-Cek ulang cakupannya di `materi-minna-no-nihonggo.md` dan `materi/script-bab-NN-senin.md` untuk setiap bab di blok.
+Cek ulang cakupannya di peta materi (`materi-minna-no-nihonggo.md` untuk Bab 1–25, `materi-minna-no-nihonggo-2.md` untuk Bab 26–50) dan `materi/script-bab-NN-senin.md` untuk setiap bab di blok. Kosakata blok diambil dari `kosakata/kosakata-bab-01-25.md` atau `kosakata/kosakata-bab-26-50.md`.
 
 ## 5. Struktur file
 

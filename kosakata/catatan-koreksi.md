@@ -145,3 +145,76 @@ Penyeragaman tanpa mengubah isi tidak dicatat satu per satu: tanda ～ untuk sem
 - Variansi penulisan yang benar tetapi berbeda dari buku: 1人／2人 (buku: 一人／二人) dan ～ヶ月 (buku: ～か月) di Bab 11, 付けます (buku: つけます) di Bab 14.
 - もちます（持ちます）dari Bab 14 buku Minna no Nihongo tidak ada di daftar ini.
 - てちょう (Bab 2) diartikan sama dengan ノート; bisa diperjelas menjadi "buku agenda, buku catatan saku".
+
+
+---
+
+# Catatan Koreksi Kosakata Bab 26–50
+
+`kosakata/kosakata-bab-26-50.md` disalin dari bagian *I. Kosa Kata* buku *Minna no Nihongo Shokyū II Edisi 2 — Terjemahan & Keterangan Tata Bahasa Versi Bahasa Indonesia*. Daftar kosakata `Kosakata_Minna_No_Nihongo_II_Bab_26-50.pdf` yang beredar **tidak dipakai**, karena isinya mengikuti edisi ke-1 (memuat 電報, ワープロ, NHK, dan sebagainya) dan banyak salah kanji, bacaan, serta arti.
+
+Isi buku disalin apa adanya. Penyeragaman berikut tidak dicatat satu per satu:
+
+- Tanda tempat angka yang dicetak － (misalnya －世紀, －号) ditulis ～, sama dengan daftar Bab 1–25.
+- Spasi antarkata dari buku dihapus di kolom Hiragana, Kanji, dan teks Jepang di dalam Arti.
+- Jika kolom kanji buku hanya berisi keterangan dalam kurung (misalnya ［雨が～］ untuk やみます), kata kerjanya ditambahkan dalam kana: やみます［雨が～］.
+- Kurung dan titik dua lebar di kolom Arti ditulis biasa; huruf miring ditulis tegak.
+
+Selain itu ada 36 koreksi, dibagi menjadi tiga kelompok berikut.
+
+## 1. Arti yang salah atau menyesatkan (14 perubahan)
+
+| Bab | No | Kolom | Di buku | Menjadi | Alasan |
+|---|---|---|---|---|---|
+| 26 | 6 | Arti | mendapat, mengambil | memungut | 拾います = memungut barang dari tanah atau lantai; "mendapat" menyesatkan. |
+| 26 | 31 | Arti | membereskan [barang] | [barang] menjadi beres, rapi | Arti di buku adalah arti transitif (片づけます, Bab 30); 片づきます intransitif. |
+| 26 | 33 | Arti | sampah organik | sampah yang bisa dibakar | 燃えるごみ = sampah yang dibakar; "organik" menyesatkan untuk aturan buang sampah di Jepang. |
+| 27 | 31 | Arti | kesukaan | sangat suka | 大好き［な］ kata sifat, bukan kata benda. |
+| 28 | 31 | Arti | aliran ～ | ahli ～, -wan (contoh: 小説家 = novelis) | ～家 menyatakan orang yang berkarya/berprofesi di bidang tertentu. |
+| 32 | 13 | Arti | mengikutsertakan [pertandingan] | ikut serta dalam [pertandingan] | "Mengikutsertakan" bermakna transitif; 出ます［試合に～］ berarti ikut bertanding. |
+| 33 | 40 | Arti | pelanggaran lalu lintas | pelanggaran parkir | 駐車違反 = pelanggaran parkir; percakapan Bab 33 membahas tilang parkir. |
+| 40 | 16 | Arti | mempresentasi | acara presentasi, pertunjukan hasil belajar | 発表会 kata benda (acara), bukan kata kerja. |
+| 40 | 30 | Arti | [～] botol | penerbangan [nomor ～] | －便 = nomor penerbangan (JL107便); "botol" adalah 瓶. |
+| 41 | 15 | Arti | ungkapan | pelafalan, pengucapan | 発音 = pelafalan; "ungkapan" adalah 表現. |
+| 42 | 2 | Arti | memasak | mendidihkan, memanaskan [air] | 沸かします = mendidihkan (air); "memasak" menyesatkan. |
+| 44 | 44 | Arti | itu | hal-hal ini (bentuk jamak dari これ) | これら berarti "ini" (jamak), bukan "itu". |
+| 44 | 45 | Arti | tidak menyenangkan | membawa sial, pertanda buruk | 縁起が悪い = membawa sial; bacaan Bab 44 membahas kata yang dihindari karena membawa sial. |
+| 45 | 14 | Arti | menikmati | menantikan dengan senang hati | 楽しみにしています = menantikan; "menikmati" keliru. |
+
+## 2. Salah ketik pada kolom Arti (17 perubahan)
+
+| Bab | No | Kolom | Di buku | Menjadi | Alasan |
+|---|---|---|---|---|---|
+| 28 | 44 | Arti | solanya/sebenarnya | soalnya/sebenarnya | Salah ketik. |
+| 29 | 33 | Arti | barang yang tertinggal ketinggalan | barang yang tertinggal, ketinggalan | Koma hilang. |
+| 37 | 34 | Arti | Daibutsu (patung Budha yang besar) | Daibutsu (patung Buddha yang besar) | Ejaan. |
+| 38 | 6 | Arti | power suply | power supply | Ejaan. |
+| 38 | 7 | Arti | power suply | power supply | Ejaan. |
+| 38 | 23 | Arti | power suply | power supply | Ejaan. |
+| 38 | 32 | Arti | Chiang mai (Thailan) | Chiang Mai (Thailand) | Ejaan. |
+| 38 | 34 | Arti | labolatorium | laboratorium | Ejaan. |
+| 41 | 3 | Arti | lebih mudah | lebih muda | Salah ketik. |
+| 41 | 38 | Arti | Ibu ～ Sdr. ～ | Ibu ～, Sdr. ～ | Koma hilang. |
+| 41 | 38 | Arti | untukmenyatakan | untuk menyatakan | Spasi hilang. |
+| 41 | 60 | Arti | cerita dongen | cerita dongeng | Salah ketik. |
+| 42 | 28 | Arti | khsus | khusus | Salah ketik. |
+| 43 | 19 | Arti | persisi | persis | Salah ketik. |
+| 45 | 11 | Arti | departmen pemadan | departemen pemadam | Salah ketik. |
+| 49 | 14 | Arti | istri orang ialn | istri orang lain | Salah ketik. |
+| 50 | 10 | Arti | menyiram air panas dari membuat cairan | menyiram air panas dan membuat cairan | Salah ketik. |
+
+## 3. Keterangan pemakaian yang diseragamkan (5 perubahan)
+
+| Bab | No | Kolom | Di buku | Menjadi | Alasan |
+|---|---|---|---|---|---|
+| 32 | 13 | Kanji | 出ます［試合に～］ | 出ます［試合に～］、［パーティーに～］ | Disamakan dengan kolom Hiragana (dua keterangan). |
+| 46 | 8 | Hiragana | やけます［パンが～］［にくが～］ | やけます［パンが～］、［にくが～］ | Pemisah dua keterangan diseragamkan. |
+| 46 | 8 | Kanji | 焼けます［肉が～］ | 焼けます［パンが～］、［肉が～］ | Disamakan dengan kolom Hiragana (dua keterangan). |
+| 47 | 6 | Hiragana | します［おと／こえが～］［あじが～］［においが～］ | します［おと／こえが～］、［あじが～］、［においが～］ | Pemisah dua keterangan diseragamkan. |
+| 47 | 6 | Kanji | します［音／声が～］［味が～］ | します［音／声が～］、［味が～］、［においが～］ | Disamakan dengan kolom Hiragana (tiga keterangan). |
+
+## 4. Belum diubah (bisa dipertimbangkan)
+
+- Kolom kanji buku yang tidak memuat keterangan dalam kurung padahal kolom kana memuatnya, misalnya 売れます (Bab 28), 倒れます (Bab 39), 合います (Bab 40), 掛けます (Bab 49). Dibiarkan seperti buku.
+- Kata yang di buku ditulis kana walaupun punya kanji umum, misalnya はります (Bab 30), しかります (Bab 37), まちがい (Bab 40). Kolom Kanji dibiarkan kosong seperti buku.
+- Kata yang muncul di dua bab, seperti せわをします (Bab 47 〈読み物〉 dan Bab 48), dibiarkan karena buku mencantumkannya dua kali.

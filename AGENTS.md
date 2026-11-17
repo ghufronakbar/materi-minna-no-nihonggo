@@ -7,7 +7,10 @@
 3. `02-script-guidelines.md` — format, tingkat keringkasan, dan cara menyusun skrip.
 4. `materi/contoh-script-bab-14-senin-ringkas.md` — **patokan format yang sudah disetujui pengguna**.
 5. `contoh-kasar.md` — cuplikan gaya interaksi yang diinginkan.
-6. `materi-minna-no-nihonggo.md` dan kosakata bab terkait di `kosakata/kosakata-bab-01-25.md` — cakupan materi serta batas bahasa siswa. Daftar ini sudah dibersihkan dari salah kanji, bacaan, dan arti (lihat `kosakata/catatan-koreksi.md`). PDF scan lama sudah dihapus dari repo.
+6. Peta materi dan kosakata bab terkait — cakupan materi serta batas bahasa siswa:
+   - **Bab 1–25:** `materi-minna-no-nihonggo.md` dan `kosakata/kosakata-bab-01-25.md`. Daftar ini sudah dibersihkan dari salah kanji, bacaan, dan arti. PDF scan lama sudah dihapus dari repo.
+   - **Bab 26–50:** `materi-minna-no-nihonggo-2.md` dan `kosakata/kosakata-bab-26-50.md`, disalin dari buku terjemahan bahasa Indonesia *Minna no Nihongo II* edisi ke-2. Kolom **Ket.** mencantumkan grup kata kerja, kata terkait (*), nama diri (※), dan asal kata (Percakapan/Bacaan).
+   - Koreksi kedua daftar dicatat di `kosakata/catatan-koreksi.md`. Bab 1–25 dan Bab 26–50 punya file sendiri-sendiri; pilih file sesuai nomor bab, dan untuk recall dari buku I buka daftar Bab 1–25.
 7. `dasar/` — pegangan hafalan sensei (bilangan, jam, tanggal, counter, partikel, perubahan bentuk, dll.). Rujuk untuk mengecek bacaan dan bentuk dasar; jangan salin ulang tabelnya ke skrip.
 
 Skill `/buat-skrip <bab>` menjalankan alur pembuatan skrip Senin penuh untuk satu bab dari awal sampai file di `materi/` jadi.
@@ -16,7 +19,7 @@ Skill `/buat-skrip <bab>` menjalankan alur pembuatan skrip Senin penuh untuk sat
 
 Untuk tes kotoba, post test, dan kunci jawaban per bab, ikuti `03-soal-guidelines.md`, dengan `soal/bab-15/` sebagai patokan format. Skill `/buat-soal <bab>` menjalankan alur ini dari awal sampai PDF jadi. Versi kanji dari soal yang sama (dengan furigana) dibuat dengan `/buat-soal-kanji <bab>`, mengikuti bagian 8 panduan tersebut.
 
-Untuk evaluasi gabungan per 5 bab (format JLPT, semua pilihan ganda, termasuk soal ★), ikuti `04-evaluasi-guidelines.md`, dengan `soal/evaluasi-bab-01-05/` sebagai patokan format. Skill `/buat-evaluasi <blok>` menjalankan alur ini dari awal sampai PDF jadi.
+Untuk evaluasi gabungan per 5 bab (format JLPT, semua pilihan ganda, termasuk soal ★; Bab 1–25 setara N5, Bab 26–50 setara N4), ikuti `04-evaluasi-guidelines.md`, dengan `soal/evaluasi-bab-01-05/` sebagai patokan format. Skill `/buat-evaluasi <blok>` menjalankan alur ini dari awal sampai PDF jadi.
 
 ## Hal yang harus dipertahankan
 

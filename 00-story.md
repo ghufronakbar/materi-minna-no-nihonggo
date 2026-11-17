@@ -2,7 +2,7 @@
 
 Saya ditugaskan mengajar siswa program **SMK Go Global selama dua bulan** di **LPK Saitama**. Kemampuan bahasa Jepang saya sekitar N3 dan sedang mengejar N2. Siswa berjumlah kurang lebih 20 orang.
 
-Pegangan pembelajaran adalah **Minna no Nihongo I, Bab 1–25**. Peta materinya ada di `materi-minna-no-nihonggo.md`, sedangkan aturan kelas dan jadwal ada di `01-teaching-rules.md`.
+Pegangan pembelajaran adalah **Minna no Nihongo I, Bab 1–25**, dilanjutkan dengan **Minna no Nihongo II edisi ke-2, Bab 26–50**. Peta materinya ada di `materi-minna-no-nihonggo.md` (Bab 1–25) dan `materi-minna-no-nihonggo-2.md` (Bab 26–50), sedangkan aturan kelas dan jadwal ada di `01-teaching-rules.md`.
 
 ## Hasil yang ingin dibuat
 

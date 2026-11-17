@@ -2,6 +2,8 @@
 
 Berikut **peta materi seluruh Bab 1–25 buku *Minna no Nihongo Shokyū I*（みんなの日本語 初級Ⅰ）**, menggunakan **edisi ke-2** sebagai acuan. Tema dirangkum dalam bahasa Indonesia berdasarkan daftar isi dan silabus penerbit 3A Network. [スリーエーネットワーク](https://www.3anet.co.jp/np/books/2300/?utm_source=chatgpt.com)
 
+Lanjutan Bab 26–50 (*Minna no Nihongo II*) ada di `materi-minna-no-nihonggo-2.md`.
+
 Dokumen ini menjadi acuan **cakupan materi dan pemilihan bekal recall**. Tata cara mengajar mengikuti `01-teaching-rules.md`, format mengikuti `02-script-guidelines.md`, dan patokannya adalah `materi/contoh-script-bab-14-senin-ringkas.md`. Rumus pada tabel ini adalah referensi guru, bukan materi untuk ditampilkan langsung di awal kelas.
 
 ## Memilih materi untuk recall
