@@ -178,6 +178,8 @@ Bacalah teks berikut. Apa yang tepat untuk （３６）–（４０）? Pilih sa
 
 <div style="break-before: page"></div>
 
+<div class="rapat">
+
 ## もんだい６　Membaca
 
 Bacalah teks berikut, lalu jawab pertanyaannya. Pilih satu dari １・２・３・４.
@@ -207,8 +209,6 @@ Bacalah teks berikut, lalu jawab pertanyaannya. Pilih satu dari １・２・３�
     ３　{兄|あに}　は　{経済|けいざい}　を　{研究|けんきゅう}して　います。  
     ４　{妹|いもうと}　は　{大学|だいがく}　の　{学生|がくせい}　です。
 
-<div style="break-before: page"></div>
-
 **(3)**
 
 > きょう　は　{雨|あめ}　が　{降|ふ}って　います。{家族|かぞく}　は　うち　に　います。  
@@ -223,6 +223,8 @@ Bacalah teks berikut, lalu jawab pertanyaannya. Pilih satu dari １・２・３�
     ２　テレビ　を　{見|み}て　います。  
     ３　{晩|ばん}ごはん　を　{作|つく}って　います。  
     ４　{寝|ね}て　います。
+
+</div>
 
 <div style="break-before: page"></div>
 
