@@ -40,6 +40,8 @@ Kata apa yang tepat untuk （　　）? Pilih satu dari １・２・３・４.
 10. {兄|あに}　は　まだ　{結婚|けっこん}　して　いません。（　　）　です。  
     １　{歌手|かしゅ}　　２　{弁護士|べんごし}　　３　{独身|どくしん}　　４　{歯医者|はいしゃ}
 
+<div style="break-before: page"></div>
+
 ## もんだい２　Kalimat yang Artinya Sama
 
 Pilih kalimat yang artinya paling dekat dengan kalimat yang bergaris bawah.
@@ -74,6 +76,8 @@ Pilih kalimat yang artinya paling dekat dengan kalimat yang bergaris bawah.
     ３　ミラーさん　は　IMC　で　{研究|けんきゅう}して　います。  
     ４　ミラーさん　は　IMC　で　{働|はたら}いて　います。
 
+<div style="break-before: page"></div>
+
 ## もんだい３　Bunpou
 
 Apa yang tepat untuk （　　）? Pilih satu dari １・２・３・４.
@@ -104,6 +108,8 @@ Apa yang tepat untuk （　　）? Pilih satu dari １・２・３・４.
 23. デパート　へ　{靴|くつ}　を　（　　）　に　{行|い}きます。  
     １　{買|か}い　　２　{買|か}います　　３　{買|か}って　　４　{買|か}いたい
 
+<div style="break-before: page"></div>
+
 24. A：きのう　（　　）　へ　{行|い}きました　か。  
     B：はい、{神戸|こうべ}　へ　{行|い}きました。  
     １　どこ　　２　どこも　　３　{何|なに}か　　４　どこか
@@ -128,6 +134,8 @@ Apa yang tepat untuk （　　）? Pilih satu dari １・２・３・４.
     B：いいえ、（　　）。  
     １　{知|し}って　いません　　２　{知|し}りませんでした　　３　{知|し}りません　　４　{知|し}って　いました
 
+<div style="break-before: page"></div>
+
 ## もんだい４　Mengurutkan Kata (★)
 
 Urutkan pilihan １–４ menjadi kalimat yang benar, lalu pilih kata yang masuk ke tempat **★**.
@@ -147,6 +155,8 @@ Urutkan pilihan １–４ menjadi kalimat yang benar, lalu pilih kata yang masuk
 35. {私|わたし}　は　＿＿＿＿　＿＿＿＿　＿★＿　＿＿＿＿。  
     １　います　　２　{知|し}って　　３　{妹|いもうと}　を　　４　ミラーさん　の
 
+<div style="break-before: page"></div>
+
 ## もんだい５　Bunpou dalam Teks
 
 Bacalah teks berikut. Apa yang tepat untuk （３６）–（４０）? Pilih satu dari １・２・３・４.
@@ -163,6 +173,8 @@ Bacalah teks berikut. Apa yang tepat untuk （３６）–（４０）? Pilih sa
 38. （３８）　１　{遊|あそ}んで　　２　{遊|あそ}ぶ　　３　{遊|あそ}び　　４　{遊|あそ}って
 39. （３９）　１　だい　　２　にん　　３　かい　　４　まい
 40. （４０）　１　{疲|つか}れ　　２　{疲|つか}れて　　３　{疲|つか}れたく　　４　{疲|つか}れました
+
+<div style="break-before: page"></div>
 
 ## もんだい６　Membaca
 
@@ -193,6 +205,8 @@ Bacalah teks berikut, lalu jawab pertanyaannya. Pilih satu dari １・２・３�
     ３　{兄|あに}　は　{経済|けいざい}　を　{研究|けんきゅう}して　います。  
     ４　{妹|いもうと}　は　{大学|だいがく}　の　{学生|がくせい}　です。
 
+<div style="break-before: page"></div>
+
 **(3)**
 
 > きょう　は　{雨|あめ}　が　{降|ふ}って　います。{家族|かぞく}　は　うち　に　います。  
@@ -207,6 +221,8 @@ Bacalah teks berikut, lalu jawab pertanyaannya. Pilih satu dari １・２・３�
     ２　テレビ　を　{見|み}て　います。  
     ３　{晩|ばん}ごはん　を　{作|つく}って　います。  
     ４　{寝|ね}て　います。
+
+<div style="break-before: page"></div>
 
 ## もんだい７　Mencari Informasi
 

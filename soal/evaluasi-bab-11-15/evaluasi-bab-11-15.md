@@ -40,6 +40,8 @@ Kata apa yang tepat untuk （　　）? Pilih satu dari １・２・３・４.
 10. あに　は　まだ　けっこん　して　いません。（　　）　です。  
     １　かしゅ　　２　べんごし　　３　どくしん　　４　はいしゃ
 
+<div style="break-before: page"></div>
+
 ## もんだい２　Kalimat yang Artinya Sama
 
 Pilih kalimat yang artinya paling dekat dengan kalimat yang bergaris bawah.
@@ -74,6 +76,8 @@ Pilih kalimat yang artinya paling dekat dengan kalimat yang bergaris bawah.
     ３　ミラーさん　は　IMC　で　けんきゅうして　います。  
     ４　ミラーさん　は　IMC　で　はたらいて　います。
 
+<div style="break-before: page"></div>
+
 ## もんだい３　Bunpou
 
 Apa yang tepat untuk （　　）? Pilih satu dari １・２・３・４.
@@ -104,6 +108,8 @@ Apa yang tepat untuk （　　）? Pilih satu dari １・２・３・４.
 23. デパート　へ　くつ　を　（　　）　に　いきます。  
     １　かい　　２　かいます　　３　かって　　４　かいたい
 
+<div style="break-before: page"></div>
+
 24. A：きのう　（　　）　へ　いきました　か。  
     B：はい、こうべ　へ　いきました。  
     １　どこ　　２　どこも　　３　なにか　　４　どこか
@@ -128,6 +134,8 @@ Apa yang tepat untuk （　　）? Pilih satu dari １・２・３・４.
     B：いいえ、（　　）。  
     １　しって　いません　　２　しりませんでした　　３　しりません　　４　しって　いました
 
+<div style="break-before: page"></div>
+
 ## もんだい４　Mengurutkan Kata (★)
 
 Urutkan pilihan １–４ menjadi kalimat yang benar, lalu pilih kata yang masuk ke tempat **★**.
@@ -146,6 +154,8 @@ Urutkan pilihan １–４ menjadi kalimat yang benar, lalu pilih kata yang masuk
 
 35. わたし　は　＿＿＿＿　＿＿＿＿　＿★＿　＿＿＿＿。  
     １　います　　２　しって　　３　いもうと　を　　４　ミラーさん　の
+
+<div style="break-before: page"></div>
 
 ## もんだい５　Bunpou dalam Teks
 
