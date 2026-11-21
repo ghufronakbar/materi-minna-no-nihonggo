@@ -56,3 +56,10 @@ blockquote p { margin: 0; }
 /* Furigana (versi kanji): baris ber-ruby diberi jarak lebih supaya tidak menabrak baris atas */
 rt { font-size: 0.5em; }
 p:has(ruby), li:has(ruby), td:has(ruby), .kotak-kata:has(ruby) { line-height: 2.1; }
+
+/* Bagian yang harus muat satu halaman (mis. もんだい３ evaluasi yang soalnya panjang):
+   bungkus dengan <div class="rapat"> ... </div>. Ukuran huruf dan margin halaman tetap;
+   hanya jarak antarbaris dan antarsoal yang dirapatkan. */
+.rapat { line-height: 1.5; }
+.rapat li { margin-bottom: 4pt; }
+.rapat li:has(ruby), .rapat p:has(ruby) { line-height: 1.6; }

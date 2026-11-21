@@ -78,6 +78,8 @@ Pilih kalimat yang artinya paling dekat dengan kalimat yang bergaris bawah.
 
 <div style="break-before: page"></div>
 
+<div class="rapat">
+
 ## もんだい３　Bunpou
 
 Apa yang tepat untuk （　　）? Pilih satu dari １・２・３・４.
@@ -108,8 +110,6 @@ Apa yang tepat untuk （　　）? Pilih satu dari １・２・３・４.
 23. デパート　へ　くつ　を　（　　）　に　いきます。  
     １　かい　　２　かいます　　３　かって　　４　かいたい
 
-<div style="break-before: page"></div>
-
 24. A：きのう　（　　）　へ　いきました　か。  
     B：はい、こうべ　へ　いきました。  
     １　どこ　　２　どこも　　３　なにか　　４　どこか
@@ -133,6 +133,8 @@ Apa yang tepat untuk （　　）? Pilih satu dari １・２・３・４.
 30. A：カリナさん　の　じゅうしょ　を　しって　います　か。  
     B：いいえ、（　　）。  
     １　しって　いません　　２　しりませんでした　　３　しりません　　４　しって　いました
+
+</div>
 
 <div style="break-before: page"></div>
 
