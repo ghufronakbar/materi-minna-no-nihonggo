@@ -68,6 +68,7 @@ soal/evaluasi-bab-AA-BB/
 - Kop Nama/Tanggal/Nilai, lalu baris waktu dan petunjuk lembar jawaban.
 - Teks bacaan ditulis sebagai blockquote (`>`), yang di PDF tampil dalam kotak. Papan informasi berupa tabel di dalam blockquote; buat dua pasang kolom supaya ringkas.
 - Sisipkan `<div style="break-before: page"></div>` sebelum もんだい７ dan sebelum lembar jawaban. Tambahkan pemisah lain hanya jika ada もんだい yang terbelah.
+- Jika sebuah もんだい sedikit melebihi satu halaman, jangan langsung membaginya. Bungkus dulu dengan `<div class="rapat">` … `</div>` (beri baris kosong setelah tag pembuka dan sebelum tag penutup). Kelas ini merapatkan jarak antarbaris dan antarsoal tanpa mengubah ukuran huruf. Pemisah halaman tetap diletakkan sebelum `<div class="rapat">`. Contohnya もんだい３ di `soal/evaluasi-bab-11-15/`. Bagi ke dua halaman hanya jika masih tidak muat.
 - Lembar jawaban berupa tabel HTML `<table class="lembar-jawaban">` dengan 5 pasang kolom No／① ② ③ ④. Salin dari file acuan.
 - Target panjang: 5 halaman soal dan 1 halaman lembar jawaban.
 
